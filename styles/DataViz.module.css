@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Share+Tech+Mono&display=swap');
+
+.viz-title {
+  font-variation-settings: 'wght' 850;
+  font-size: 40px;
+  color: rgb(98, 98, 98);
+  font-family: 'JetBrains Mono';
+  font-weight: 800;
+  text-align: center;
+}
+
+.container {
+  margin: 1rem 0;
+  background-color: #fff;
+  margin-right: auto;
+  width: 95%;
+  padding: 10px;
+}
+  
+.dataviz-description {
+  color: #666;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+  
+.dataviz-visualization {
+  width: 100%;
+  max-height: 500px; 
+  overflow: auto; 
+}

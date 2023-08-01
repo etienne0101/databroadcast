@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Share+Tech+Mono&display=swap');
+
 @font-face {
   font-family: 'Inter var';
   font-style: normal;
@@ -15,7 +17,7 @@
 }
 
 body {
-  font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: 'JetBrains Mono', monospace, 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: subpixel-antialiased;
@@ -23,7 +25,7 @@ body {
     'cv03' 1, 'cv04' 1;
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.0em;
 }
 b,
 strong,
@@ -31,13 +33,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-variation-settings: 'wght' 650;
+  font-variation-settings: 'wght' 400;
 }
 h1 {
-  font-variation-settings: 'wght' 850;
+  font-variation-settings: 'wght' 800;
 }
 h2 {
-  font-variation-settings: 'wght' 750;
+  font-variation-settings: 'wght' 400;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
@@ -62,4 +64,17 @@ img.next-image {
 
 .nav-line .nav-link {
   color: #69778c;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.title {
+  text-align: center;
+  color: #333;
+  font-size: 2rem;
+  margin-top: 2rem;
 }
