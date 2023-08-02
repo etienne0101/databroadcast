@@ -1,12 +1,10 @@
 # Une carte des glaciers (exported 2023-08-01)
 
-# by Jura1, 2021-05-21
-
 # defaultView:Map{"hide":["?coor","?area_scale_km"], "layer": "?area_scale_km"}
 
 SELECT ?item ?itemLabel ?itemDescription ?coor ?area_sqkm ?area_scale_km
 {
- ?item wdt:P31/wdt:P279* wd:Q35666 . 
+ ?item wdt:P31/wdt:P279* wd:Q35666 .
     OPTIONAL { ?item wdt:P625 ?coor }
     OPTIONAL { ?item p:P2046 [ a wikibase:BestRank; psn:P2046/wikibase:quantityAmount ?area_sqm ] . 
               BIND( ROUND(?area_sqm/10000)/100 as ?area_sqkm)
@@ -14,3 +12,13 @@ SELECT ?item ?itemLabel ?itemDescription ?coor ?area_sqkm ?area_scale_km
              }  
  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
+
+# Add a field "export_date" (yyyy-mm-dd)
+
+# Test by changing this line (between two exports)
+
+"itemLabel":"Gergeti","itemDescription":"glacier in Georgia","coor":"Point(44.51888889 42.6975)","area_sqkm":11.0
+
+#To this
+
+"itemLabel":"Gergeti","itemDescription":"glacier in Georgia","coor":"Point(44.51888889 42.6975)","area_sqkm":10.0
