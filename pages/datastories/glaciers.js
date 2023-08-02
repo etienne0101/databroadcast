@@ -7,11 +7,21 @@ const MapGlaciers = dynamic(
   { ssr: false }  
 );
 
+const ChartAreaChange = dynamic(
+  () => import('../../components/viz/glaciers/ChartAreaChange'), 
+  { ssr: false }  
+);
+
 const GlaciersPage = () => {
   return (
-    <DataViz title="Glaciers" description="A map visualization of glaciers">
-      <MapGlaciers />
-    </DataViz>
+    <>
+      <DataViz title="Glaciers Map" description="A map visualization of glaciers">
+        <MapGlaciers />
+      </DataViz>
+      <DataViz title="Glaciers Chart" description="A chart visualization of glaciers area change">
+        <ChartAreaChange />
+      </DataViz>
+    </>
   );
 }
 
