@@ -14,7 +14,7 @@ const MapGlaciers = () => {
   }
 
   return (
-    <MapContainer center={[41.505, -0.09]} zoom={4} style={{ height: "100vh", width: "100%" }}>
+    <MapContainer center={[30.505, -0.09]} zoom={4} style={{ height: "100vh", width: "100%" }}>
       <TileLayer
         url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
