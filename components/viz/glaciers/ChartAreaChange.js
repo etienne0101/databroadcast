@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
-import glaciers from '../../../data/glaciers/glaciers-20230802.json';
+import glaciers from '../../../data/glaciers/glaciers-20230814.json';
 import glaciersPrev from '../../../data/glaciers/glaciers-20230801.json';
 
 const ChartAreaChange = () => {
@@ -17,7 +17,7 @@ const ChartAreaChange = () => {
         if (diff > 0) {
           data.push({
             name: glacier.itemLabel,
-            SizeChange: -parseFloat(diff.toFixed(2)), // negate the diff to make it negative
+            SizeChange: -parseFloat(diff.toFixed(2)),
             fill: '#bde0fe'
           });
         }
