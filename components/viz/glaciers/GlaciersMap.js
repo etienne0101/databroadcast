@@ -1,7 +1,7 @@
 import React from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import glaciers from '../../../data/glaciers/glaciers-20230802.json';
+import glaciers from '../../../data/glaciers/glaciers-20230814.json';
 import glaciersPrev from '../../../data/glaciers/glaciers-20230801.json';
 
 const MapGlaciers = () => {
