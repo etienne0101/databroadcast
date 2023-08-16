@@ -1,6 +1,6 @@
 import React from 'react';
 import dynamic from 'next/dynamic';
-import DataViz from '../../components/nav/Dataviz';
+import DataViz from '../../components/nav/DataViz';
 import artData from '../../data/vancouver-art/public-art.json';
 
 const ArtMap = dynamic(

@@ -1,6 +1,6 @@
 import React from 'react';
 import dynamic from 'next/dynamic';
-import DataViz from '../../components/nav/Dataviz';
+import DataViz from '../../components/nav/DataViz';
 
 const MapGlaciers = dynamic(
   () => import('../../components/viz/glaciers/GlaciersMap'), 
