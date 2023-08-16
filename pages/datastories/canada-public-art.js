@@ -14,9 +14,15 @@ const CanadaPublicArt = () => {
   return (
     <>
     <Layout>
-    <h1 className={styles.title}>Public Art in Canada</h1>
+    <h1 className={styles.title}>Public Art in Canadian cities</h1>
+    <p className={styles.paragraph}>
+      Here are some visualisations to see where and when public art where installed in some canadian cities.
+      <br></br>
+      <br></br>
+    <i>For now I only tried with Vancouver.</i>
+    </p>
       <DataViz
-        title="Vancouver"
+        title="#Vancouver"
         description="Public art in Vancouver according to year of installation"
         dataLink="https://opendata.vancouver.ca/explore/dataset/public-art/information/"
       >
