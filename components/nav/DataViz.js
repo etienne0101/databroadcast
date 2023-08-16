@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from '../../styles/DataViz.module.css';
 
-const DataViz = ({ title, description, children }) => {
+const DataViz = ({ title, description, dataLink, children }) => {
   return (
     <div className={styles['parent-container']}>
       <div className={styles.container}>
@@ -11,14 +11,20 @@ const DataViz = ({ title, description, children }) => {
         <div className={styles['dataviz-visualization']}>
           {children}
         </div>
+        {dataLink && (
+          <a className={styles['data-link']} href={dataLink} target="_blank" rel="noopener noreferrer">
+            View Data Source
+          </a>
+        )}
       </div>
     </div>
   );
-}
+};
 
 DataViz.propTypes = {
   title: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
+  dataLink: PropTypes.string, // Optional prop for the data source link
   children: PropTypes.node.isRequired
 };
 

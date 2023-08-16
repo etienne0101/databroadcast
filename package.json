@@ -26,5 +26,10 @@
     "tabWidth": 2,
     "trailingComma": "none",
     "semi": false
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^13.4.16",
+    "@svgr/webpack": "^8.1.0",
+    "raw-loader": "^4.0.2"
   }
 }
