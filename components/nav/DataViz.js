@@ -13,7 +13,7 @@ const DataViz = ({ title, description, dataLink, children }) => {
         </div>
         {dataLink && (
           <a className={styles['data-link']} href={dataLink} target="_blank" rel="noopener noreferrer">
-            View Data Source
+            📁 View Data Source
           </a>
         )}
       </div>
@@ -24,7 +24,7 @@ const DataViz = ({ title, description, dataLink, children }) => {
 DataViz.propTypes = {
   title: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
-  dataLink: PropTypes.string, // Optional prop for the data source link
+  dataLink: PropTypes.string,
   children: PropTypes.node.isRequired
 };
 

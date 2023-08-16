@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
             <header className={styles.header}>
                 <Link href="/">
                     <a>
-                        <img src="/images/logos/databroadcast.jpeg" alt="Website Logo" className={styles.logo} />
+                        <img src="/images/logos/databroadcast-small.png" alt="Website Logo" className={styles.logo} />
                     </a>
                 </Link>
                 <nav>
