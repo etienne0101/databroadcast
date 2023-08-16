@@ -59,7 +59,7 @@ const CustomizedBar = (props) => {
 
     return (
         <BarChart 
-            width={data.length * 10} 
+            width={data.length * 9} 
             height={150} 
             data={data}
             margin={{ top: 2, right: 0, left: 0, bottom: 2 }}
