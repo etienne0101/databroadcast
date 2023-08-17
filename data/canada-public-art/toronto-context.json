@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "year": "1967",
+        "context_title": "High Park sculptures",
+        "context_description": "The sculptures were commissioned and placed around the area for a 1967 international symposium",
+        "context_url":"https://news.google.com/newspapers?id=QllAAAAAIBAJ&dq=high-park%20sculptures&pg=1111%2C1656985"
+      },
+      {
+        "year": "1995",
+        "context_title": "Simcoe Park",
+        "context_description": "Serveral paintings and a mountain sculpture were installed near Simcoe Park",
+        "context_url":"https://en.wikipedia.org/wiki/2010_Winter_Olympics"
+      },
+      {
+        "year": "1997",
+        "context_title": "Spadina Avenue",
+        "context_description": "Several sculptures were installed along Spadina Avenue in 1997",
+        "context_url":"https://en.wikipedia.org/wiki/Spadina_Avenue"
+      }
+    ]
+  }
+  

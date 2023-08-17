@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Share+Tech+Mono&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=JetBrains+Mono:wght@400;800&display=swap');
+  
 .item {
-    margin: 10px 0; 
+    margin: 10px auto; /* This should center the block element if it has a defined width */
     border-radius: 10px; 
     overflow: hidden;
     background-color: white;
@@ -16,12 +16,17 @@
 }
 
 .itemtitle {
-    font-family: 'Share Tech Mono';
+    font-family: 'JetBrains Mono', monospace;
     font-weight: 800;
     font-size: 1.4rem; 
     padding: 0px 15px; 
 }
 
+@media (max-width: 600px) {
+    .itemtitle {
+        font-size: 1.2rem;
+    }
+}
 .itemdescription {
     padding: 0px 15px; 
     font-size: 1rem; 
@@ -35,6 +40,12 @@
     object-fit: cover;
     display: block;
     transition: opacity 0.3s ease;
+}
+
+@media (max-width: 600px) {
+    .item-image {
+        height: 200px;
+    }
 }
 
 .item:hover .item-image {
