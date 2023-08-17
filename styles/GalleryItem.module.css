@@ -1,5 +1,6 @@
-  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=JetBrains+Mono:wght@400;800&display=swap');
-  
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+
 .item {
     margin: 10px auto; /* This should center the block element if it has a defined width */
     border-radius: 10px; 
@@ -17,7 +18,7 @@
 
 .itemtitle {
     font-family: 'JetBrains Mono', monospace;
-    font-weight: 800;
+    font-variation-settings: 'wght' 800;
     font-size: 1.4rem; 
     padding: 0px 15px; 
 }
