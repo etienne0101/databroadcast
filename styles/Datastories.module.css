@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&display=swap');
 
 .datastorycontainer {
   max-width: 2000px;
@@ -13,7 +14,6 @@
   }
 }
 
-
 .title {
     font-size: 4rem; 
     font-family: 'JetBrains Mono', monospace;
@@ -21,7 +21,7 @@
     max-width: 60%;
     margin: 0 auto;
     margin-top: 20px;
-    margin-bottom: 20px; 
+    margin-bottom: 80px; 
     font-variation-settings: 'wght' 800;
     background: linear-gradient(to right, #ff397b, #ffba4c);
     -webkit-background-clip: text;
@@ -63,16 +63,20 @@
 .paragraph {
     max-width: 60%;  
     margin: 0 auto; 
-    font-family: 'JetBrains Mono', monospace;
-}
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+    color: #414141;
+    }
 
 .paragraph b, 
 .paragraph strong { 
-    font-weight: 800; 
+    font-weight: 900; 
 }
 
 .hint {
   width: fit-content; 
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
   max-width: 60%; 
   color: #ff397b;
   margin-left: 20%; 
@@ -160,4 +164,3 @@
   .learnMoreButton:hover {
     background-color: #ff397b; 
   }
-  

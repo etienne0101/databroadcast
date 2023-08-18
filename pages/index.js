@@ -3,13 +3,18 @@ import Link from 'next/link';
 import styles from '../styles/Home.module.css';
 
 const HomePage = () => {
-    // Sample data for the gallery
     const galleryData = [
         { 
             title: 'Public art in canadian cities', 
             description: 'Maps of public art and year of installation', 
             imagePath: './images/datastories/canada-public-art.jpeg',
             link: '/datastories/canada-public-art'  
+        },
+        { 
+            title: 'Exploring the Global Terrorism DataBase', 
+            description: 'Maps and charts or terrorist attacks since 1970', 
+            imagePath: './images/datastories/global-terrorism.jpeg',
+            link: '/datastories/global-terrorism'  
         },
     ];
 

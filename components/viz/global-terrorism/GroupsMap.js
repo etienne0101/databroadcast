@@ -4,6 +4,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';
 import styles from '../../../styles/datastories/GlobalTerrorism.module.css'
+import DecadesGroups from './DecadesGroups';
 
 import data1970 from '../../../data/global-terrorism/global-terrorism-1970.json';
 import data1971 from '../../../data/global-terrorism/global-terrorism-1971.json';
@@ -56,10 +57,22 @@ import data2018 from '../../../data/global-terrorism/global-terrorism-2018.json'
 import data2019 from '../../../data/global-terrorism/global-terrorism-2019.json';
 import data2020 from '../../../data/global-terrorism/global-terrorism-2020.json';
 
-const TerrorismMap = () => {
+const GroupsMap = () => {
     const [events, setEvents] = useState([]);
-    const [selectedYear, setSelectedYear] = useState(1970); // Initializing to 1970
-  
+    const [selectedGname, setSelectedGname] = useState(null); // New state
+
+    const handleGroupSelect = (gname) => {
+        setSelectedGname(gname);
+    };
+
+    useEffect(() => {
+        let allEvents = Object.values(yearToDataMap).flat();
+        if (selectedGname) {
+            allEvents = allEvents.filter(event => event.gname === selectedGname);
+        }
+        setEvents(allEvents);
+    }, [selectedGname]);
+
     const yearToDataMap = {
         1970: data1970,
         1971: data1971,
@@ -113,14 +126,7 @@ const TerrorismMap = () => {
         2020: data2020,
     };
     
-    useEffect(() => {
-        setEvents(yearToDataMap[selectedYear] || []);
-    }, [selectedYear]);
-    
-    const handleYearChange = (e) => {
-        const year = parseInt(e.target.value, 10);
-        setSelectedYear(year);
-    };
+
 
     const handleMapClick = (e) => {
         e.nativeEvent.stopImmediatePropagation();
@@ -185,24 +191,12 @@ const TerrorismMap = () => {
     
     return (
         <div style={{ position: 'relative', height: '100vh' }}>
-            <div style={{ position: 'absolute', top: 0, left: 0, right: 0, zIndex: 3000, padding: '20px' }}>
-            <p className={styles.yearText}>{selectedYear}</p>
-            <input
-                className={styles.rangeInput}
-                type="range"
-                min="1970"
-                max="2020"
-                value={selectedYear}
-                onChange={handleYearChange}
-                onMouseDown={e => e.stopPropagation()}
-                onMouseUp={e => e.stopPropagation()}
-            />
-            </div>
-            <div style={{ position: 'absolute', top: '10%', left: 0, right: 0, bottom: 0 }}>
+            <DecadesGroups onGroupSelect={handleGroupSelect} />
+            <div style={{ position: 'absolute', top: '25%', left: 0, right: 0, bottom: 0 }}>
                 <MapContainer 
                     center={[20, 0]} 
                     zoom={2} 
-                    style={{ width: '100%', height: '100%' }}
+                    style={{ width: '100%', height: '80vh' }}
                     onClick={e => e.originalEvent.stopPropagation()}
                     keyboard={false}
                 >
@@ -217,4 +211,4 @@ const TerrorismMap = () => {
     );
 };
 
-export default TerrorismMap;
+export default GroupsMap;
