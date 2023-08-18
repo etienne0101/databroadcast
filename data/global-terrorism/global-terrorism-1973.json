@@ -1,0 +1,3264 @@
+[
+  {
+    "eventid": 197300000001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197301010001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "55.068445",
+    "longitude": "-7.355583"
+  },
+  {
+    "eventid": 197301020001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "19.45",
+    "longitude": "-70.7"
+  },
+  {
+    "eventid": 197301020003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.595455",
+    "longitude": "-5.797763"
+  },
+  {
+    "eventid": 197301020004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197301040001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.892986",
+    "longitude": "-7.020812"
+  },
+  {
+    "eventid": 197301050001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197301060001,
+    "iyear": 1973,
+    "latitude": "8.312931",
+    "longitude": "-75.142561"
+  },
+  {
+    "eventid": 197301070001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197301070002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197301070003,
+    "nkill": 8,
+    "iyear": 1973,
+    "latitude": "29.954649",
+    "longitude": "-90.074975"
+  },
+  {
+    "eventid": 197301080001,
+    "iyear": 1973,
+    "latitude": "7.59417",
+    "longitude": "-74.8119"
+  },
+  {
+    "eventid": 197301080002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197301100001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "50.11797",
+    "longitude": "8.644191"
+  },
+  {
+    "eventid": 197301110001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "49.4447",
+    "longitude": "7.769004"
+  },
+  {
+    "eventid": 197301140001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.208174",
+    "longitude": "16.373819"
+  },
+  {
+    "eventid": 197301140003,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197301140004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.542956",
+    "longitude": "-6.926293"
+  },
+  {
+    "eventid": 197301160001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "42.815372",
+    "longitude": "-1.653616"
+  },
+  {
+    "eventid": 197301160002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197301170001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "43.627726",
+    "longitude": "10.291712"
+  },
+  {
+    "eventid": 197301170002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197301180001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197301180003,
+    "nkill": 7,
+    "iyear": 1973,
+    "latitude": "38.908642",
+    "longitude": "-77.015381"
+  },
+  {
+    "eventid": 197301180004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "38.26386",
+    "longitude": "-104.612374"
+  },
+  {
+    "eventid": 197301190001,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197301200001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "53.361675",
+    "longitude": "-6.245485"
+  },
+  {
+    "eventid": 197301220001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.68631",
+    "longitude": "-58.528473"
+  },
+  {
+    "eventid": 197301220002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "38.89086",
+    "longitude": "-90.183834"
+  },
+  {
+    "eventid": 197301230001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.527716",
+    "longitude": "-72.33284"
+  },
+  {
+    "eventid": 197301230002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "15.027339",
+    "longitude": "39.782691"
+  },
+  {
+    "eventid": 197301240001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "35.724533",
+    "longitude": "51.40519"
+  },
+  {
+    "eventid": 197301250001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197301250003,
+    "iyear": 1973,
+    "latitude": "38.011123",
+    "longitude": "46.455958"
+  },
+  {
+    "eventid": 197301260001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "40.465595",
+    "longitude": "-3.696263"
+  },
+  {
+    "eventid": 197301270001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "34.097866",
+    "longitude": "-118.407379"
+  },
+  {
+    "eventid": 197301270002,
+    "iyear": 1973,
+    "latitude": "35.724533",
+    "longitude": "51.40519"
+  },
+  {
+    "eventid": 197301270003,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197301280001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197301280002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197301290001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197301290002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197301300001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197301310002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197301310003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302010001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302010002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.819164",
+    "longitude": "-7.467909"
+  },
+  {
+    "eventid": 197302020001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197302020002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197302020003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302020004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302020005,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302030002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302030003,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302040001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302040002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302040003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302050001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197302050002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.463367",
+    "longitude": "-6.328597"
+  },
+  {
+    "eventid": 197302060001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302070001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302070002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302080001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.50853",
+    "longitude": "-6.763131"
+  },
+  {
+    "eventid": 197302090001,
+    "iyear": 1973,
+    "latitude": "31.950001",
+    "longitude": "35.933331"
+  },
+  {
+    "eventid": 197302090002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197302100001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.371772",
+    "longitude": "-5.555976"
+  },
+  {
+    "eventid": 197302140001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197302140002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302150001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197302170001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302180001,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197302180002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302190001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302200001,
+    "iyear": 1973,
+    "latitude": "43.18418",
+    "longitude": "-2.473289"
+  },
+  {
+    "eventid": 197302200002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197302200003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302200004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302210001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197302250001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197302270001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.479875",
+    "longitude": "-6.228448"
+  },
+  {
+    "eventid": 197302270002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "43.148513",
+    "longitude": "-102.371903"
+  },
+  {
+    "eventid": 197302280001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303010001,
+    "nkill": 3,
+    "iyear": 1973,
+    "latitude": "15.500747",
+    "longitude": "32.560083"
+  },
+  {
+    "eventid": 197303010002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303010003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303020001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197303020002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303020003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303030001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.59",
+    "longitude": "-7.61"
+  },
+  {
+    "eventid": 197303030003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197303040001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197303040003,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197303040004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303040005,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197303040006,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197303040007,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197303060004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197303060005,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303060006,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.081638",
+    "longitude": "-6.448779"
+  },
+  {
+    "eventid": 197303080001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197303080002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303080003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303100001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303120001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.386932",
+    "longitude": "-66.061127"
+  },
+  {
+    "eventid": 197303130001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.077313",
+    "longitude": "-6.608787"
+  },
+  {
+    "eventid": 197303150001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197303150002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197303150003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.684823",
+    "longitude": "-5.965868"
+  },
+  {
+    "eventid": 197303160001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303160002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303170001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.50853",
+    "longitude": "-6.763131"
+  },
+  {
+    "eventid": 197303190001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303200001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303210001,
+    "iyear": 1973,
+    "latitude": "50.11797",
+    "longitude": "8.644191"
+  },
+  {
+    "eventid": 197303210002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "50.11797",
+    "longitude": "8.644191"
+  },
+  {
+    "eventid": 197303220001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197303230001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "50.836426",
+    "longitude": "4.367415"
+  },
+  {
+    "eventid": 197303230002,
+    "nkill": 3,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303230003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.967423",
+    "longitude": "-59.205877"
+  },
+  {
+    "eventid": 197303270002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.462837",
+    "longitude": "-7.026944"
+  },
+  {
+    "eventid": 197303270003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197303280001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-32.951052",
+    "longitude": "-60.666365"
+  },
+  {
+    "eventid": 197303280002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-32.951052",
+    "longitude": "-60.666365"
+  },
+  {
+    "eventid": 197303280003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197303290001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.696105",
+    "longitude": "-74.268514"
+  },
+  {
+    "eventid": 197303290002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197303310001,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304020001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304020002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304030001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.456438",
+    "longitude": "-5.448951"
+  },
+  {
+    "eventid": 197304040001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197304040002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197304040003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197304050001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197304050003,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304050004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197304060001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197304070001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.192934",
+    "longitude": "-6.576051"
+  },
+  {
+    "eventid": 197304080001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304090001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "35.166718",
+    "longitude": "33.36757"
+  },
+  {
+    "eventid": 197304090002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197304090003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "35.166719",
+    "longitude": "33.367571"
+  },
+  {
+    "eventid": 197304090004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "35.16672",
+    "longitude": "33.367572"
+  },
+  {
+    "eventid": 197304100002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197304110001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197304120001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "44.106737",
+    "longitude": "9.829219"
+  },
+  {
+    "eventid": 197304140001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.550434",
+    "longitude": "35.370964"
+  },
+  {
+    "eventid": 197304140002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197304150001,
+    "iyear": 1973,
+    "latitude": "-34.68631",
+    "longitude": "-58.528473"
+  },
+  {
+    "eventid": 197304150002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197304160001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197304160002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.429566",
+    "longitude": "35.45704"
+  },
+  {
+    "eventid": 197304160003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "38.908642",
+    "longitude": "-77.015381"
+  },
+  {
+    "eventid": 197304170001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304210001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197304220001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197304230001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "50.11797",
+    "longitude": "8.644191"
+  },
+  {
+    "eventid": 197304240001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.386932",
+    "longitude": "-66.061127"
+  },
+  {
+    "eventid": 197304240002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.386932",
+    "longitude": "-66.061127"
+  },
+  {
+    "eventid": 197304240003,
+    "iyear": 1973,
+    "latitude": "-34.68631",
+    "longitude": "-58.528473"
+  },
+  {
+    "eventid": 197304250001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "35.281341",
+    "longitude": "139.6722"
+  },
+  {
+    "eventid": 197304260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304270001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197304270002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197304280001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197304290001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "13.69288",
+    "longitude": "-89.199161"
+  },
+  {
+    "eventid": 197304290002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197304290003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197304300001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197304300002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197304300003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197305010001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "40.465595",
+    "longitude": "-3.696263"
+  },
+  {
+    "eventid": 197305010002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "34.516895",
+    "longitude": "69.147011"
+  },
+  {
+    "eventid": 197305010003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197305010005,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-32.951052",
+    "longitude": "-60.666365"
+  },
+  {
+    "eventid": 197305010006,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197305020001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197305020002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197305020003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.684823",
+    "longitude": "-5.965868"
+  },
+  {
+    "eventid": 197305020004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197305040001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "20.673343",
+    "longitude": "-103.344177"
+  },
+  {
+    "eventid": 197305040002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.536706",
+    "longitude": "-6.70361"
+  },
+  {
+    "eventid": 197305050001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.59",
+    "longitude": "-7.61"
+  },
+  {
+    "eventid": 197305050002,
+    "nkill": 3,
+    "iyear": 1973,
+    "latitude": "54.077313",
+    "longitude": "-6.608787"
+  },
+  {
+    "eventid": 197305070001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197305070002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197305080001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197305090001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.456792",
+    "longitude": "-69.951164"
+  },
+  {
+    "eventid": 197305100001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.414416",
+    "longitude": "-6.976641"
+  },
+  {
+    "eventid": 197305110001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305130001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197305130002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305140001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.42071",
+    "longitude": "-6.443767"
+  },
+  {
+    "eventid": 197305170001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305170002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305170003,
+    "nkill": 5,
+    "iyear": 1973,
+    "latitude": "54.600305",
+    "longitude": "-7.298402"
+  },
+  {
+    "eventid": 197305180001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-23.550711",
+    "longitude": "-46.633475"
+  },
+  {
+    "eventid": 197305180002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197305180003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305180004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "9.3125",
+    "longitude": "-70.606944"
+  },
+  {
+    "eventid": 197305190001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "40.912456",
+    "longitude": "-73.838276"
+  },
+  {
+    "eventid": 197305190002,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197305190003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305200001,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197305210001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197305210002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197305230001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197305230002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197305230003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197305240001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197305240002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.06149",
+    "longitude": "-6.644365"
+  },
+  {
+    "eventid": 197305250001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "35.329197",
+    "longitude": "25.138667"
+  },
+  {
+    "eventid": 197305260002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305270001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305300001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "4.814278",
+    "longitude": "-75.694558"
+  },
+  {
+    "eventid": 197305310001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197305310002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306020001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "35.724533",
+    "longitude": "51.40519"
+  },
+  {
+    "eventid": 197306020002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306030001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306050001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197306050002,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197306050003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.345417",
+    "longitude": "-7.636355"
+  },
+  {
+    "eventid": 197306050004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.409928",
+    "longitude": "-7.172562"
+  },
+  {
+    "eventid": 197306060002,
+    "iyear": 1973,
+    "latitude": "49.4447",
+    "longitude": "7.769004"
+  },
+  {
+    "eventid": 197306090001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "52.50153",
+    "longitude": "13.401851"
+  },
+  {
+    "eventid": 197306100001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306100002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306120001,
+    "nkill": 6,
+    "iyear": 1973,
+    "latitude": "55.129345",
+    "longitude": "-6.663439"
+  },
+  {
+    "eventid": 197306150001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306160001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306170001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.671804",
+    "longitude": "-5.957181"
+  },
+  {
+    "eventid": 197306190002,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197306200002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197306210001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197306210002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.819164",
+    "longitude": "-7.467909"
+  },
+  {
+    "eventid": 197306210003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306250001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197306250002,
+    "nkill": 3,
+    "iyear": 1973,
+    "latitude": "54.600305",
+    "longitude": "-7.298402"
+  },
+  {
+    "eventid": 197306260001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.713382",
+    "longitude": "-6.216761"
+  },
+  {
+    "eventid": 197306260002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197306280001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197306280002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197306290001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307000001,
+    "iyear": 1973,
+    "latitude": "40.465595",
+    "longitude": "-3.696263"
+  },
+  {
+    "eventid": 197307000002,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197307000003,
+    "iyear": 1973,
+    "latitude": "39.470239",
+    "longitude": "-0.376805"
+  },
+  {
+    "eventid": 197307010001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "38.98637",
+    "longitude": "-77.096919"
+  },
+  {
+    "eventid": 197307010003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307040002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-11.967368",
+    "longitude": "-76.978462"
+  },
+  {
+    "eventid": 197307040003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307040004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197307050001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307060001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197307060002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307070001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.482917",
+    "longitude": "7.211808"
+  },
+  {
+    "eventid": 197307070002,
+    "iyear": 1973,
+    "latitude": "51.482917",
+    "longitude": "7.211808"
+  },
+  {
+    "eventid": 197307080001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.921295",
+    "longitude": "-57.954333"
+  },
+  {
+    "eventid": 197307120001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.192934",
+    "longitude": "-6.576051"
+  },
+  {
+    "eventid": 197307120002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307170001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307170002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.620693",
+    "longitude": "-6.211765"
+  },
+  {
+    "eventid": 197307180001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.409928",
+    "longitude": "-7.172562"
+  },
+  {
+    "eventid": 197307180002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197307200001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.347539",
+    "longitude": "-6.656108"
+  },
+  {
+    "eventid": 197307200002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.122472",
+    "longitude": "-6.388859"
+  },
+  {
+    "eventid": 197307200003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "52.370216",
+    "longitude": "4.895168"
+  },
+  {
+    "eventid": 197307210001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.208418",
+    "longitude": "-5.891745"
+  },
+  {
+    "eventid": 197307220001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-11.967368",
+    "longitude": "-76.978462"
+  },
+  {
+    "eventid": 197307220002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-11.967368",
+    "longitude": "-76.978462"
+  },
+  {
+    "eventid": 197307220003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197307240001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197307250001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-27.451632",
+    "longitude": "-58.986198"
+  },
+  {
+    "eventid": 197307250002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197307260001,
+    "iyear": 1973,
+    "latitude": "14.0833",
+    "longitude": "-87.2167"
+  },
+  {
+    "eventid": 197307270001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197307290001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "49.845939",
+    "longitude": "7.860205"
+  },
+  {
+    "eventid": 197308020001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "48.56214",
+    "longitude": "2.246488"
+  },
+  {
+    "eventid": 197308040001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "44.818611",
+    "longitude": "20.468056"
+  },
+  {
+    "eventid": 197308050001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "54.953947",
+    "longitude": "8.342259"
+  },
+  {
+    "eventid": 197308050002,
+    "nkill": 5,
+    "iyear": 1973,
+    "latitude": "37.99749",
+    "longitude": "23.762728"
+  },
+  {
+    "eventid": 197308050003,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.446614",
+    "longitude": "-6.690752"
+  },
+  {
+    "eventid": 197308090001,
+    "iyear": 1973,
+    "latitude": "53.553813",
+    "longitude": "9.991586"
+  },
+  {
+    "eventid": 197308090002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.70333",
+    "longitude": "-6.095585"
+  },
+  {
+    "eventid": 197308100001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197308110001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "54.72",
+    "longitude": "-7.613401"
+  },
+  {
+    "eventid": 197308110002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197308120001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-2.170832",
+    "longitude": "-79.922359"
+  },
+  {
+    "eventid": 197308150001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197308150002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197308150003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-43.532054",
+    "longitude": "172.636225"
+  },
+  {
+    "eventid": 197308150004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.347539",
+    "longitude": "-6.656108"
+  },
+  {
+    "eventid": 197308150005,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197308180001,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197308180002,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197308180003,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197308180004,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197308180005,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.42071",
+    "longitude": "-6.443767"
+  },
+  {
+    "eventid": 197308200001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.921295",
+    "longitude": "-57.954333"
+  },
+  {
+    "eventid": 197308200002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197308210001,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197308230001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.19404",
+    "longitude": "-6.144144"
+  },
+  {
+    "eventid": 197308230002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.347539",
+    "longitude": "-6.656108"
+  },
+  {
+    "eventid": 197308240001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197308250001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197308260001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197308270002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197308270003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "38.908642",
+    "longitude": "-77.015381"
+  },
+  {
+    "eventid": 197308280001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.921295",
+    "longitude": "-57.954333"
+  },
+  {
+    "eventid": 197308280002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "38.908642",
+    "longitude": "-77.015381"
+  },
+  {
+    "eventid": 197308280003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.347539",
+    "longitude": "-6.656108"
+  },
+  {
+    "eventid": 197308290001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "35.689125",
+    "longitude": "139.747742"
+  },
+  {
+    "eventid": 197308300001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.547617",
+    "longitude": "-7.81769"
+  },
+  {
+    "eventid": 197308300003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197309000001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197309000002,
+    "iyear": 1973,
+    "latitude": "40.465595",
+    "longitude": "-3.696263"
+  },
+  {
+    "eventid": 197309000003,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197309040001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "40.73197",
+    "longitude": "-74.174184"
+  },
+  {
+    "eventid": 197309050001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197309050002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.733244",
+    "longitude": "12.278939"
+  },
+  {
+    "eventid": 197309050003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.856644",
+    "longitude": "2.34233"
+  },
+  {
+    "eventid": 197309050004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.296399",
+    "longitude": "-7.871465"
+  },
+  {
+    "eventid": 197309060001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197309070001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "52.50153",
+    "longitude": "13.401851"
+  },
+  {
+    "eventid": 197309070002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.296399",
+    "longitude": "-7.871465"
+  },
+  {
+    "eventid": 197309080001,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197309100001,
+    "iyear": 1973,
+    "latitude": "48.139126",
+    "longitude": "11.580186"
+  },
+  {
+    "eventid": 197309100002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "44.49419",
+    "longitude": "11.346518"
+  },
+  {
+    "eventid": 197309110001,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "-15.415393",
+    "longitude": "28.284354"
+  },
+  {
+    "eventid": 197309110002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197309150001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.191261",
+    "longitude": "6.442066"
+  },
+  {
+    "eventid": 197309150002,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197309150003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.863117",
+    "longitude": "-6.278343"
+  },
+  {
+    "eventid": 197309160001,
+    "iyear": 1973,
+    "latitude": "47.36865",
+    "longitude": "8.539182"
+  },
+  {
+    "eventid": 197309160002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.515694",
+    "longitude": "-6.055724"
+  },
+  {
+    "eventid": 197309170001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-4.389166",
+    "longitude": "15.33762"
+  },
+  {
+    "eventid": 197309170002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "38.725299",
+    "longitude": "-9.150036"
+  },
+  {
+    "eventid": 197309180002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "40.528045",
+    "longitude": "-74.384629"
+  },
+  {
+    "eventid": 197309220001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197309230001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.685666",
+    "longitude": "9.015253"
+  },
+  {
+    "eventid": 197309240001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197309240002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.285507",
+    "longitude": "35.5001"
+  },
+  {
+    "eventid": 197309250001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "52.482961",
+    "longitude": "-1.893592"
+  },
+  {
+    "eventid": 197309250002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.673252",
+    "longitude": "-7.627484"
+  },
+  {
+    "eventid": 197309260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "29.951027",
+    "longitude": "-90.071422"
+  },
+  {
+    "eventid": 197309280001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197309280002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.456792",
+    "longitude": "-69.951164"
+  },
+  {
+    "eventid": 197309280003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197309280004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197309290001,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197309290002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.685666",
+    "longitude": "9.015253"
+  },
+  {
+    "eventid": 197310000001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.457935",
+    "longitude": "7.014828"
+  },
+  {
+    "eventid": 197310010001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-22.908278",
+    "longitude": "-43.197026"
+  },
+  {
+    "eventid": 197310010002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197310030001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197310030002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.463367",
+    "longitude": "-6.328597"
+  },
+  {
+    "eventid": 197310040001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197310040002,
+    "iyear": 1973,
+    "latitude": "52.372068",
+    "longitude": "9.735686"
+  },
+  {
+    "eventid": 197310040003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "52.372068",
+    "longitude": "9.735686"
+  },
+  {
+    "eventid": 197310050001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197310050002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "44.407062",
+    "longitude": "8.933989"
+  },
+  {
+    "eventid": 197310070001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "45.469212",
+    "longitude": "9.174508"
+  },
+  {
+    "eventid": 197310080001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197310080002,
+    "iyear": 1973,
+    "latitude": "48.798328",
+    "longitude": "2.309902"
+  },
+  {
+    "eventid": 197310080003,
+    "iyear": 1973,
+    "latitude": "51.457935",
+    "longitude": "7.014828"
+  },
+  {
+    "eventid": 197310080004,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197310090001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197310090002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197310090003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197310100001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "20.673343",
+    "longitude": "-103.344177"
+  },
+  {
+    "eventid": 197310100002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "20.673343",
+    "longitude": "-103.344177"
+  },
+  {
+    "eventid": 197310120001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.184008",
+    "longitude": "-7.360209"
+  },
+  {
+    "eventid": 197310140001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-32.951052",
+    "longitude": "-60.666365"
+  },
+  {
+    "eventid": 197310150001,
+    "iyear": 1973,
+    "latitude": "42.815372",
+    "longitude": "-1.653616"
+  },
+  {
+    "eventid": 197310160001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197310180001,
+    "nkill": 4,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197310180002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "40.699608",
+    "longitude": "-74.200894"
+  },
+  {
+    "eventid": 197310190001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "3.138943",
+    "longitude": "101.691315"
+  },
+  {
+    "eventid": 197310200002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197310220002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197310220003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197310260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197310280001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.347539",
+    "longitude": "-6.656108"
+  },
+  {
+    "eventid": 197310280002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.83279",
+    "longitude": "-7.481274"
+  },
+  {
+    "eventid": 197310290001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.351036",
+    "longitude": "-6.26702"
+  },
+  {
+    "eventid": 197310290002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.414416",
+    "longitude": "-6.976641"
+  },
+  {
+    "eventid": 197310290003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197311000001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "7.252404",
+    "longitude": "-74.74053"
+  },
+  {
+    "eventid": 197311010001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "18.386932",
+    "longitude": "-66.061127"
+  },
+  {
+    "eventid": 197311010002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311010003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311040001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "43.07295",
+    "longitude": "-89.386694"
+  },
+  {
+    "eventid": 197311060001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.791927",
+    "longitude": "-122.225906"
+  },
+  {
+    "eventid": 197311060002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "48.836582",
+    "longitude": "2.23914"
+  },
+  {
+    "eventid": 197311060003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.192934",
+    "longitude": "-6.576051"
+  },
+  {
+    "eventid": 197311070001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197311080001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311130001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311140001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311140002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197311150001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.077313",
+    "longitude": "-6.608787"
+  },
+  {
+    "eventid": 197311170001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197311170002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "52.50153",
+    "longitude": "13.401851"
+  },
+  {
+    "eventid": 197311180001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "49.45052",
+    "longitude": "11.08048"
+  },
+  {
+    "eventid": 197311180002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197311190001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "49.45052",
+    "longitude": "11.08048"
+  },
+  {
+    "eventid": 197311200001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "10.632808",
+    "longitude": "-71.632977"
+  },
+  {
+    "eventid": 197311210001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197311220001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197311230001,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197311240001,
+    "iyear": 1973,
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "eventid": 197311240002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.347539",
+    "longitude": "-6.656108"
+  },
+  {
+    "eventid": 197311240003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311250001,
+    "iyear": 1973,
+    "latitude": "43.054198",
+    "longitude": "-2.178116"
+  },
+  {
+    "eventid": 197311250002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197311250003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "33.888523",
+    "longitude": "35.503513"
+  },
+  {
+    "eventid": 197311250004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197311260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "20.673343",
+    "longitude": "-103.344177"
+  },
+  {
+    "eventid": 197311260002,
+    "iyear": 1973,
+    "latitude": "20.673343",
+    "longitude": "-103.344177"
+  },
+  {
+    "eventid": 197311260003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197311260004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "33.996195",
+    "longitude": "-85.978282"
+  },
+  {
+    "eventid": 197311270001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.536706",
+    "longitude": "-6.70361"
+  },
+  {
+    "eventid": 197311300001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197312000001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "47.237829",
+    "longitude": "6.024054"
+  },
+  {
+    "eventid": 197312010001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.463367",
+    "longitude": "-6.328597"
+  },
+  {
+    "eventid": 197312030001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.942843",
+    "longitude": "23.646916"
+  },
+  {
+    "eventid": 197312030002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "19.371887",
+    "longitude": "-99.086624"
+  },
+  {
+    "eventid": 197312030003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "40.697132",
+    "longitude": "-73.931351"
+  },
+  {
+    "eventid": 197312030004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "55.011562",
+    "longitude": "-7.312045"
+  },
+  {
+    "eventid": 197312040001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "52.50153",
+    "longitude": "13.401851"
+  },
+  {
+    "eventid": 197312040002,
+    "nkill": 2,
+    "iyear": 1973,
+    "latitude": "31.771599",
+    "longitude": "35.2034"
+  },
+  {
+    "eventid": 197312060001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197312080001,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197312080002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-33.366238",
+    "longitude": "-70.505302"
+  },
+  {
+    "eventid": 197312080003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197312100001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197312100002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.208418",
+    "longitude": "-5.891745"
+  },
+  {
+    "eventid": 197312110001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-31.399301",
+    "longitude": "-64.182129"
+  },
+  {
+    "eventid": 197312110002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312130001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312130002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312140001,
+    "nkill": 3,
+    "iyear": 1973,
+    "latitude": "43.296482",
+    "longitude": "5.36978"
+  },
+  {
+    "eventid": 197312150001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "10.482834",
+    "longitude": "-66.962128"
+  },
+  {
+    "eventid": 197312150002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.250039",
+    "longitude": "-6.703625"
+  },
+  {
+    "eventid": 197312150003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.794884",
+    "longitude": "-7.537385"
+  },
+  {
+    "eventid": 197312170001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197312170002,
+    "nkill": 30,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197312170003,
+    "nkill": 31,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197312180001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197312200001,
+    "nkill": 3,
+    "iyear": 1973,
+    "latitude": "40.465595",
+    "longitude": "-3.696263"
+  },
+  {
+    "eventid": 197312200002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197312200003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312200004,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312210001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.921295",
+    "longitude": "-57.954333"
+  },
+  {
+    "eventid": 197312210002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197312220001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197312220002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312220003,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312230001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "37.755363",
+    "longitude": "-122.443352"
+  },
+  {
+    "eventid": 197312260001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "52.50153",
+    "longitude": "13.401851"
+  },
+  {
+    "eventid": 197312260002,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.488506",
+    "longitude": "-6.070242"
+  },
+  {
+    "eventid": 197312280001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "-34.61768",
+    "longitude": "-58.444435"
+  },
+  {
+    "eventid": 197312280003,
+    "iyear": 1973,
+    "latitude": "50.11797",
+    "longitude": "8.644191"
+  },
+  {
+    "eventid": 197312290001,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  },
+  {
+    "eventid": 197312300001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "25.774591",
+    "longitude": "-80.214195"
+  },
+  {
+    "eventid": 197312310001,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "51.504387",
+    "longitude": "-0.140041"
+  },
+  {
+    "eventid": 197312310002,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "45.072731",
+    "longitude": "7.679541"
+  },
+  {
+    "eventid": 197312310003,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.400635",
+    "longitude": "2.150913"
+  },
+  {
+    "eventid": 197312310004,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "47.36865",
+    "longitude": "8.539182"
+  },
+  {
+    "eventid": 197312310005,
+    "nkill": 0,
+    "iyear": 1973,
+    "latitude": "41.890961",
+    "longitude": "12.490069"
+  },
+  {
+    "eventid": 197312310006,
+    "nkill": 1,
+    "iyear": 1973,
+    "latitude": "54.607712",
+    "longitude": "-5.95621"
+  }
+]
