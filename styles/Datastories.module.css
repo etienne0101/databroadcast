@@ -18,6 +18,8 @@
     font-size: 4rem; 
     font-family: 'JetBrains Mono', monospace;
     text-align: center;
+    max-width: 60%;
+    margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 20px; 
     font-variation-settings: 'wght' 800;
@@ -31,7 +33,9 @@
 .subtitle {
   font-size: 3rem; 
   font-family: 'JetBrains Mono', monospace;
-  text-align: center;
+  text-align: left;
+  margin: 0 auto;
+  max-width: 60%;
   margin-top: 20px;
   margin-bottom: 20px; 
   font-variation-settings: 'wght' 800;
