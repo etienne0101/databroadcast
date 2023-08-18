@@ -4,3924 +4,4491 @@
     "nkill": 0,
     "iyear": 1972,
     "latitude": "8.994269",
-    "longitude": "-79.518792"
+    "longitude": "-79.518792",
+    "gname": "Unknown"
   },
   {
     "eventid": 197200000002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "11.586558",
-    "longitude": "122.753716"
+    "longitude": "122.753716",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201000001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197201010001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "43.15",
-    "longitude": "-2.610278"
+    "longitude": "-2.610278",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197201030001,
     "iyear": 1972,
     "latitude": "-34.098808",
-    "longitude": "-59.032291"
+    "longitude": "-59.032291",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197201050001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201050002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "42.88544",
-    "longitude": "-78.878464"
+    "longitude": "-78.878464",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201060001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "32.715695",
-    "longitude": "-117.161719"
+    "longitude": "-117.161719",
+    "gname": "Secret Army Organization"
   },
   {
     "eventid": 197201070001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070007,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201070008,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197201120001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.684823",
-    "longitude": "-5.965868"
+    "longitude": "-5.965868",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "31.502407",
-    "longitude": "34.459743"
+    "longitude": "34.459743",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201170001,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201170002,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201170003,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201170004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201170005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197201170006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197201180001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201210001,
     "iyear": 1972,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Revolutionary Communist League (LCR) (Spain)"
   },
   {
     "eventid": 197201210002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.250039",
-    "longitude": "-6.703625"
+    "longitude": "-6.703625",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201220001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Unknown"
   },
   {
     "eventid": 197201260001,
     "iyear": 1972,
     "latitude": "48.208174",
-    "longitude": "16.373819"
+    "longitude": "16.373819",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197201260002,
     "nkill": 26,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197201260003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197201260004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197201260005,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197201260006,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.255696",
-    "longitude": "-5.948804"
+    "longitude": "-5.948804",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201270001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197201270002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201280001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197201310001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202010001,
     "nkill": 7,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202010002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202010003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197202010004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "32.302091",
-    "longitude": "-90.185366"
+    "longitude": "-90.185366",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197202010005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "34.06857",
-    "longitude": "-118.027606"
+    "longitude": "-118.027606",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197202020001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "2nd of June Movement"
   },
   {
     "eventid": 197202020002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "53.361675",
-    "longitude": "-6.245485"
+    "longitude": "-6.245485",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202020003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.577389",
-    "longitude": "-6.677339"
+    "longitude": "-6.677339",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202050001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-22.908278",
-    "longitude": "-43.197026"
+    "longitude": "-43.197026",
+    "gname": "Unknown"
   },
   {
     "eventid": 197202060001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.794294",
-    "longitude": "5.64916"
+    "longitude": "5.64916",
+    "gname": "Black September"
   },
   {
     "eventid": 197202060002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.250039",
-    "longitude": "-6.703625"
+    "longitude": "-6.703625",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197202080001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Black September"
   },
   {
     "eventid": 197202080002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Red Hand Commandos"
   },
   {
     "eventid": 197202080003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.347539",
-    "longitude": "-6.656108"
+    "longitude": "-6.656108",
+    "gname": "Unknown"
   },
   {
     "eventid": 197202100001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.131402",
-    "longitude": "-6.586387"
+    "longitude": "-6.586387",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.184008",
-    "longitude": "-7.360209"
+    "longitude": "-7.360209",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202160001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "42.991175",
-    "longitude": "-71.463089"
+    "longitude": "-71.463089",
+    "gname": "People's Liberation Army (United States)"
   },
   {
     "eventid": 197202160002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202160003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.479875",
-    "longitude": "-6.228448"
+    "longitude": "-6.228448",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202170001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202190001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "30.084629",
-    "longitude": "31.334314"
+    "longitude": "31.334314",
+    "gname": "Jordanian National Liberation Movement"
   },
   {
     "eventid": 197202210002,
     "nkill": 4,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202220001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Black September"
   },
   {
     "eventid": 197202220002,
     "nkill": 7,
     "iyear": 1972,
     "latitude": "51.248429",
-    "longitude": "-0.755979"
+    "longitude": "-0.755979",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202220003,
     "nkill": 7,
     "iyear": 1972,
     "latitude": "51.248429",
-    "longitude": "-0.755979"
+    "longitude": "-0.755979",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197202220004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "28.585836",
-    "longitude": "77.153336"
+    "longitude": "77.153336",
+    "gname": "Palestinians"
   },
   {
     "eventid": 197202280002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197202290001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197202290002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.183052",
-    "longitude": "-6.341388"
+    "longitude": "-6.341388",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203000001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Secret Cuban Government"
   },
   {
     "eventid": 197203000002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Secret Cuban Government"
   },
   {
     "eventid": 197203000003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Secret Cuban Government"
   },
   {
     "eventid": 197203010001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.365171",
-    "longitude": "-8.036373"
+    "longitude": "-8.036373",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203020001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197203030001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203040001,
     "iyear": 1972,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197203040002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197203040003,
     "iyear": 1972,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197203040004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203040005,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203040006,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197203060001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Unknown"
   },
   {
     "eventid": 197203060002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Unknown"
   },
   {
     "eventid": 197203080001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.293235",
-    "longitude": "-6.842351"
+    "longitude": "-6.842351",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203110001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197203120001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197203130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197203150001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.536706",
-    "longitude": "-6.70361"
+    "longitude": "-6.70361",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203150002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197203160002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197203190001,
     "iyear": 1972,
     "latitude": "41.303168",
-    "longitude": "2.003213"
+    "longitude": "2.003213",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197203200001,
     "iyear": 1972,
     "latitude": "43.174382",
-    "longitude": "-2.775258"
+    "longitude": "-2.775258",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197203200002,
     "nkill": 7,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203200003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197203230001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203250001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203260001,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "41.127098",
-    "longitude": "37.287124"
+    "longitude": "37.287124",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197203260002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197203270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "15.185916",
-    "longitude": "120.54187"
+    "longitude": "120.54187",
+    "gname": "Unknown"
   },
   {
     "eventid": 197203280001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "17.092014",
-    "longitude": "121.965256"
+    "longitude": "121.965256",
+    "gname": "Unknown"
   },
   {
     "eventid": 197203280002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "55.043617",
-    "longitude": "-7.023927"
+    "longitude": "-7.023927",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203290001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "59.332788",
-    "longitude": "18.064488"
+    "longitude": "18.064488",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197203290002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "25.699073",
-    "longitude": "-80.266978"
+    "longitude": "-80.266978",
+    "gname": "Young Cuba"
   },
   {
     "eventid": 197203290003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197203300001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197204040001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.42153",
-    "longitude": "-75.697193"
+    "longitude": "-75.697193",
+    "gname": "Unknown"
   },
   {
     "eventid": 197204040002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "45.50867",
-    "longitude": "-73.553992"
+    "longitude": "-73.553992",
+    "gname": "Young Cuba"
   },
   {
     "eventid": 197204050001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197204070002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197204100001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "-32.951052",
-    "longitude": "-60.666365"
+    "longitude": "-60.666365",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197204100002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197204110001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197204110002,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197204130001,
     "iyear": 1972,
     "latitude": "41.735443",
-    "longitude": "1.977921"
+    "longitude": "1.977921",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197204130002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.071136",
-    "longitude": "-6.513154"
+    "longitude": "-6.513154",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197204150001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197204150002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197204160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197204160002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197204180001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "33.889332",
-    "longitude": "-118.125305"
+    "longitude": "-118.125305",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197204190002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.192934",
-    "longitude": "-6.576051"
+    "longitude": "-6.576051",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197204190003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197204200001,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197204200002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197204210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197204230001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197204290001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205010001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.713641",
-    "longitude": "-5.808233"
+    "longitude": "-5.808233",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205020001,
     "iyear": 1972,
     "latitude": "43.066932",
-    "longitude": "-2.167393"
+    "longitude": "-2.167393",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197205020002,
     "iyear": 1972,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205020003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205030001,
     "iyear": 1972,
     "latitude": "41.560953",
-    "longitude": "2.01044"
+    "longitude": "2.01044",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197205030002,
     "iyear": 1972,
     "latitude": "59.332788",
-    "longitude": "18.064488"
+    "longitude": "18.064488",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205030003,
     "iyear": 1972,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205030004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish Leftists"
   },
   {
     "eventid": 197205040001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205040002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205040003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197205050001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "45.463681",
-    "longitude": "9.188171"
+    "longitude": "9.188171",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205070001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205080001,
     "nkill": 4,
     "iyear": 1972,
     "latitude": "48.208174",
-    "longitude": "16.373819"
+    "longitude": "16.373819",
+    "gname": "Black September"
   },
   {
     "eventid": 197205090001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205090002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197205110001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197205110002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205120001,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Comite Argentino de Lucha Anti-Imperialisto"
   },
   {
     "eventid": 197205120002,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Comite Argentino de Lucha Anti-Imperialisto"
   },
   {
     "eventid": 197205120003,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Comite Argentino de Lucha Anti-Imperialisto"
   },
   {
     "eventid": 197205120004,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Comite Argentino de Lucha Anti-Imperialisto"
   },
   {
     "eventid": 197205120005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197205130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197205130002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205130003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205130004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197205140001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197205140002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197205150001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "49.008085",
-    "longitude": "8.403756"
+    "longitude": "8.403756",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197205150002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205150003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197205150004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.454697",
-    "longitude": "-122.177909"
+    "longitude": "-122.177909",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197205170001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.69212",
-    "longitude": "-5.863265"
+    "longitude": "-5.863265",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197205170002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205180001,
     "iyear": 1972,
     "latitude": "41.560953",
-    "longitude": "2.01044"
+    "longitude": "2.01044",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197205180002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197205190001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197205190002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197205190003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205190004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "33.876161",
-    "longitude": "-117.869263"
+    "longitude": "-117.869263",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197205200001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.787715",
-    "longitude": "-6.492314"
+    "longitude": "-6.492314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205200002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "18.460791",
-    "longitude": "-66.264884"
+    "longitude": "-66.264884",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197205200003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.791005",
-    "longitude": "-73.538134"
+    "longitude": "-73.538134",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197205210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197205210002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197205220001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.787715",
-    "longitude": "-6.492314"
+    "longitude": "-6.492314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205230001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205230002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197205230003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.791005",
-    "longitude": "-73.538134"
+    "longitude": "-73.538134",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197205240001,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "49.4019",
-    "longitude": "8.680285"
+    "longitude": "8.680285",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197205250001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205250002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205250003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205250004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205250005,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205260001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "40.717892",
-    "longitude": "-74.067467"
+    "longitude": "-74.067467",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205270002,
     "iyear": 1972,
     "latitude": "-34.68631",
-    "longitude": "-58.528473"
+    "longitude": "-58.528473",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205270003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205270004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197205280001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197205280002,
     "nkill": 8,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205280003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197205300001,
     "nkill": 26,
     "iyear": 1972,
     "latitude": "32.004361",
-    "longitude": "34.888229"
+    "longitude": "34.888229",
+    "gname": "Japanese Red Army (JRA)"
   },
   {
     "eventid": 197205300002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205300003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197205310001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Mujahedin-e Khalq (MEK)"
   },
   {
     "eventid": 197205310002,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205310003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Mujahedin-e Khalq (MEK)"
   },
   {
     "eventid": 197205310004,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205310005,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205310006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197205310007,
     "iyear": 1972,
     "latitude": "43.230556",
-    "longitude": "-2.845833"
+    "longitude": "-2.845833",
+    "gname": "GAC"
   },
   {
     "eventid": 197206020001,
     "iyear": 1972,
     "latitude": "10.227716",
-    "longitude": "-67.333485"
+    "longitude": "-67.333485",
+    "gname": "Red Flag (Venezuela)"
   },
   {
     "eventid": 197206020002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "47.610786",
-    "longitude": "-122.331306"
+    "longitude": "-122.331306",
+    "gname": "Black Panthers"
   },
   {
     "eventid": 197206020003,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.238631",
-    "longitude": "-7.170908"
+    "longitude": "-7.170908",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206040001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197206050001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206060001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206060002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206080001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206080002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.787715",
-    "longitude": "-6.492314"
+    "longitude": "-6.492314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206090001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197206090002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206100001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "53.361675",
-    "longitude": "-6.245485"
+    "longitude": "-6.245485",
+    "gname": "Unknown"
   },
   {
     "eventid": 197206100002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197206110001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197206110002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206120001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206140001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "National Front for the Liberation of Cuba (FLNC)"
   },
   {
     "eventid": 197206150001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197206160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197206180001,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "54.446968",
-    "longitude": "-6.39292"
+    "longitude": "-6.39292",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206190001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "32.715695",
-    "longitude": "-117.161719"
+    "longitude": "-117.161719",
+    "gname": "Secret Army Organization"
   },
   {
     "eventid": 197206190002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206190003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "15.153002",
-    "longitude": "120.591942"
+    "longitude": "120.591942",
+    "gname": "Unknown"
   },
   {
     "eventid": 197206210002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206230001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197206240001,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "54.927953",
-    "longitude": "-6.925873"
+    "longitude": "-6.925873",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206240002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197206260001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.183052",
-    "longitude": "-6.341388"
+    "longitude": "-6.341388",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206260002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206260003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197206270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197206270002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207010001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207010002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207020001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197207020002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207030001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197207050001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207050002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197207070001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207090001,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197207090002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197207090003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207110001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207110002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207120001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197207120002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197207120003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207120004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197207130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207130002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207130003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207130004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207140001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "14.67428",
-    "longitude": "121.057495"
+    "longitude": "121.057495",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207140003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207140004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207140005,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207140006,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207150001,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207150002,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207150003,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207150004,
     "iyear": 1972,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207150005,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.101529",
-    "longitude": "-6.526442"
+    "longitude": "-6.526442",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207150006,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207160001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207160002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207170001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "4.594635",
-    "longitude": "-74.093737"
+    "longitude": "-74.093737",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207180001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207180002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207190001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207190002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.819164",
-    "longitude": "-7.467909"
+    "longitude": "-7.467909",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207190003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207200001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207210001,
     "iyear": 1972,
     "latitude": "15.153002",
-    "longitude": "120.591942"
+    "longitude": "120.591942",
+    "gname": "Unknown"
   },
   {
     "eventid": 197207210002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207210003,
     "nkill": 6,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207210004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207210005,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207220001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197207220002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197207230001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207240001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197207240002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207250001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197207260001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197207260002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197207270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197207280001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "OPR-33"
   },
   {
     "eventid": 197207280002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.595455",
-    "longitude": "-5.797763"
+    "longitude": "-5.797763",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207290001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197207300001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197207310001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Black Panthers"
   },
   {
     "eventid": 197207310002,
     "nkill": 9,
     "iyear": 1972,
     "latitude": "54.910864",
-    "longitude": "-7.15523"
+    "longitude": "-7.15523",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208010001,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208030001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.819164",
-    "longitude": "-7.467909"
+    "longitude": "-7.467909",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208040001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208040002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197208050001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.65363",
-    "longitude": "13.778407"
+    "longitude": "13.778407",
+    "gname": "Black September"
   },
   {
     "eventid": 197208070001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197208070002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.253718",
-    "longitude": "-7.44106"
+    "longitude": "-7.44106",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208070003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.184008",
-    "longitude": "-7.360209"
+    "longitude": "-7.360209",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208090001,
     "iyear": 1972,
     "latitude": "29.591325",
-    "longitude": "52.58361"
+    "longitude": "52.58361",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208120001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197208130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197208140001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208140002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208140003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208160001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Black September"
   },
   {
     "eventid": 197208160002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197208170001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208170002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Puerto Rican Revolutionary Movement"
   },
   {
     "eventid": 197208170003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Puerto Rican Revolutionary Movement"
   },
   {
     "eventid": 197208180001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197208180002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208180003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208180004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208180005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Puerto Rican Revolutionary Movement"
   },
   {
     "eventid": 197208180006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Puerto Rican Revolutionary Movement"
   },
   {
     "eventid": 197208180007,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Puerto Rican Revolutionary Movement"
   },
   {
     "eventid": 197208190001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208200001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197208220001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208220003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208230001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "30.345997",
-    "longitude": "48.287136"
+    "longitude": "48.287136",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208230002,
     "iyear": 1972,
     "latitude": "15.185916",
-    "longitude": "120.54187"
+    "longitude": "120.54187",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208230003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208240001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208250001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208250002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208260001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.345417",
-    "longitude": "-7.636355"
+    "longitude": "-7.636355",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208260002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197208260003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197208270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197208270002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208280001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208280002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.184008",
-    "longitude": "-7.360209"
+    "longitude": "-7.360209",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208290001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "43.230556",
-    "longitude": "-2.845833"
+    "longitude": "-2.845833",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197208290002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Popular Revolutionary Resistance Group"
   },
   {
     "eventid": 197208300001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197208300002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197208310001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197208310002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209000001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "11.558831",
-    "longitude": "104.917445"
+    "longitude": "104.917445",
+    "gname": "Unknown"
   },
   {
     "eventid": 197209050002,
     "nkill": 16,
     "iyear": 1972,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Black September"
   },
   {
     "eventid": 197209050003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209060001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209100001,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "54.50853",
-    "longitude": "-6.763131"
+    "longitude": "-6.763131",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209110001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "50.836426",
-    "longitude": "4.367415"
+    "longitude": "4.367415",
+    "gname": "Palestinians"
   },
   {
     "eventid": 197209130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209140002,
     "nkill": 3,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197209140003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209140004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197209150001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "57.696994",
-    "longitude": "11.9865"
+    "longitude": "11.9865",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197209170001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-27.470933",
-    "longitude": "153.023502"
+    "longitude": "153.023502",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197209170002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209180001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.201137",
-    "longitude": "-6.361129"
+    "longitude": "-6.361129",
+    "gname": "Unknown"
   },
   {
     "eventid": 197209190001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.50867",
-    "longitude": "-73.553992"
+    "longitude": "-73.553992",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.42153",
-    "longitude": "-75.697193"
+    "longitude": "-75.697193",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190007,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190008,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190009,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190010,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190011,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190012,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190013,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "46.223717",
-    "longitude": "6.148185"
+    "longitude": "6.148185",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190014,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "46.223717",
-    "longitude": "6.148185"
+    "longitude": "6.148185",
+    "gname": "Black September"
   },
   {
     "eventid": 197209190015,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "46.198073",
-    "longitude": "6.142436"
+    "longitude": "6.142436",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209200002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209200003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200007,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200008,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200009,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200010,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200011,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200012,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200013,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200014,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200015,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.230654",
-    "longitude": "16.341422"
+    "longitude": "16.341422",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200016,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.230654",
-    "longitude": "16.341422"
+    "longitude": "16.341422",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200017,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.230654",
-    "longitude": "16.341422"
+    "longitude": "16.341422",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200018,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.230654",
-    "longitude": "16.341422"
+    "longitude": "16.341422",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200019,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.230654",
-    "longitude": "16.341422"
+    "longitude": "16.341422",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200020,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "50.836426",
-    "longitude": "4.367415"
+    "longitude": "4.367415",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200021,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.420943",
-    "longitude": "-75.698945"
+    "longitude": "-75.698945",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200022,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.420943",
-    "longitude": "-75.698945"
+    "longitude": "-75.698945",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200023,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.420943",
-    "longitude": "-75.698945"
+    "longitude": "-75.698945",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200024,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.420943",
-    "longitude": "-75.698945"
+    "longitude": "-75.698945",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200025,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.420943",
-    "longitude": "-75.698945"
+    "longitude": "-75.698945",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200026,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200027,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black September"
   },
   {
     "eventid": 197209200028,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.123175",
-    "longitude": "-7.478935"
+    "longitude": "-7.478935",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209210002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-4.389166",
-    "longitude": "15.33762"
+    "longitude": "15.33762",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-4.389166",
-    "longitude": "15.33762"
+    "longitude": "15.33762",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-4.389166",
-    "longitude": "15.33762"
+    "longitude": "15.33762",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "50.836426",
-    "longitude": "4.367415"
+    "longitude": "4.367415",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "50.836426",
-    "longitude": "4.367415"
+    "longitude": "4.367415",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210007,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210008,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210009,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210010,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210011,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Black September"
   },
   {
     "eventid": 197209210012,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-4.225356",
-    "longitude": "15.25106"
+    "longitude": "15.25106",
+    "gname": "Black September"
   },
   {
     "eventid": 197209220001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209220002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209220003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209220004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Black September"
   },
   {
     "eventid": 197209230001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209230002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.945367",
-    "longitude": "35.928372"
+    "longitude": "35.928372",
+    "gname": "Black September"
   },
   {
     "eventid": 197209230003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.945367",
-    "longitude": "35.928372"
+    "longitude": "35.928372",
+    "gname": "Black September"
   },
   {
     "eventid": 197209230004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.945367",
-    "longitude": "35.928372"
+    "longitude": "35.928372",
+    "gname": "Black September"
   },
   {
     "eventid": 197209230005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.945367",
-    "longitude": "35.928372"
+    "longitude": "35.928372",
+    "gname": "Black September"
   },
   {
     "eventid": 197209230006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "11.556374",
-    "longitude": "104.92821"
+    "longitude": "104.92821",
+    "gname": "Black September"
   },
   {
     "eventid": 197209250001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209250002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209250003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209250004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209250005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209250006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-33.86882",
-    "longitude": "151.209295"
+    "longitude": "151.209295",
+    "gname": "Unknown"
   },
   {
     "eventid": 197209260001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197209260002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209270002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209270003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209280001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197209280002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280004,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280005,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280006,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280007,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280008,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280009,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280010,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "38.722252",
-    "longitude": "-9.139337"
+    "longitude": "-9.139337",
+    "gname": "Black September"
   },
   {
     "eventid": 197209280011,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Black September"
   },
   {
     "eventid": 197209290002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209290003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197209300001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197209300002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197209300003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197209300004,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197210020001,
     "iyear": 1972,
     "latitude": "50.732674",
-    "longitude": "7.096299"
+    "longitude": "7.096299",
+    "gname": "Palestinians"
   },
   {
     "eventid": 197210020002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210020003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210020004,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210040001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Masada, Action and Defense Movement"
   },
   {
     "eventid": 197210040002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210040003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197210040004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197210050001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197210060001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "36.763763",
-    "longitude": "3.055413"
+    "longitude": "3.055413",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197210060002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210070001,
     "iyear": 1972,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Unknown"
   },
   {
     "eventid": 197210070002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197210100001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197210100002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black September"
   },
   {
     "eventid": 197210100003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.183052",
-    "longitude": "-6.341388"
+    "longitude": "-6.341388",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210130001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197210140001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black September"
   },
   {
     "eventid": 197210140002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197210140003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.338571",
-    "longitude": "-6.658279"
+    "longitude": "-6.658279",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210140004,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197210160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197210210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197210220001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.151612",
-    "longitude": "-7.39232"
+    "longitude": "-7.39232",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210220002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197210240001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210250001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210250002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "38.878742",
-    "longitude": "-77.100006"
+    "longitude": "-77.100006",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197210260001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "29.813822",
-    "longitude": "-95.365295"
+    "longitude": "-95.365295",
+    "gname": "Black Panthers"
   },
   {
     "eventid": 197210280001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210290001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197210290002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Unknown"
   },
   {
     "eventid": 197210310001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Red Hand Commandos"
   },
   {
     "eventid": 197210310002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197210310003,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197210310004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197211000001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197211020001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "41.656285",
-    "longitude": "-0.876533"
+    "longitude": "-0.876533",
+    "gname": "Unknown"
   },
   {
     "eventid": 197211030001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "31.950001",
-    "longitude": "35.933331"
+    "longitude": "35.933331",
+    "gname": "Unknown"
   },
   {
     "eventid": 197211030002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "31.950001",
-    "longitude": "35.933331"
+    "longitude": "35.933331",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197211050001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Unknown"
   },
   {
     "eventid": 197211080001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211080002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "25.673211",
-    "longitude": "-100.309201"
+    "longitude": "-100.309201",
+    "gname": "Unknown"
   },
   {
     "eventid": 197211090001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-26.808285",
-    "longitude": "-65.21759"
+    "longitude": "-65.21759",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197211100001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211110001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Red Hand Commandos"
   },
   {
     "eventid": 197211130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Palestinians"
   },
   {
     "eventid": 197211140002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197211140003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211150001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Unknown"
   },
   {
     "eventid": 197211150002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197211160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.345417",
-    "longitude": "-7.636355"
+    "longitude": "-7.636355",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211200001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.131402",
-    "longitude": "-6.586387"
+    "longitude": "-6.586387",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197211220001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.818983",
-    "longitude": "-6.663403"
+    "longitude": "-6.663403",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211220002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.77811",
-    "longitude": "-6.55922"
+    "longitude": "-6.55922",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197211220003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.009511",
-    "longitude": "-6.504562"
+    "longitude": "-6.504562",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197211230001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "31.950001",
-    "longitude": "35.933331"
+    "longitude": "35.933331",
+    "gname": "Black September"
   },
   {
     "eventid": 197211240001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Unknown"
   },
   {
     "eventid": 197211270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197211280001,
     "iyear": 1972,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Iberian Liberation Movement (MIL)"
   },
   {
     "eventid": 197211280002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.482055",
-    "longitude": "-8.088244"
+    "longitude": "-8.088244",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211280004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197211300001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "50.179683",
-    "longitude": "8.508595"
+    "longitude": "8.508595",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197211300002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212000001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "6.242026",
-    "longitude": "-75.564766"
+    "longitude": "-75.564766",
+    "gname": "National Liberation Army of Colombia (ELN)"
   },
   {
     "eventid": 197212000002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "National Integration Front (FIN)"
   },
   {
     "eventid": 197212010001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "53.361675",
-    "longitude": "-6.245485"
+    "longitude": "-6.245485",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197212020001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212020002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212030001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197212050001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197212050002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.669045",
-    "longitude": "-7.681662"
+    "longitude": "-7.681662",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212060002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197212060003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197212070001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Resistance, Liberation and Independence Organization (AAA)"
   },
   {
     "eventid": 197212070002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197212070003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212080002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "-27.470933",
-    "longitude": "153.023502"
+    "longitude": "153.023502",
+    "gname": "Unknown"
   },
   {
     "eventid": 197212080003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212080004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212100002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212110001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "National Integration Front (FIN)"
   },
   {
     "eventid": 197212120001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Secret Cuban Government"
   },
   {
     "eventid": 197212130001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212140001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "51.213924",
-    "longitude": "6.780691"
+    "longitude": "6.780691",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197212140002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.669045",
-    "longitude": "-7.681662"
+    "longitude": "-7.681662",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197212150002,
     "iyear": 1972,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "2nd of June Movement"
   },
   {
     "eventid": 197212150003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212150004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197212150005,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.347539",
-    "longitude": "-6.656108"
+    "longitude": "-6.656108",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197212160001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.190675",
-    "longitude": "-7.562948"
+    "longitude": "-7.562948",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212160002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212180001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.338571",
-    "longitude": "-6.658279"
+    "longitude": "-6.658279",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212200001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197212200002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212200003,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.910864",
-    "longitude": "-7.15523"
+    "longitude": "-7.15523",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212200004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.483304",
-    "longitude": "-6.640804"
+    "longitude": "-6.640804",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197212200005,
     "nkill": 5,
     "iyear": 1972,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212210001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.65548",
-    "longitude": "-5.674815"
+    "longitude": "-5.674815",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212230001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197212240001,
     "iyear": 1972,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197212240002,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197212240003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197212250001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197212270001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "-34.68631",
-    "longitude": "-58.528473"
+    "longitude": "-58.528473",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197212270002,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197212270003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Unknown"
   },
   {
     "eventid": 197212270004,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.819164",
-    "longitude": "-7.467909"
+    "longitude": "-7.467909",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197212280001,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "13.785793",
-    "longitude": "100.560852"
+    "longitude": "100.560852",
+    "gname": "Black September"
   },
   {
     "eventid": 197212280002,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "54.101906",
-    "longitude": "-7.449668"
+    "longitude": "-7.449668",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197212280003,
     "nkill": 0,
     "iyear": 1972,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197212290001,
     "iyear": 1972,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Iberian Liberation Movement (MIL)"
   },
   {
     "eventid": 197212300001,
     "nkill": 1,
     "iyear": 1972,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197212310001,
     "nkill": 2,
     "iyear": 1972,
     "latitude": "29.959986",
-    "longitude": "-90.095187"
+    "longitude": "-90.095187",
+    "gname": "Republic of New Afrika"
   }
 ]

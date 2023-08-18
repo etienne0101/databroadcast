@@ -4,3232 +4,3703 @@
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.214905",
-    "longitude": "-80.001234"
+    "longitude": "-80.001234",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197101040001,
     "iyear": 1971,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101050001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.0961",
-    "longitude": "-117.716404"
+    "longitude": "-117.716404",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197101050002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.20034",
-    "longitude": "-119.180439"
+    "longitude": "-119.180439",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197101060001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.05483",
-    "longitude": "-117.750034"
+    "longitude": "-117.750034",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197101070001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.355879",
-    "longitude": "38.296474"
+    "longitude": "38.296474",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197101080001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197101080002,
     "iyear": 1971,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101080004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197101090001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.038254",
-    "longitude": "-117.752109"
+    "longitude": "-117.752109",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197101090002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.055103",
-    "longitude": "-117.749991"
+    "longitude": "-117.749991",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197101110001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197101110002,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197101110003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.055103",
-    "longitude": "-117.749991"
+    "longitude": "-117.749991",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197101120001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.78359",
-    "longitude": "-118.353879"
+    "longitude": "-118.353879",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197101130001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197101130002,
     "iyear": 1971,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101150001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Revolutionary Committee of Mozambique (COREMO)"
   },
   {
     "eventid": 197101150004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197101150005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197101160001,
     "iyear": 1971,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101170002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101190001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197101190002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197101190003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.479561",
-    "longitude": "-81.675461"
+    "longitude": "-81.675461",
+    "gname": "Strikers"
   },
   {
     "eventid": 197101210001,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197101220002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101220003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "11.583513",
-    "longitude": "37.397019"
+    "longitude": "37.397019",
+    "gname": "Eritrean Liberation Front"
   },
   {
     "eventid": 197101240001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-34.68631",
-    "longitude": "-58.528473"
+    "longitude": "-58.528473",
+    "gname": "Peronist Armed Forces (FAP)"
   },
   {
     "eventid": 197101240002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197101250001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197101250002,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197101260001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "26.714388",
-    "longitude": "-80.052689"
+    "longitude": "-80.052689",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197101270001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197101270002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197101270003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197101270004,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197101280001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.456792",
-    "longitude": "-69.951164"
+    "longitude": "-69.951164",
+    "gname": "Tony El Pelou Band"
   },
   {
     "eventid": 197101280002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.456792",
-    "longitude": "-69.951164"
+    "longitude": "-69.951164",
+    "gname": "Tony El Pelou Band"
   },
   {
     "eventid": 197101290001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197101290002,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197101290003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197101290004,
     "iyear": 1971,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Revolutionary Armed Forces- Argentina (FAR-A)"
   },
   {
     "eventid": 197102020001,
     "iyear": 1971,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102020002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102030001,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197102040001,
     "iyear": 1971,
     "latitude": "37.791927",
-    "longitude": "-122.225906"
+    "longitude": "-122.225906",
+    "gname": "BAY Bombers"
   },
   {
     "eventid": 197102040002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.2225",
-    "longitude": "-80.837539"
+    "longitude": "-80.837539",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197102050001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.419255",
-    "longitude": "-119.698869"
+    "longitude": "-119.698869",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102060001,
     "iyear": 1971,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102060002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197102070001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.63797",
-    "longitude": "-6.14485"
+    "longitude": "-6.14485",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197102080001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102080002,
     "iyear": 1971,
     "latitude": "37.146795",
-    "longitude": "49.536102"
+    "longitude": "49.536102",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102090001,
     "nkill": 5,
     "iyear": 1971,
     "latitude": "54.452223",
-    "longitude": "-7.486124"
+    "longitude": "-7.486124",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197102090002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "26.714388",
-    "longitude": "-80.052689"
+    "longitude": "-80.052689",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197102100001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102100002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "57.696994",
-    "longitude": "11.9865"
+    "longitude": "11.9865",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197102100003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.084195",
-    "longitude": "-81.514059"
+    "longitude": "-81.514059",
+    "gname": "Neo-Nazi extremists"
   },
   {
     "eventid": 197102110001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Movement of the Revolutionary Left (MIR) (Venezuela)"
   },
   {
     "eventid": 197102110002,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102120001,
     "iyear": 1971,
     "latitude": "14.596051",
-    "longitude": "120.978666"
+    "longitude": "120.978666",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102120002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102120003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.974025",
-    "longitude": "-122.030954"
+    "longitude": "-122.030954",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102130001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.74502",
-    "longitude": "-84.391669"
+    "longitude": "-84.391669",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197102140001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.097625",
-    "longitude": "-74.857269"
+    "longitude": "-74.857269",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197102150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102150002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197102160001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.442164",
-    "longitude": "-66.026298"
+    "longitude": "-66.026298",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197102160002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.442164",
-    "longitude": "-66.026298"
+    "longitude": "-66.026298",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197102160003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197102160004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197102160005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197102170001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102170002,
     "iyear": 1971,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102190001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102200001,
     "iyear": 1971,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102200002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197102200003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Black Afro Militant Movement"
   },
   {
     "eventid": 197102210001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Armed Forces of National Liberation- Venezuela (FALN)"
   },
   {
     "eventid": 197102210002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197102260001,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197102260002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "21.3",
-    "longitude": "-157.818968"
+    "longitude": "-157.818968",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197102270001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.874043",
-    "longitude": "-122.280022"
+    "longitude": "-122.280022",
+    "gname": "Unknown"
   },
   {
     "eventid": 197102270002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197103000001,
     "iyear": 1971,
     "latitude": "15.153002",
-    "longitude": "120.591942"
+    "longitude": "120.591942",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103000002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "New People's Army (NPA)"
   },
   {
     "eventid": 197103010001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Armed Forces of National Liberation- Venezuela (FALN)"
   },
   {
     "eventid": 197103010002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197103010003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197103010004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Puerto Rican Resistance Movement"
   },
   {
     "eventid": 197103020001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103030001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.419255",
-    "longitude": "-119.698869"
+    "longitude": "-119.698869",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103030002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.874043",
-    "longitude": "-122.280022"
+    "longitude": "-122.280022",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103040001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197103050001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "21.3",
-    "longitude": "-157.818968"
+    "longitude": "-157.818968",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197103060001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.42558",
-    "longitude": "-94.048254"
+    "longitude": "-94.048254",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103060002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.42558",
-    "longitude": "-94.048254"
+    "longitude": "-94.048254",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103070001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.42558",
-    "longitude": "-94.048254"
+    "longitude": "-94.048254",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103070002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.42558",
-    "longitude": "-94.048254"
+    "longitude": "-94.048254",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103080003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197103080004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.62774",
-    "longitude": "-90.199514"
+    "longitude": "-90.199514",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103080005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.62774",
-    "longitude": "-90.199514"
+    "longitude": "-90.199514",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103090001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.079609",
-    "longitude": "-104.812912"
+    "longitude": "-104.812912",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103090002,
     "iyear": 1971,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197103100001,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197103100002,
     "iyear": 1971,
     "latitude": "49.4019",
-    "longitude": "8.680285"
+    "longitude": "8.680285",
+    "gname": "Socialist Patients' Collective (SPK)"
   },
   {
     "eventid": 197103100003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197103110001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "29.813822",
-    "longitude": "-95.365295"
+    "longitude": "-95.365295",
+    "gname": "Ku Klux Klan"
   },
   {
     "eventid": 197103120001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "45.511795",
-    "longitude": "-122.675629"
+    "longitude": "-122.675629",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197103140001,
     "iyear": 1971,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197103140002,
     "iyear": 1971,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197103150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "51.924216",
-    "longitude": "4.481776"
+    "longitude": "4.481776",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197103150002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-34.891151",
-    "longitude": "-56.187214"
+    "longitude": "-56.187214",
+    "gname": "Tupamaros (Uruguay)"
   },
   {
     "eventid": 197103150003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.54703",
-    "longitude": "-122.314834"
+    "longitude": "-122.314834",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197103160001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197103170001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.455233",
-    "longitude": "-76.475847"
+    "longitude": "-76.475847",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197103180001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "28.505025",
-    "longitude": "-16.192648"
+    "longitude": "-16.192648",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197103180002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "30.33138",
-    "longitude": "-81.655799"
+    "longitude": "-81.655799",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197103190001,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Black Cells"
   },
   {
     "eventid": 197103190002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197103210001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.407484",
-    "longitude": "-71.119023"
+    "longitude": "-71.119023",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197103230001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.906032",
-    "longitude": "-122.548169"
+    "longitude": "-122.548169",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197103230002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.359139",
-    "longitude": "-83.066546"
+    "longitude": "-83.066546",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197103230003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.225529",
-    "longitude": "-118.878911"
+    "longitude": "-118.878911",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197103250001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103270001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103270002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.308342",
-    "longitude": "-76.616104"
+    "longitude": "-76.616104",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103280001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197103300001,
     "iyear": 1971,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197103300002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197103300003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Secret Cuban Government"
   },
   {
     "eventid": 197103300005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "14.596051",
-    "longitude": "120.978666"
+    "longitude": "120.978666",
+    "gname": "Students"
   },
   {
     "eventid": 197103300006,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197103310001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.758968",
-    "longitude": "-104.876305"
+    "longitude": "-104.876305",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104000001,
     "nkill": 3,
     "iyear": 1971,
     "latitude": "37.474249",
-    "longitude": "49.458725"
+    "longitude": "49.458725",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104000002,
     "iyear": 1971,
     "latitude": "32.65246",
-    "longitude": "51.67462"
+    "longitude": "51.67462",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104000003,
     "iyear": 1971,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104010001,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104020001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197104020002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197104020003,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "33.953349",
-    "longitude": "-117.396156"
+    "longitude": "-117.396156",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197104030001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197104030002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104030003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.24088",
-    "longitude": "-83.613089"
+    "longitude": "-83.613089",
+    "gname": "Ku Klux Klan"
   },
   {
     "eventid": 197104030004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "31.530345",
-    "longitude": "-83.835349"
+    "longitude": "-83.835349",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104050001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.089185",
-    "longitude": "-122.086756"
+    "longitude": "-122.086756",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104050002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104050003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104060001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "RYF"
   },
   {
     "eventid": 197104060002,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197104060003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197104060004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104060005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104070001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104070002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "59.332788",
-    "longitude": "18.064488"
+    "longitude": "18.064488",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197104080001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.736419",
-    "longitude": "-119.789196"
+    "longitude": "-119.789196",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197104110001,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "RYF"
   },
   {
     "eventid": 197104110002,
     "nkill": 3,
     "iyear": 1971,
     "latitude": "-34.921295",
-    "longitude": "-57.954333"
+    "longitude": "-57.954333",
+    "gname": "Peronist Armed Forces (FAP)"
   },
   {
     "eventid": 197104120001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Revolutionary Assault Team"
   },
   {
     "eventid": 197104140001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197104140002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Puerto Rican Nationalists"
   },
   {
     "eventid": 197104150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104170001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Panthers"
   },
   {
     "eventid": 197104190001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Panthers"
   },
   {
     "eventid": 197104190002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197104190003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104190004,
     "nkill": 3,
     "iyear": 1971,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Armed Commandos of Liberation"
   },
   {
     "eventid": 197104200001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.740685",
-    "longitude": "-119.785734"
+    "longitude": "-119.785734",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104200002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.874043",
-    "longitude": "-122.280022"
+    "longitude": "-122.280022",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104200003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "44.883175",
-    "longitude": "-93.283006"
+    "longitude": "-93.283006",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197104230001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.740685",
-    "longitude": "-119.785734"
+    "longitude": "-119.785734",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197104230002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Unknown"
   },
   {
     "eventid": 197104230003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.235807",
-    "longitude": "-121.962416"
+    "longitude": "-121.962416",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104230004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.906032",
-    "longitude": "-122.545048"
+    "longitude": "-122.545048",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197104230005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197104240001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.0981",
-    "longitude": "-80.650789"
+    "longitude": "-80.650789",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104250001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.0961",
-    "longitude": "-117.716404"
+    "longitude": "-117.716404",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197104250002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097718",
-    "longitude": "-117.70945"
+    "longitude": "-117.70945",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197104260001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.106067",
-    "longitude": "-117.716404"
+    "longitude": "-117.716404",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197104270001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.906032",
-    "longitude": "-122.545048"
+    "longitude": "-122.545048",
+    "gname": "Left-wing extremists"
   },
   {
     "eventid": 197104270002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104280001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.791927",
-    "longitude": "-122.225906"
+    "longitude": "-122.225906",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104280002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197104290001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "-34.458721",
-    "longitude": "-58.90725"
+    "longitude": "-58.90725",
+    "gname": "Revolutionary Armed Forces- Argentina (FAR-A)"
   },
   {
     "eventid": 197104290002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197104290003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197104290004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.235807",
-    "longitude": "-121.962416"
+    "longitude": "-121.962416",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104290005,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "37.874043",
-    "longitude": "-122.280022"
+    "longitude": "-122.280022",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104300001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197104300002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.206391",
-    "longitude": "-71.004817"
+    "longitude": "-71.004817",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105010001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.974025",
-    "longitude": "-122.030954"
+    "longitude": "-122.030954",
+    "gname": "People's Revolutionary Party"
   },
   {
     "eventid": 197105020001,
     "iyear": 1971,
     "latitude": "42.815372",
-    "longitude": "-1.653616"
+    "longitude": "-1.653616",
+    "gname": "GAC"
   },
   {
     "eventid": 197105040001,
     "iyear": 1971,
     "latitude": "-16.509317",
-    "longitude": "-68.10434"
+    "longitude": "-68.10434",
+    "gname": "Ejercito de Liberacion Nacional (Bolivia)"
   },
   {
     "eventid": 197105040002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197105040003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.728352",
-    "longitude": "-121.841985"
+    "longitude": "-121.841985",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105040004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.740685",
-    "longitude": "-119.785734"
+    "longitude": "-119.785734",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197105040005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.625511",
-    "longitude": "-122.432556"
+    "longitude": "-122.432556",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105050001,
     "iyear": 1971,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105050002,
     "iyear": 1971,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197105050003,
     "iyear": 1971,
     "latitude": "39.728352",
-    "longitude": "-121.837348"
+    "longitude": "-121.837348",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105050004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.728352",
-    "longitude": "-121.837348"
+    "longitude": "-121.837348",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105050005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.42551",
-    "longitude": "-111.937419"
+    "longitude": "-111.937419",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105050006,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.113789",
-    "longitude": "-94.765358"
+    "longitude": "-94.765358",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105050007,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.973705",
-    "longitude": "-117.328064"
+    "longitude": "-117.328064",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197105060001,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105060002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105060003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.32236",
-    "longitude": "-122.032133"
+    "longitude": "-122.032133",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105060004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.022442",
-    "longitude": "-118.166974"
+    "longitude": "-118.166974",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197105060005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.577883",
-    "longitude": "-122.34811"
+    "longitude": "-122.34811",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105060006,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "38.525255",
-    "longitude": "-118.624627"
+    "longitude": "-118.624627",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105070001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.657825",
-    "longitude": "-91.526534"
+    "longitude": "-91.526534",
+    "gname": "Students for a Democratic Society"
   },
   {
     "eventid": 197105080001,
     "iyear": 1971,
     "latitude": "43.291618",
-    "longitude": "-1.977903"
+    "longitude": "-1.977903",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197105080002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197105080003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197105090001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.874043",
-    "longitude": "-122.280022"
+    "longitude": "-122.280022",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105090002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.068994",
-    "longitude": "-79.794704"
+    "longitude": "-79.794704",
+    "gname": "Regulators"
   },
   {
     "eventid": 197105090003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.186531",
-    "longitude": "-118.145775"
+    "longitude": "-118.145775",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197105110001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "18.456792",
-    "longitude": "-69.951164"
+    "longitude": "-69.951164",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105110002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105110003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197105110004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.250636",
-    "longitude": "-118.61481"
+    "longitude": "-118.61481",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105110005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.308342",
-    "longitude": "-76.616104"
+    "longitude": "-76.616104",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105120001,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105120002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "26.714388",
-    "longitude": "-80.052689"
+    "longitude": "-80.052689",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197105130001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Black Panthers"
   },
   {
     "eventid": 197105130002,
     "iyear": 1971,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105140001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197105150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.742578",
-    "longitude": "20.896502"
+    "longitude": "20.896502",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105170001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197105170002,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105170003,
     "iyear": 1971,
     "latitude": "31.285506",
-    "longitude": "48.643416"
+    "longitude": "48.643416",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105180001,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105180002,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105180003,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105190001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197105200001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105210001,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197105210002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.625511",
-    "longitude": "-122.432556"
+    "longitude": "-122.432556",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197105220001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197105230001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197105230002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.791927",
-    "longitude": "-122.225906"
+    "longitude": "-122.225906",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105250001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.90118",
-    "longitude": "-122.061628"
+    "longitude": "-122.061628",
+    "gname": "Unknown"
   },
   {
     "eventid": 197105250002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197105280001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.77033",
-    "longitude": "-87.81852"
+    "longitude": "-87.81852",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197105290001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "43.291618",
-    "longitude": "-1.977903"
+    "longitude": "-1.977903",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197105290002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.002437",
-    "longitude": "-89.171826"
+    "longitude": "-89.171826",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197106030001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197106040001,
     "iyear": 1971,
     "latitude": "38.951603",
-    "longitude": "-0.138765"
+    "longitude": "-0.138765",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197106050002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197106060001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197106060002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.454697",
-    "longitude": "-122.177909"
+    "longitude": "-122.177909",
+    "gname": "Unknown"
   },
   {
     "eventid": 197106100001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.232471",
-    "longitude": "-122.644448"
+    "longitude": "-122.644448",
+    "gname": "Unknown"
   },
   {
     "eventid": 197106110001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "12.825647",
-    "longitude": "44.846416"
+    "longitude": "44.846416",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197106110002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197106110003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.13149",
-    "longitude": "-118.101567"
+    "longitude": "-118.101567",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197106120001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197106130001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197106130002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197106150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.022425",
-    "longitude": "-118.167056"
+    "longitude": "-118.167056",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197106160001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.974025",
-    "longitude": "-122.030954"
+    "longitude": "-122.030954",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197106170001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Radicals"
   },
   {
     "eventid": 197106180002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197106210001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Unknown"
   },
   {
     "eventid": 197106220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.863958",
-    "longitude": "-73.630786"
+    "longitude": "-73.630786",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197106220002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197106220003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197106240001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.791927",
-    "longitude": "-122.225906"
+    "longitude": "-122.225906",
+    "gname": "Unknown"
   },
   {
     "eventid": 197106240002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197106250001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.658455",
-    "longitude": "-73.587219"
+    "longitude": "-73.587219",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197106260001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Unknown"
   },
   {
     "eventid": 197107000001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "43.258434",
-    "longitude": "-2.921819"
+    "longitude": "-2.921819",
+    "gname": "Revolutionary Communist League (LCR) (Spain)"
   },
   {
     "eventid": 197107000002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Secret Cuban Government"
   },
   {
     "eventid": 197107010001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197107020001,
     "iyear": 1971,
     "latitude": "42.815372",
-    "longitude": "-1.653616"
+    "longitude": "-1.653616",
+    "gname": "GAC"
   },
   {
     "eventid": 197107040001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.338475",
-    "longitude": "-121.885794"
+    "longitude": "-121.885794",
+    "gname": "Unknown"
   },
   {
     "eventid": 197107060001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.015147",
-    "longitude": "-118.122896"
+    "longitude": "-118.122896",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197107080001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197107080002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197107090001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.823875",
-    "longitude": "-71.411994"
+    "longitude": "-71.411994",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197107090002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "32.715695",
-    "longitude": "-117.161719"
+    "longitude": "-117.161719",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197107120001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197107140001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197107170001,
     "iyear": 1971,
     "latitude": "43.18418",
-    "longitude": "-2.473289"
+    "longitude": "-2.473289",
+    "gname": "Unknown"
   },
   {
     "eventid": 197107180001,
     "iyear": 1971,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197107180002,
     "iyear": 1971,
     "latitude": "41.614152",
-    "longitude": "0.625783"
+    "longitude": "0.625783",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197107180003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.042309",
-    "longitude": "-118.141507"
+    "longitude": "-118.141507",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197107210001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197107240001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.999276",
-    "longitude": "-122.003482"
+    "longitude": "-122.003482",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197107250001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197107270001,
     "iyear": 1971,
     "latitude": "37.950322",
-    "longitude": "27.373266"
+    "longitude": "27.373266",
+    "gname": "RYF"
   },
   {
     "eventid": 197107280001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Peronist Armed Forces (FAP)"
   },
   {
     "eventid": 197107280002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.089185",
-    "longitude": "-122.086756"
+    "longitude": "-122.086756",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197107290001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Revolutionary Communist League (LCR) (Spain)"
   },
   {
     "eventid": 197107300001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.081074",
-    "longitude": "-118.394081"
+    "longitude": "-118.394081",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197108080001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108090002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197108090003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.794884",
-    "longitude": "-7.537385"
+    "longitude": "-7.537385",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108100001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108110001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197108110003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Unknown"
   },
   {
     "eventid": 197108110004,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197108120001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.438335",
-    "longitude": "-79.997459"
+    "longitude": "-79.997459",
+    "gname": "Unknown"
   },
   {
     "eventid": 197108140001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197108150001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "33.44865",
-    "longitude": "-84.454564"
+    "longitude": "-84.454564",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197108150004,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "33.74502",
-    "longitude": "-84.391669"
+    "longitude": "-84.391669",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197108150005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.761624",
-    "longitude": "-72.511495"
+    "longitude": "-72.511495",
+    "gname": "Unknown"
   },
   {
     "eventid": 197108180001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.479561",
-    "longitude": "-81.675461"
+    "longitude": "-81.675461",
+    "gname": "Unknown"
   },
   {
     "eventid": 197108220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.74617",
-    "longitude": "-74.032814"
+    "longitude": "-74.032814",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220006,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220007,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220008,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220009,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108220010,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108230001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.74617",
-    "longitude": "-74.032814"
+    "longitude": "-74.032814",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108230002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.74617",
-    "longitude": "-74.032814"
+    "longitude": "-74.032814",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108230003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.74617",
-    "longitude": "-74.032814"
+    "longitude": "-74.032814",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108230004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.74617",
-    "longitude": "-74.032814"
+    "longitude": "-74.032814",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108230005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.74617",
-    "longitude": "-74.032814"
+    "longitude": "-74.032814",
+    "gname": "Armed Revolutionary Independence Movement (MIRA)"
   },
   {
     "eventid": 197108230006,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197108230007,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197108240001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Unknown"
   },
   {
     "eventid": 197108240002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.583193",
-    "longitude": "-87.499736"
+    "longitude": "-87.499736",
+    "gname": "Unknown"
   },
   {
     "eventid": 197108240003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Black September"
   },
   {
     "eventid": 197108250001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108250002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108270001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197108280001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197108280002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197108280003,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197108280004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.579065",
-    "longitude": "-121.491014"
+    "longitude": "-121.491014",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197108280005,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.54703",
-    "longitude": "-122.314834"
+    "longitude": "-122.314834",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197108290001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197108290002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Chicano Liberation Front"
   },
   {
     "eventid": 197108290003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197108290004,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108300001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197108300002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.636876",
-    "longitude": "-83.288425"
+    "longitude": "-83.288425",
+    "gname": "Ku Klux Klan"
   },
   {
     "eventid": 197109000001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "11.558831",
-    "longitude": "104.917445"
+    "longitude": "104.917445",
+    "gname": "Unknown"
   },
   {
     "eventid": 197109000002,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "11.558831",
-    "longitude": "104.917445"
+    "longitude": "104.917445",
+    "gname": "Unknown"
   },
   {
     "eventid": 197109010001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "32.462925",
-    "longitude": "-84.987629"
+    "longitude": "-84.987629",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197109020001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.487474",
-    "longitude": "-80.622003"
+    "longitude": "-80.622003",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197109020002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.078014",
-    "longitude": "-78.963646"
+    "longitude": "-78.963646",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197109030001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.22641",
-    "longitude": "-7.649053"
+    "longitude": "-7.649053",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109030002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109040001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.183052",
-    "longitude": "-6.341388"
+    "longitude": "-6.341388",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197109070001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197109080001,
     "iyear": 1971,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Unknown"
   },
   {
     "eventid": 197109090001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197109090002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.552254",
-    "longitude": "-6.086832"
+    "longitude": "-6.086832",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109130001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197109130002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197109140001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197109140002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.531707",
-    "longitude": "-6.737144"
+    "longitude": "-6.737144",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109140003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Black September"
   },
   {
     "eventid": 197109160001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Unknown"
   },
   {
     "eventid": 197109160002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197109160003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109170001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.651445",
-    "longitude": "-73.755254"
+    "longitude": "-73.755254",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197109170002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109180001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.819164",
-    "longitude": "-7.467909"
+    "longitude": "-7.467909",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109180002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "40.617623",
-    "longitude": "-74.417061"
+    "longitude": "-74.417061",
+    "gname": "Black Nationalists"
   },
   {
     "eventid": 197109200001,
     "iyear": 1971,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197109200002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Revolutionary Assault Team"
   },
   {
     "eventid": 197109200003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Black Revolutionary Assault Team"
   },
   {
     "eventid": 197109230001,
     "iyear": 1971,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197109230002,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197109240001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197109240002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197109240003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "45.511795",
-    "longitude": "-122.675629"
+    "longitude": "-122.675629",
+    "gname": "Quartermoon Society"
   },
   {
     "eventid": 197109240004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.331685",
-    "longitude": "-83.047924"
+    "longitude": "-83.047924",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197109280001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109290001,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197109300001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110000001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "1st of May Group"
   },
   {
     "eventid": 197110010001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110020001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.530989",
-    "longitude": "-6.02939"
+    "longitude": "-6.02939",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110030001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110030002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "27.94653",
-    "longitude": "-82.459269"
+    "longitude": "-82.459269",
+    "gname": "Student Radicals"
   },
   {
     "eventid": 197110040001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197110040002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "31.950001",
-    "longitude": "35.933331"
+    "longitude": "35.933331",
+    "gname": "Al-Fatah"
   },
   {
     "eventid": 197110060001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "50.666667",
-    "longitude": "17.933333"
+    "longitude": "17.933333",
+    "gname": "Anti-Communist extremists"
   },
   {
     "eventid": 197110070002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "33.74502",
-    "longitude": "-84.391669"
+    "longitude": "-84.391669",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197110090001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197110100001,
     "iyear": 1971,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197110110001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197110110002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "36.974025",
-    "longitude": "-122.030954"
+    "longitude": "-122.030954",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197110140001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Iranian extremists"
   },
   {
     "eventid": 197110150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.358635",
-    "longitude": "-71.056699"
+    "longitude": "-71.056699",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197110150002,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110150003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110160001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110170001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110180001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197110200002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197110230001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110240001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110260001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110270001,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197110270002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "53.361675",
-    "longitude": "-6.245485"
+    "longitude": "-6.245485",
+    "gname": "Saor Eire (Irish Republican Group)"
   },
   {
     "eventid": 197110310001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.654614",
-    "longitude": "-73.559413"
+    "longitude": "-73.559413",
+    "gname": "Students for a Democratic Society"
   },
   {
     "eventid": 197111010002,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111020001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Catalan Liberation Front (FAC)"
   },
   {
     "eventid": 197111020002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "34.097866",
-    "longitude": "-118.407379"
+    "longitude": "-118.407379",
+    "gname": "Weather Underground, Weathermen"
   },
   {
     "eventid": 197111020003,
     "nkill": 3,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111030001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "33.74502",
-    "longitude": "-84.391669"
+    "longitude": "-84.391669",
+    "gname": "Black Liberation Army"
   },
   {
     "eventid": 197111030002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-23.550711",
-    "longitude": "-46.633475"
+    "longitude": "-46.633475",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111030003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-23.550711",
-    "longitude": "-46.633475"
+    "longitude": "-46.633475",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111030004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-23.550711",
-    "longitude": "-46.633475"
+    "longitude": "-46.633475",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111040001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111070001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111090001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111100001,
     "iyear": 1971,
     "latitude": "31.950001",
-    "longitude": "35.933331"
+    "longitude": "35.933331",
+    "gname": "Black September"
   },
   {
     "eventid": 197111100002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197111110001,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111120001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197111120002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.205894",
-    "longitude": "-97.445714"
+    "longitude": "-97.445714",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197111150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.36679",
-    "longitude": "-71.106019"
+    "longitude": "-71.106019",
+    "gname": "Sons of Liberty"
   },
   {
     "eventid": 197111170001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111170002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.205894",
-    "longitude": "-97.445714"
+    "longitude": "-97.445714",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197111170003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "35.205894",
-    "longitude": "-97.445714"
+    "longitude": "-97.445714",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197111170004,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "43.618518",
-    "longitude": "-116.214619"
+    "longitude": "-116.214619",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197111180001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.29776",
-    "longitude": "-71.289744"
+    "longitude": "-71.289744",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111180002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.75815",
-    "longitude": "-73.327739"
+    "longitude": "-73.327739",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111180003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111200001,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111200002,
     "nkill": 25,
     "iyear": 1971,
     "latitude": "23.583333",
-    "longitude": "119.58333"
+    "longitude": "119.58333",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.933449",
-    "longitude": "-75.106743"
+    "longitude": "-75.106743",
+    "gname": "Puerto Rican Liberation Front"
   },
   {
     "eventid": 197111230001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "-33.873651",
-    "longitude": "151.20689"
+    "longitude": "151.20689",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197111240001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.819164",
-    "longitude": "-7.467909"
+    "longitude": "-7.467909",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111240002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111270002,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.183052",
-    "longitude": "-6.341388"
+    "longitude": "-6.341388",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111270003,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111280001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "30.084629",
-    "longitude": "31.334314"
+    "longitude": "31.334314",
+    "gname": "Black September"
   },
   {
     "eventid": 197111280002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111290001,
     "iyear": 1971,
     "latitude": "43.18418",
-    "longitude": "-2.473289"
+    "longitude": "-2.473289",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197111290002,
     "iyear": 1971,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "2nd of June Movement"
   },
   {
     "eventid": 197111290004,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197111300001,
     "iyear": 1971,
     "latitude": "29.591325",
-    "longitude": "52.58361"
+    "longitude": "52.58361",
+    "gname": "Unknown"
   },
   {
     "eventid": 197111300002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "41.084195",
-    "longitude": "-81.514059"
+    "longitude": "-81.514059",
+    "gname": "Left-Wing Militants"
   },
   {
     "eventid": 197112040001,
     "nkill": 15,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197112040002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112050001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197112060001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112060002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "44.79808",
-    "longitude": "-93.526664"
+    "longitude": "-93.526664",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197112070001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Unknown"
   },
   {
     "eventid": 197112070002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.351322",
-    "longitude": "-6.837455"
+    "longitude": "-6.837455",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112080001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112100001,
     "iyear": 1971,
     "latitude": "43.2482",
-    "longitude": "-1.990517"
+    "longitude": "-1.990517",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197112100002,
     "nkill": 2,
     "iyear": 1971,
     "latitude": "54.794884",
-    "longitude": "-7.537385"
+    "longitude": "-7.537385",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112110001,
     "nkill": 4,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112120001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.819164",
-    "longitude": "-7.467909"
+    "longitude": "-7.467909",
+    "gname": "Official Irish Republican Army (OIRA)"
   },
   {
     "eventid": 197112150001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Black September"
   },
   {
     "eventid": 197112150002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "46.198392",
-    "longitude": "6.142296"
+    "longitude": "6.142296",
+    "gname": "Black September"
   },
   {
     "eventid": 197112150003,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.365288",
-    "longitude": "-71.104359"
+    "longitude": "-71.104359",
+    "gname": "Sons of Liberty"
   },
   {
     "eventid": 197112160001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112180002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197112200001,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112200002,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "42.36679",
-    "longitude": "-71.106019"
+    "longitude": "-71.106019",
+    "gname": "Comrades in Arms"
   },
   {
     "eventid": 197112210002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197112220001,
     "nkill": 0,
     "iyear": 1971,
     "latitude": "39.933449",
-    "longitude": "-75.106743"
+    "longitude": "-75.106743",
+    "gname": "Puerto Rican Liberation Front"
   },
   {
     "eventid": 197112290001,
     "iyear": 1971,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197112290002,
     "nkill": 1,
     "iyear": 1971,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   }
 ]

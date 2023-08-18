@@ -10,14 +10,23 @@ const TerrorismMap = dynamic(() => import('../../components/viz/global-terrorism
   loading: () => <p>Loading...</p>
 });
 
+const GroupsMap = dynamic(() => import('../../components/viz/global-terrorism/GroupsMap'), { 
+    ssr: false, // This will make sure it is only rendered on client side 
+    loading: () => <p>Loading...</p>
+  });
+
 const GlobalTerrorism = () => {
   return (
     <>
     <Layout>
     <div className={styles.datastorycontainer}>
-    <h1 className={styles.title}>Visualizing 50 years of terrorism</h1>
-      <DataViz title="Title" description="Description">
+    <h1 className={styles.title}>Exploring the Global Terrorism DataBase</h1>
+      <DataViz title="50 years of terrorist attacks" description="Distribution of attacks across time"  dataLink="https://www.start.umd.edu/gtd/">
         <TerrorismMap />
+      </DataViz>
+      <br></br>
+      <DataViz title="Perpetrators groups along decades" description="What were the terrorist groups in different decades ?" dataLink="https://www.start.umd.edu/gtd">
+        <GroupsMap />
       </DataViz>
     </div>
     </Layout>

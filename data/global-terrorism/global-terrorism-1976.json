@@ -3,6352 +3,7275 @@
     "eventid": 197600000001,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Armenian Secret Army for the Liberation of Armenia"
   },
   {
     "eventid": 197600000002,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Armenian Secret Army for the Liberation of Armenia"
   },
   {
     "eventid": 197601000001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601010001,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601010002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Arabs"
   },
   {
     "eventid": 197601020001,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Polisario Front"
   },
   {
     "eventid": 197601020002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "20.673343",
-    "longitude": "-103.344177"
+    "longitude": "-103.344177",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197601030001,
     "iyear": 1976,
     "latitude": "36.763763",
-    "longitude": "3.055413"
+    "longitude": "3.055413",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601030002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.777106",
-    "longitude": "9.180769"
+    "longitude": "9.180769",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197601040001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "National Liberation Army of Colombia (ELN)"
   },
   {
     "eventid": 197601040002,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.223033",
-    "longitude": "-6.486782"
+    "longitude": "-6.486782",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197601040003,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.417699",
-    "longitude": "-6.36559"
+    "longitude": "-6.36559",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197601050001,
     "nkill": 10,
     "iyear": 1976,
     "latitude": "54.62713",
-    "longitude": "-6.655224"
+    "longitude": "-6.655224",
+    "gname": "Republican Action Force"
   },
   {
     "eventid": 197601050002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.77822",
-    "longitude": "-6.557964"
+    "longitude": "-6.557964",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601070001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601080001,
     "nkill": 8,
     "iyear": 1976,
     "latitude": "-32.951052",
-    "longitude": "-60.666365"
+    "longitude": "-60.666365",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601090001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197601090002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197601100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197601100003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197601100004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197601110001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197601110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "33.83276",
-    "longitude": "-117.915719"
+    "longitude": "-117.915719",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601110003,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197601120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.512054",
-    "longitude": "7.463573"
+    "longitude": "7.463573",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197601120002,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601120003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197601120004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197601130001,
     "iyear": 1976,
     "latitude": "43.170017",
-    "longitude": "-2.575197"
+    "longitude": "-2.575197",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197601130002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.106075",
-    "longitude": "-122.567889"
+    "longitude": "-122.567889",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197601130004,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601140001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "3.24114",
-    "longitude": "-74.35539"
+    "longitude": "-74.35539",
+    "gname": "Revolutionary Armed Forces of Colombia (FARC)"
   },
   {
     "eventid": 197601140002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Red Guerilla Family"
   },
   {
     "eventid": 197601140003,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "8.449905",
-    "longitude": "-75.997844"
+    "longitude": "-75.997844",
+    "gname": "National Liberation Army of Colombia (ELN)"
   },
   {
     "eventid": 197601140004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197601140005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.692009",
-    "longitude": "-6.6703"
+    "longitude": "-6.6703",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197601150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601150002,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Popular Liberation Army (EPL)"
   },
   {
     "eventid": 197601160001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197601170001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.054198",
-    "longitude": "-2.178116"
+    "longitude": "-2.178116",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197601170002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601170003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601170004,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197601180001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.170017",
-    "longitude": "-2.575197"
+    "longitude": "-2.575197",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197601210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601210002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.546887",
-    "longitude": "-121.508201"
+    "longitude": "-121.508201",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601220001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "38.348981",
-    "longitude": "38.301241"
+    "longitude": "38.301241",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197601220002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197601220003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.910864",
-    "longitude": "-7.15523"
+    "longitude": "-7.15523",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601220004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197601220005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.450971",
-    "longitude": "-6.79434"
+    "longitude": "-6.79434",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601220006,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197601230001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "47.462201",
-    "longitude": "-122.254239"
+    "longitude": "-122.254239",
+    "gname": "George Jackson Brigade"
   },
   {
     "eventid": 197601240001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197601250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601250002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197601250003,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.515694",
-    "longitude": "-6.055724"
+    "longitude": "-6.055724",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197601260001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197601260002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.335417",
-    "longitude": "16.302073"
+    "longitude": "16.302073",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601270002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197601280001,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197601280002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "33.44826",
-    "longitude": "-112.075774"
+    "longitude": "-112.075774",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601280003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Armed Proletarian Nuclei (NAP)"
   },
   {
     "eventid": 197601280004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-1.28518",
-    "longitude": "36.821107"
+    "longitude": "36.821107",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197601280006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197601290001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197601290002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197601290003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197601300001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.697276",
-    "longitude": "-9.421758"
+    "longitude": "-9.421758",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601300002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601300003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.355509",
-    "longitude": "-121.954262"
+    "longitude": "-121.954262",
+    "gname": "Unknown"
   },
   {
     "eventid": 197601300004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197601310001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197602000001,
     "iyear": 1976,
     "latitude": "53.361675",
-    "longitude": "-6.245485"
+    "longitude": "-6.245485",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602000002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "53.480713",
-    "longitude": "-2.234377"
+    "longitude": "-2.234377",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602000003,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Armenian Secret Army for the Liberation of Armenia"
   },
   {
     "eventid": 197602000004,
     "iyear": 1976,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Armenian Secret Army for the Liberation of Armenia"
   },
   {
     "eventid": 197602010001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197602010002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.014411",
-    "longitude": "-122.66847"
+    "longitude": "-122.66847",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197602010003,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197602010004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197602030001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "36.32396",
-    "longitude": "59.556959"
+    "longitude": "59.556959",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602030002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Front for the Liberation of the French Somali Coast"
   },
   {
     "eventid": 197602040001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "49.45052",
-    "longitude": "11.08048"
+    "longitude": "11.08048",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602040002,
     "iyear": 1976,
     "latitude": "37.55765",
-    "longitude": "-120.913774"
+    "longitude": "-120.913774",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197602050001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "International Revolutionary Solidarity"
   },
   {
     "eventid": 197602050002,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "International Revolutionary Solidarity"
   },
   {
     "eventid": 197602060001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602070001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197602070002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602070003,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.645861",
-    "longitude": "-6.745149"
+    "longitude": "-6.745149",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602070004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Irish National Liberation Army (INLA)"
   },
   {
     "eventid": 197602070005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197602080001,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197602080002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "47.764064",
-    "longitude": "8.853396"
+    "longitude": "8.853396",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602090001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.230556",
-    "longitude": "-2.845833"
+    "longitude": "-2.845833",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197602090002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Armed Proletarian Nuclei (NAP)"
   },
   {
     "eventid": 197602090003,
     "iyear": 1976,
     "latitude": "8.881636",
-    "longitude": "-64.233121"
+    "longitude": "-64.233121",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602090004,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197602100001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.199523",
-    "longitude": "-2.074074"
+    "longitude": "-2.074074",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197602110001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-37.997567",
-    "longitude": "-57.54823"
+    "longitude": "-57.54823",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197602110002,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "New Order- France"
   },
   {
     "eventid": 197602120001,
     "iyear": 1976,
     "latitude": "13.981479",
-    "longitude": "-89.555717"
+    "longitude": "-89.555717",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602120002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "35.612751",
-    "longitude": "-121.143967"
+    "longitude": "-121.143967",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197602120003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "23.567846",
-    "longitude": "-79.587372"
+    "longitude": "-79.587372",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602120004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Front for the Liberation of the French Somali Coast"
   },
   {
     "eventid": 197602120005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.910864",
-    "longitude": "-7.15523"
+    "longitude": "-7.15523",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602120006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602130001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.54703",
-    "longitude": "-122.314834"
+    "longitude": "-122.314834",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197602130002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602130003,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "6.452331",
-    "longitude": "3.419044"
+    "longitude": "3.419044",
+    "gname": "Coup plotters"
   },
   {
     "eventid": 197602150001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "-21.975651",
-    "longitude": "16.912449"
+    "longitude": "16.912449",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602150002,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197602160001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "6.17346",
-    "longitude": "-75.59278"
+    "longitude": "-75.59278",
+    "gname": "National Liberation Army of Colombia (ELN)"
   },
   {
     "eventid": 197602160002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Armenian Secret Army for the Liberation of Armenia"
   },
   {
     "eventid": 197602170001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "M-19 (Movement of April 19)"
   },
   {
     "eventid": 197602170002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602170003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Armenian Secret Army for the Liberation of Armenia"
   },
   {
     "eventid": 197602170004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.910864",
-    "longitude": "-7.15523"
+    "longitude": "-7.15523",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197602190001,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602190002,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197602190003,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197602190004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197602200001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197602200002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602200003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.764043",
-    "longitude": "4.835659"
+    "longitude": "4.835659",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602200004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.583148",
-    "longitude": "7.747882"
+    "longitude": "7.747882",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602200005,
     "iyear": 1976,
     "latitude": "16.799036",
-    "longitude": "121.122622"
+    "longitude": "121.122622",
+    "gname": "New People's Army (NPA)"
   },
   {
     "eventid": 197602210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Revolutionary Command"
   },
   {
     "eventid": 197602210002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "47.237829",
-    "longitude": "6.024054"
+    "longitude": "6.024054",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602210003,
     "nkill": 8,
     "iyear": 1976,
     "latitude": "16.799036",
-    "longitude": "121.122622"
+    "longitude": "121.122622",
+    "gname": "New People's Army (NPA)"
   },
   {
     "eventid": 197602210004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197602220001,
     "iyear": 1976,
     "latitude": "13.981479",
-    "longitude": "-89.555717"
+    "longitude": "-89.555717",
+    "gname": "Unknown"
   },
   {
     "eventid": 197602220002,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "United Liberation Front for the New Algeria"
   },
   {
     "eventid": 197602230001,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197602230002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197602250001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197602260001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.192934",
-    "longitude": "-6.576051"
+    "longitude": "-6.576051",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602270001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "People's Revolutionary Army (ERP) (El Salvador)"
   },
   {
     "eventid": 197602270002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Revolutionary People's Struggle (ELA)"
   },
   {
     "eventid": 197602270003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Revolutionary People's Struggle (ELA)"
   },
   {
     "eventid": 197602270004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197602270005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602270006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197602280001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "6.705778",
-    "longitude": "121.972109"
+    "longitude": "121.972109",
+    "gname": "Moro National Liberation Front (MNLF)"
   },
   {
     "eventid": 197603000001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Argentine Anticommunist Alliance (AAA)"
   },
   {
     "eventid": 197603010001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.291618",
-    "longitude": "-1.977903"
+    "longitude": "-1.977903",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197603010002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.321127",
-    "longitude": "-1.898775"
+    "longitude": "-1.898775",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197603010003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603020001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "43.062096",
-    "longitude": "141.354376"
+    "longitude": "141.354376",
+    "gname": "East Asia Anti Japanese Armed Front"
   },
   {
     "eventid": 197603030001,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197603040001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197603050001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Red Guerilla Family"
   },
   {
     "eventid": 197603050002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197603050003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.424305",
-    "longitude": "-122.143913"
+    "longitude": "-122.143913",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603050004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197603070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603070002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.117879",
-    "longitude": "-6.733377"
+    "longitude": "-6.733377",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197603080001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603080002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197603080003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197603080004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603080005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.25486",
-    "longitude": "-85.766404"
+    "longitude": "-85.766404",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197603090001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "People's Revolutionary Army (ERP) (El Salvador)"
   },
   {
     "eventid": 197603090002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.437725",
-    "longitude": "-6.002254"
+    "longitude": "-6.002254",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197603100001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.787715",
-    "longitude": "-6.492314"
+    "longitude": "-6.492314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603100002,
     "iyear": 1976,
     "latitude": "-34.68631",
-    "longitude": "-58.528473"
+    "longitude": "-58.528473",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197603100003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.520541",
-    "longitude": "-5.975842"
+    "longitude": "-5.975842",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603110001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.068201",
-    "longitude": "-3.522168"
+    "longitude": "-3.522168",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.587515",
-    "longitude": "-122.392934"
+    "longitude": "-122.392934",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197603130001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197603130002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603140001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603140002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603150001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.303261",
-    "longitude": "-2.204363"
+    "longitude": "-2.204363",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197603150002,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197603150003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603150004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603170001,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "54.50853",
-    "longitude": "-6.763131"
+    "longitude": "-6.763131",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197603180001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.291618",
-    "longitude": "-1.977903"
+    "longitude": "-1.977903",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197603180002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197603220001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.149968",
-    "longitude": "-8.610243"
+    "longitude": "-8.610243",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603230001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.694903",
-    "longitude": "9.669953"
+    "longitude": "9.669953",
+    "gname": "Armed Communist Struggle"
   },
   {
     "eventid": 197603240001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197603270001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197603270002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197603270003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197603270004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197603270005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "51.504387",
-    "longitude": "-0.140041"
+    "longitude": "-0.140041",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603290001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603290002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.213924",
-    "longitude": "6.780691"
+    "longitude": "6.780691",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603290003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.213924",
-    "longitude": "6.780691"
+    "longitude": "6.780691",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603290004,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603290005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603290006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603290007,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603300001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "10.981412",
-    "longitude": "-74.778319"
+    "longitude": "-74.778319",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603300002,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197603300003,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197603300004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.41795",
-    "longitude": "-6.38296"
+    "longitude": "-6.38296",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197603310001,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197603310003,
     "iyear": 1976,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Unknown"
   },
   {
     "eventid": 197603310004,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.482055",
-    "longitude": "-8.088244"
+    "longitude": "-8.088244",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604000001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197604000002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604010001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.77822",
-    "longitude": "-6.557964"
+    "longitude": "-6.557964",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604020001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604020002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197604020003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.832648",
-    "longitude": "-6.601738"
+    "longitude": "-6.601738",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604030001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.359399",
-    "longitude": "-1.766148"
+    "longitude": "-1.766148",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197604030002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.359399",
-    "longitude": "-1.766148"
+    "longitude": "-1.766148",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197604030003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604030004,
     "iyear": 1976,
     "latitude": "25.721293",
-    "longitude": "-80.268664"
+    "longitude": "-80.268664",
+    "gname": "Cuban extremists"
   },
   {
     "eventid": 197604040001,
     "iyear": 1976,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604040002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604050001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "27.664827",
-    "longitude": "-81.515754"
+    "longitude": "-81.515754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604050002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Omega-7"
   },
   {
     "eventid": 197604050003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.192934",
-    "longitude": "-6.576051"
+    "longitude": "-6.576051",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604060001,
     "iyear": 1976,
     "latitude": "51.198429",
-    "longitude": "6.69529"
+    "longitude": "6.69529",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604060002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.293235",
-    "longitude": "-6.842351"
+    "longitude": "-6.842351",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604070002,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.41653",
-    "longitude": "-6.148866"
+    "longitude": "-6.148866",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604070003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "8.482536",
-    "longitude": "124.647404"
+    "longitude": "124.647404",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604080001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604080002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.596939",
-    "longitude": "-7.050618"
+    "longitude": "-7.050618",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604090001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197604090002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.347539",
-    "longitude": "-6.656108"
+    "longitude": "-6.656108",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197604100001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Mujahedin-e Khalq (MEK)"
   },
   {
     "eventid": 197604100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "35.329197",
-    "longitude": "25.138667"
+    "longitude": "25.138667",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604100003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604100004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604110001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.696036",
-    "longitude": "7.265592"
+    "longitude": "7.265592",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.696036",
-    "longitude": "7.265592"
+    "longitude": "7.265592",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604130001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197604130002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197604140001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197604140002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Armed Communist Formations"
   },
   {
     "eventid": 197604140003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604140004,
     "iyear": 1976,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.910536",
-    "longitude": "16.587757"
+    "longitude": "16.587757",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604150002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.473296",
-    "longitude": "11.84487"
+    "longitude": "11.84487",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604160001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604160002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604170001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Armed Communist Formations"
   },
   {
     "eventid": 197604170002,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604170003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604170004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604170005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.126",
-    "longitude": "16.868378"
+    "longitude": "16.868378",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604170006,
     "iyear": 1976,
     "latitude": "40.320996",
-    "longitude": "9.330356"
+    "longitude": "9.330356",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604170007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.962652",
-    "longitude": "12.655044"
+    "longitude": "12.655044",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604170008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604190001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604190002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.553417",
-    "longitude": "-6.003314"
+    "longitude": "-6.003314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604200001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-22.567335",
-    "longitude": "17.083271"
+    "longitude": "17.083271",
+    "gname": "South-West Africa People's Organization (SWAPO)"
   },
   {
     "eventid": 197604200002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.136978",
-    "longitude": "-2.073914"
+    "longitude": "-2.073914",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604200003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.136978",
-    "longitude": "-2.073914"
+    "longitude": "-2.073914",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604200004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.136978",
-    "longitude": "-2.073914"
+    "longitude": "-2.073914",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Armed Communist Formations"
   },
   {
     "eventid": 197604210002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Armed Communist Formations"
   },
   {
     "eventid": 197604220001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604220002,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604220003,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Portuguese Anti-Communist Movement"
   },
   {
     "eventid": 197604220004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.358635",
-    "longitude": "-71.056699"
+    "longitude": "-71.056699",
+    "gname": "United Freedom Front (UFF)"
   },
   {
     "eventid": 197604220005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.536706",
-    "longitude": "-6.70361"
+    "longitude": "-6.70361",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604230001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604230002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197604230003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197604240001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.19404",
-    "longitude": "-6.144144"
+    "longitude": "-6.144144",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197604240002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.102813",
-    "longitude": "-6.259412"
+    "longitude": "-6.259412",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197604260001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.636175",
-    "longitude": "17.938991"
+    "longitude": "17.938991",
+    "gname": "Continuous Struggle"
   },
   {
     "eventid": 197604260002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "46.496714",
-    "longitude": "11.358008"
+    "longitude": "11.358008",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604260003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "34.081074",
-    "longitude": "-118.394081"
+    "longitude": "-118.394081",
+    "gname": "Armenian Group"
   },
   {
     "eventid": 197604270001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604290001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-26.808285",
-    "longitude": "-65.21759"
+    "longitude": "-65.21759",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197604290002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604290003,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Argentine Anticommunist Alliance (AAA)"
   },
   {
     "eventid": 197604290004,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "31.784838",
-    "longitude": "35.224613"
+    "longitude": "35.224613",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197604290005,
     "nkill": 8,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197604290006,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.50853",
-    "longitude": "-6.763131"
+    "longitude": "-6.763131",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197604300001,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Unknown"
   },
   {
     "eventid": 197604300002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605000001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605000002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605000003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "14.032334",
-    "longitude": "38.316572"
+    "longitude": "38.316572",
+    "gname": "Tigray Peoples Liberation Front (TPLF)"
   },
   {
     "eventid": 197605000004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Eritrean Liberation Front"
   },
   {
     "eventid": 197605000005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605010001,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605010002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605010003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-33.366238",
-    "longitude": "-70.505302"
+    "longitude": "-70.505302",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605020001,
     "iyear": 1976,
     "latitude": "3.429344",
-    "longitude": "-76.516037"
+    "longitude": "-76.516037",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605020006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "53.993847",
-    "longitude": "-6.396594"
+    "longitude": "-6.396594",
+    "gname": "Red Hand Commandos"
   },
   {
     "eventid": 197605020007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197605020008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605020009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197605020010,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Armed Resistance"
   },
   {
     "eventid": 197605030001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197605030002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "31.771599",
-    "longitude": "35.2034"
+    "longitude": "35.2034",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197605040001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197605040002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605050001,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Argentine Anticommunist Alliance (AAA)"
   },
   {
     "eventid": 197605050002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605060001,
     "nkill": 7,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197605060002,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605060003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605060004,
     "iyear": 1976,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605060005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "M-19 (Movement of April 19)"
   },
   {
     "eventid": 197605070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605070002,
     "iyear": 1976,
     "latitude": "25.774591",
-    "longitude": "-80.214195"
+    "longitude": "-80.214195",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605080001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "1.700854",
-    "longitude": "-76.572882"
+    "longitude": "-76.572882",
+    "gname": "National Liberation Army of Colombia (ELN)"
   },
   {
     "eventid": 197605090001,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197605090002,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605090003,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605090004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605100001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.604652",
-    "longitude": "1.444209"
+    "longitude": "1.444209",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.836699",
-    "longitude": "4.360054"
+    "longitude": "4.360054",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605100003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605100004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605110001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Armed Nucleus for Popular Autonomy"
   },
   {
     "eventid": 197605110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605120002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605120003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Combat Territory Groups"
   },
   {
     "eventid": 197605120004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Combat Territory Groups"
   },
   {
     "eventid": 197605120005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605120006,
     "iyear": 1976,
     "latitude": "44.310519",
-    "longitude": "-69.779646"
+    "longitude": "-69.779646",
+    "gname": "Fred Hampton Unit of the People's Forces"
   },
   {
     "eventid": 197605130001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197605130002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.95259",
-    "longitude": "-76.942074"
+    "longitude": "-76.942074",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197605130003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.95259",
-    "longitude": "-76.942074"
+    "longitude": "-76.942074",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197605140001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.434336",
-    "longitude": "12.338786"
+    "longitude": "12.338786",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605140008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197605150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605150002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.940664",
-    "longitude": "6.959912"
+    "longitude": "6.959912",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605150003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.680371",
-    "longitude": "7.817429"
+    "longitude": "7.817429",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197605150004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605150005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605150006,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.296399",
-    "longitude": "-7.871465"
+    "longitude": "-7.871465",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605150007,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197605150008,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.441136",
-    "longitude": "-6.685511"
+    "longitude": "-6.685511",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197605150009,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.102813",
-    "longitude": "-6.259412"
+    "longitude": "-6.259412",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605160001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605160002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.439827",
-    "longitude": "-6.75975"
+    "longitude": "-6.75975",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605160003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Cuban Exiles"
   },
   {
     "eventid": 197605160004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Save Our Israel Land"
   },
   {
     "eventid": 197605160005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Save Our Israel Land"
   },
   {
     "eventid": 197605170001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197605170002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.648377",
-    "longitude": "0.156237"
+    "longitude": "0.156237",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170006,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.940664",
-    "longitude": "6.959912"
+    "longitude": "6.959912",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.457935",
-    "longitude": "7.014828"
+    "longitude": "7.014828",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605170010,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.446614",
-    "longitude": "-6.690752"
+    "longitude": "-6.690752",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197605170011,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.441136",
-    "longitude": "-6.685511"
+    "longitude": "-6.685511",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197605190001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605200001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.836426",
-    "longitude": "4.367415"
+    "longitude": "4.367415",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605210001,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605210002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.479875",
-    "longitude": "-6.228448"
+    "longitude": "-6.228448",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605210003,
     "nkill": 13,
     "iyear": 1976,
     "latitude": "7.083241",
-    "longitude": "125.600998"
+    "longitude": "125.600998",
+    "gname": "Muslim Rebels"
   },
   {
     "eventid": 197605220001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.249541",
-    "longitude": "-7.278094"
+    "longitude": "-7.278094",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605240001,
     "nkill": 16,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Moro National Liberation Front (MNLF)"
   },
   {
     "eventid": 197605250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197605250002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197605250003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.38264",
-    "longitude": "-5.996295"
+    "longitude": "-5.996295",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197605250004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197605260001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "28.585836",
-    "longitude": "77.153336"
+    "longitude": "77.153336",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605260002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197605260003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197605260004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197605260005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.258434",
-    "longitude": "-2.921819"
+    "longitude": "-2.921819",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605270001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Justice Commandos for the Armenian Genocide"
   },
   {
     "eventid": 197605270002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605270003,
     "iyear": 1976,
     "latitude": "19.6",
-    "longitude": "-99.05"
+    "longitude": "-99.05",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197605270004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197605280001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "47.36865",
-    "longitude": "8.539182"
+    "longitude": "8.539182",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605280002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "47.36865",
-    "longitude": "8.539182"
+    "longitude": "8.539182",
+    "gname": "Justice Commandos for the Armenian Genocide"
   },
   {
     "eventid": 197605280004,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197605290001,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197605290002,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197605290003,
     "iyear": 1976,
     "latitude": "6.263255",
-    "longitude": "-74.298998"
+    "longitude": "-74.298998",
+    "gname": "Revolutionary Armed Forces of Colombia (FARC)"
   },
   {
     "eventid": 197605300001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197606010001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606010002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Commando Heinz Neumann"
   },
   {
     "eventid": 197606010003,
     "iyear": 1976,
     "latitude": "51.451604",
-    "longitude": "6.640815"
+    "longitude": "6.640815",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606010004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Red Cell"
   },
   {
     "eventid": 197606010005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Red Cell"
   },
   {
     "eventid": 197606010006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Extremists"
   },
   {
     "eventid": 197606020001,
     "iyear": 1976,
     "latitude": "28.124824",
-    "longitude": "-15.430008"
+    "longitude": "-15.430008",
+    "gname": "Canary Islands Independence Movement"
   },
   {
     "eventid": 197606020002,
     "iyear": 1976,
     "latitude": "47.997542",
-    "longitude": "-4.097899"
+    "longitude": "-4.097899",
+    "gname": "Breton Liberation Front (FLB)"
   },
   {
     "eventid": 197606020003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.084284",
-    "longitude": "8.238717"
+    "longitude": "8.238717",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197606020004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197606020005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606020006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606020007,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.550444",
-    "longitude": "-5.745668"
+    "longitude": "-5.745668",
+    "gname": "Red Hand Commandos"
   },
   {
     "eventid": 197606030001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.10492",
-    "longitude": "8.758561"
+    "longitude": "8.758561",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606040001,
     "nkill": 6,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197606040002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Proletarian Resistance Movement"
   },
   {
     "eventid": 197606040003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606040004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197606050001,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606050002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197606050003,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197606050004,
     "nkill": 5,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197606050005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.380333",
-    "longitude": "-5.547978"
+    "longitude": "-5.547978",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197606050006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197606060002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606060004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606060005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Omega-7"
   },
   {
     "eventid": 197606070001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-25.282773",
-    "longitude": "-57.63561"
+    "longitude": "-57.63561",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197606070002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606070004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606070005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606070006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606080001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606080002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.543446",
-    "longitude": "-6.039963"
+    "longitude": "-6.039963",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197606090001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.222177",
-    "longitude": "-2.885668"
+    "longitude": "-2.885668",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197606090002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197606090003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.320996",
-    "longitude": "9.330356"
+    "longitude": "9.330356",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606090005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606100001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197606100002,
     "iyear": 1976,
     "latitude": "48.1734",
-    "longitude": "9.80006"
+    "longitude": "9.80006",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606110001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Eritrean Liberation Front"
   },
   {
     "eventid": 197606110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Argentine Anticommunist Alliance (AAA)"
   },
   {
     "eventid": 197606120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606140001,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Communist Combat Unit"
   },
   {
     "eventid": 197606150001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606160001,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "33.888523",
-    "longitude": "35.503513"
+    "longitude": "35.503513",
+    "gname": "Socialist Labor Party of Lebanon"
   },
   {
     "eventid": 197606160002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "47.791047",
-    "longitude": "12.714544"
+    "longitude": "12.714544",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197606170001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "24.80485",
-    "longitude": "-107.385498"
+    "longitude": "-107.385498",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197606170002,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Moro National Liberation Front (MNLF)"
   },
   {
     "eventid": 197606170003,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197606180001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197606180002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "53.823933",
-    "longitude": "9.287901"
+    "longitude": "9.287901",
+    "gname": "2nd of June Movement"
   },
   {
     "eventid": 197606180003,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197606180004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "53.553813",
-    "longitude": "9.991586"
+    "longitude": "9.991586",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606180005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197606190001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "44.49419",
-    "longitude": "11.346518"
+    "longitude": "11.346518",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606190002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606190003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606190004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.553417",
-    "longitude": "-6.003314"
+    "longitude": "-6.003314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606200001,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606200002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197606210002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197606210003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.553417",
-    "longitude": "-6.003314"
+    "longitude": "-6.003314",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606210004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.64589",
-    "longitude": "-71.312844"
+    "longitude": "-71.312844",
+    "gname": "United Freedom Front (UFF)"
   },
   {
     "eventid": 197606220001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.446968",
-    "longitude": "-6.39292"
+    "longitude": "-6.39292",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606230002,
     "nkill": 7,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606230003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.118385",
-    "longitude": "-6.641824"
+    "longitude": "-6.641824",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606230004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197606240002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.68631",
-    "longitude": "-58.528473"
+    "longitude": "-58.528473",
+    "gname": "Unknown"
   },
   {
     "eventid": 197606250002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "International Revolutionary Solidarity"
   },
   {
     "eventid": 197606250009,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.70333",
-    "longitude": "-6.095585"
+    "longitude": "-6.095585",
+    "gname": "Republican Action Force"
   },
   {
     "eventid": 197606250010,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606250011,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606250012,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606250013,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606250014,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197606250015,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Jewish Defense League (JDL)"
   },
   {
     "eventid": 197606260001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-27.471473",
-    "longitude": "-58.839955"
+    "longitude": "-58.839955",
+    "gname": "Political Military Organization of Paraguay"
   },
   {
     "eventid": 197606260002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197606270001,
     "nkill": 13,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Palestine Liberation Organization (PLO)"
   },
   {
     "eventid": 197606280001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.718889",
-    "longitude": "-89.724167"
+    "longitude": "-89.724167",
+    "gname": "Armed Forces of National Resistance (FARN)"
   },
   {
     "eventid": 197606280002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606300001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197606300002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607010001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197607010002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.811978",
-    "longitude": "-70.872638"
+    "longitude": "-70.872638",
+    "gname": "Fred Hampton Unit of the People's Forces"
   },
   {
     "eventid": 197607010003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607010004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197607020001,
     "nkill": 25,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197607020002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "29.347702",
-    "longitude": "47.94912"
+    "longitude": "47.94912",
+    "gname": "Black September"
   },
   {
     "eventid": 197607020006,
     "nkill": 6,
     "iyear": 1976,
     "latitude": "54.713382",
-    "longitude": "-6.216761"
+    "longitude": "-6.216761",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197607020007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.87568",
-    "longitude": "-70.871914"
+    "longitude": "-70.871914",
+    "gname": "Fred Hampton Unit of the People's Forces"
   },
   {
     "eventid": 197607020008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.358635",
-    "longitude": "-71.056699"
+    "longitude": "-71.056699",
+    "gname": "Fred Hampton Unit of the People's Forces"
   },
   {
     "eventid": 197607020009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.358635",
-    "longitude": "-71.056699"
+    "longitude": "-71.056699",
+    "gname": "Fred Hampton Unit of the People's Forces"
   },
   {
     "eventid": 197607030001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607040001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.670778",
-    "longitude": "3.577523"
+    "longitude": "3.577523",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197607040002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.40807",
-    "longitude": "-71.013589"
+    "longitude": "-71.013589",
+    "gname": "United Freedom Front (UFF)"
   },
   {
     "eventid": 197607060001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-16.509317",
-    "longitude": "-68.10434"
+    "longitude": "-68.10434",
+    "gname": "Revolutionary Workers Party of Bolivia (PRTB)"
   },
   {
     "eventid": 197607060002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607070001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197607090001,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607090002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "44.49419",
-    "longitude": "11.346518"
+    "longitude": "11.346518",
+    "gname": "Black Order"
   },
   {
     "eventid": 197607090003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "18.021429",
-    "longitude": "-76.798279"
+    "longitude": "-76.798279",
+    "gname": "National Front for the Liberation of Cuba (FLNC)"
   },
   {
     "eventid": 197607090004,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197607100001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Italian Social Movement (MSI)"
   },
   {
     "eventid": 197607100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.1",
-    "longitude": "-59.616667"
+    "longitude": "-59.616667",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197607100003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Palestinians"
   },
   {
     "eventid": 197607110001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197607110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607110003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197607120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.311477",
-    "longitude": "38.267046"
+    "longitude": "38.267046",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607120002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197607120003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197607120004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197607120005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197607120006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197607120007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197607130001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197607140001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607140002,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.773892",
-    "longitude": "11.379185"
+    "longitude": "11.379185",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607160001,
     "iyear": 1976,
     "latitude": "42.560219",
-    "longitude": "12.646781"
+    "longitude": "12.646781",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607180001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.918891",
-    "longitude": "8.737554"
+    "longitude": "8.737554",
+    "gname": "Corsican National Liberation Front (FLNC)"
   },
   {
     "eventid": 197607180002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.297222",
-    "longitude": "-2.991667"
+    "longitude": "-2.991667",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.258434",
-    "longitude": "-2.921819"
+    "longitude": "-2.921819",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.880447",
-    "longitude": "-8.546303"
+    "longitude": "-8.546303",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.231356",
-    "longitude": "-8.712447"
+    "longitude": "-8.712447",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180010,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197607180011,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.253718",
-    "longitude": "-7.44106"
+    "longitude": "-7.44106",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607190001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.893383",
-    "longitude": "8.70492"
+    "longitude": "8.70492",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607200001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607200002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607200003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607200004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607210001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "53.361675",
-    "longitude": "-6.245485"
+    "longitude": "-6.245485",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607210002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607220001,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607220002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607230001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "20.97",
-    "longitude": "-89.62"
+    "longitude": "-89.62",
+    "gname": "National Front for the Liberation of Cuba (FLNC)"
   },
   {
     "eventid": 197607230002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-33.366238",
-    "longitude": "-70.505302"
+    "longitude": "-70.505302",
+    "gname": "Movement of the Revolutionary Left (MIR) (Chile)"
   },
   {
     "eventid": 197607230003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "20.97",
-    "longitude": "-89.62"
+    "longitude": "-89.62",
+    "gname": "National Front for the Liberation of Cuba (FLNC)"
   },
   {
     "eventid": 197607230004,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Roberto Santucho Revolutionary Group"
   },
   {
     "eventid": 197607230005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Che Guevara Brigade"
   },
   {
     "eventid": 197607240001,
     "iyear": 1976,
     "latitude": "45.188529",
-    "longitude": "5.724524"
+    "longitude": "5.724524",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197607240002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607240003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Omega-7"
   },
   {
     "eventid": 197607250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Tigray Peoples Liberation Front (TPLF)"
   },
   {
     "eventid": 197607250002,
     "iyear": 1976,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607250003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.023062",
-    "longitude": "8.533072"
+    "longitude": "8.533072",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197607250004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.411142",
-    "longitude": "-6.600146"
+    "longitude": "-6.600146",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197607260001,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "International Revolutionary Solidarity"
   },
   {
     "eventid": 197607260002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Cypriot"
   },
   {
     "eventid": 197607270001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607280001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "51.213924",
-    "longitude": "6.780691"
+    "longitude": "6.780691",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197607290001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197607290002,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197607300001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.692009",
-    "longitude": "-6.6703"
+    "longitude": "-6.6703",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197607300002,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "54.55008",
-    "longitude": "-5.93306"
+    "longitude": "-5.93306",
+    "gname": "Republican Action Force"
   },
   {
     "eventid": 197607310001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Moro National Liberation Front (MNLF)"
   },
   {
     "eventid": 197607310002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197608000001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "44.060917",
-    "longitude": "12.566301"
+    "longitude": "12.566301",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608010001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "46.066712",
-    "longitude": "11.119059"
+    "longitude": "11.119059",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608010002,
     "iyear": 1976,
     "latitude": "46.066712",
-    "longitude": "11.119059"
+    "longitude": "11.119059",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608010003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197608020001,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608020002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197608030001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "25.172109",
-    "longitude": "-107.479517"
+    "longitude": "-107.479517",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197608030002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.927953",
-    "longitude": "-6.925873"
+    "longitude": "-6.925873",
+    "gname": "Irish National Liberation Army (INLA)"
   },
   {
     "eventid": 197608040001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608040002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608040003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608040004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608050001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.843014",
-    "longitude": "10.507994"
+    "longitude": "10.507994",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608060001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.46096",
-    "longitude": "-3.807934"
+    "longitude": "-3.807934",
+    "gname": "Anti-Terrorism ETA (ATE)"
   },
   {
     "eventid": 197608070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.880447",
-    "longitude": "-8.546303"
+    "longitude": "-8.546303",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197608080001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608080002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.077313",
-    "longitude": "-6.608787"
+    "longitude": "-6.608787",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197608100001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "13.981479",
-    "longitude": "-89.555717"
+    "longitude": "-89.555717",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608100002,
     "iyear": 1976,
     "latitude": "41.981796",
-    "longitude": "2.8237"
+    "longitude": "2.8237",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197608110001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197608110002,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197608110003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197608130001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608140001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608140002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140010,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140011,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140012,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140013,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140014,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140015,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140016,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140017,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608140018,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.214436",
-    "longitude": "9.407588"
+    "longitude": "9.407588",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608160001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Prolitarian Internationalism"
   },
   {
     "eventid": 197608160002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.250039",
-    "longitude": "-6.703625"
+    "longitude": "-6.703625",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197608170001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608180001,
     "iyear": 1976,
     "latitude": "13.491242",
-    "longitude": "-88.173134"
+    "longitude": "-88.173134",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608180002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "9.087022",
-    "longitude": "-79.384644"
+    "longitude": "-79.384644",
+    "gname": "Anti-Castro Command"
   },
   {
     "eventid": 197608180003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "8.994269",
-    "longitude": "-79.518792"
+    "longitude": "-79.518792",
+    "gname": "Anti-Castro Command"
   },
   {
     "eventid": 197608180004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197608190001,
     "iyear": 1976,
     "latitude": "-22.908278",
-    "longitude": "-43.197026"
+    "longitude": "-43.197026",
+    "gname": "Brazilian Anti-Communist Alliance (AAB)"
   },
   {
     "eventid": 197608190002,
     "iyear": 1976,
     "latitude": "-22.908278",
-    "longitude": "-43.197026"
+    "longitude": "-43.197026",
+    "gname": "Brazilian Anti-Communist Alliance (AAB)"
   },
   {
     "eventid": 197608190003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608190004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197608190005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197608200001,
     "nkill": 30,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Argentine Anticommunist Alliance (AAA)"
   },
   {
     "eventid": 197608200002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197608210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.078766",
-    "longitude": "6.704283"
+    "longitude": "6.704283",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608220001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.208174",
-    "longitude": "16.373819"
+    "longitude": "16.373819",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608230001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.610769",
-    "longitude": "3.876716"
+    "longitude": "3.876716",
+    "gname": "International Revolutionary Action Group (GARI)"
   },
   {
     "eventid": 197608240001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197608240002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Union Guerrera Blanca (UGB)"
   },
   {
     "eventid": 197608240003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "46.066712",
-    "longitude": "11.119059"
+    "longitude": "11.119059",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197608260001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197608270001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197608270002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197608270003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197608270004,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197608280001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "43.696036",
-    "longitude": "7.265592"
+    "longitude": "7.265592",
+    "gname": "Unknown"
   },
   {
     "eventid": 197608280002,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "35.724533",
-    "longitude": "51.40519"
+    "longitude": "51.40519",
+    "gname": "Mujahedin-e Khalq (MEK)"
   },
   {
     "eventid": 197608280003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197608310001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197608310002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197609000001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-1.28518",
-    "longitude": "36.821107"
+    "longitude": "36.821107",
+    "gname": "Popular Front for the Liberation of Palestine (PFLP)"
   },
   {
     "eventid": 197609010001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "45.562846",
-    "longitude": "8.058267"
+    "longitude": "8.058267",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197609010002,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)"
   },
   {
     "eventid": 197609010003,
     "iyear": 1976,
     "latitude": "10.666667",
-    "longitude": "-61.516667"
+    "longitude": "-61.516667",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197609010004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197609020001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.492949",
-    "longitude": "-1.474841"
+    "longitude": "-1.474841",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609040001,
     "iyear": 1976,
     "latitude": "-23.550711",
-    "longitude": "-46.633475"
+    "longitude": "-46.633475",
+    "gname": "Brazilian Anti-Communist Alliance (AAB)"
   },
   {
     "eventid": 197609040002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197609040003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "35.329197",
-    "longitude": "25.138667"
+    "longitude": "25.138667",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609060001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "47.791047",
-    "longitude": "12.714544"
+    "longitude": "12.714544",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609060002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.95259",
-    "longitude": "-76.942074"
+    "longitude": "-76.942074",
+    "gname": "White supremacists/nationalists"
   },
   {
     "eventid": 197609070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.930607",
-    "longitude": "8.742907"
+    "longitude": "8.742907",
+    "gname": "Corsican National Liberation Front (FLNC)"
   },
   {
     "eventid": 197609080001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197609080002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "6.242026",
-    "longitude": "-75.564766"
+    "longitude": "-75.564766",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609090001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609090002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.208174",
-    "longitude": "16.373819"
+    "longitude": "16.373819",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609100001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609100005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Croatian Freedom Fighters"
   },
   {
     "eventid": 197609100007,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.515694",
-    "longitude": "-6.055724"
+    "longitude": "-6.055724",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197609100008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197609100009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.842602",
-    "longitude": "-87.681229"
+    "longitude": "-87.681229",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197609100010,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Croatian Nationalists"
   },
   {
     "eventid": 197609110001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Che Guevara Brigade"
   },
   {
     "eventid": 197609110002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Che Guevara Brigade"
   },
   {
     "eventid": 197609110003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Che Guevara Brigade"
   },
   {
     "eventid": 197609110004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609110005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609110006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609110007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609110008,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197609120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.840097",
-    "longitude": "14.251636"
+    "longitude": "14.251636",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609120002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.840097",
-    "longitude": "14.251636"
+    "longitude": "14.251636",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609130001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609130002,
     "nkill": 9,
     "iyear": 1976,
     "latitude": "-32.951052",
-    "longitude": "-60.666365"
+    "longitude": "-60.666365",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609150002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.192332",
-    "longitude": "15.555523"
+    "longitude": "15.555523",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609150003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.183759",
-    "longitude": "7.715315"
+    "longitude": "7.715315",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609150004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197609160001,
     "iyear": 1976,
     "latitude": "50.940664",
-    "longitude": "6.959912"
+    "longitude": "6.959912",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197609160003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "53.1176",
-    "longitude": "-7.330632"
+    "longitude": "-7.330632",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197609160004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.663517",
-    "longitude": "-74.211467"
+    "longitude": "-74.211467",
+    "gname": "Omega-7"
   },
   {
     "eventid": 197609170001,
     "iyear": 1976,
     "latitude": "39.930771",
-    "longitude": "32.76754"
+    "longitude": "32.76754",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609170002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197609180001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197609200001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609200003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609200005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197609200007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197609210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Fuerzas Armadas de Liberacion Nacional (FALN)"
   },
   {
     "eventid": 197609210002,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609220001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-22.756618",
-    "longitude": "-43.460742"
+    "longitude": "-43.460742",
+    "gname": "Brazilian Anti-Communist Alliance (AAB)"
   },
   {
     "eventid": 197609240001,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197609240002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197609240003,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197609250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Anti-Zionist Commandos"
   },
   {
     "eventid": 197609250002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Anti-Zionist Commandos"
   },
   {
     "eventid": 197609250003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Anti-Zionist Commandos"
   },
   {
     "eventid": 197609250004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609250005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609250006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609250007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609250008,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish National Liberation Army (INLA)"
   },
   {
     "eventid": 197609250009,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197609260001,
     "nkill": 5,
     "iyear": 1976,
     "latitude": "36.201721",
-    "longitude": "37.14352"
+    "longitude": "37.14352",
+    "gname": "Abu Nidal Organization (ANO)"
   },
   {
     "eventid": 197609270001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-0.211188",
-    "longitude": "-78.522629"
+    "longitude": "-78.522629",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609270002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "8.977146",
-    "longitude": "38.773226"
+    "longitude": "38.773226",
+    "gname": "Eritrean Liberation Front"
   },
   {
     "eventid": 197609270003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-0.211188",
-    "longitude": "-78.522629"
+    "longitude": "-78.522629",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609270004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.863117",
-    "longitude": "-6.278343"
+    "longitude": "-6.278343",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197609280001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Revolutionary Armed Forces of Colombia (FARC)"
   },
   {
     "eventid": 197609290001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197609300001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "33.594013",
-    "longitude": "73.069077"
+    "longitude": "73.069077",
+    "gname": "Unknown"
   },
   {
     "eventid": 197609300002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "24.891115",
-    "longitude": "67.143311"
+    "longitude": "67.143311",
+    "gname": "Palestinians"
   },
   {
     "eventid": 197609300004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Cuban Secret Army"
   },
   {
     "eventid": 197610010001,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197610010002,
     "iyear": 1976,
     "latitude": "49.87242",
-    "longitude": "8.650855"
+    "longitude": "8.650855",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610010003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.139126",
-    "longitude": "11.580186"
+    "longitude": "11.580186",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610010004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610010006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610010007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.903411",
-    "longitude": "-73.562616"
+    "longitude": "-73.562616",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610020001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.069858",
-    "longitude": "4.291111"
+    "longitude": "4.291111",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610020002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610030001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197610030002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197610040001,
     "nkill": 4,
     "iyear": 1976,
     "latitude": "43.291618",
-    "longitude": "-1.977903"
+    "longitude": "-1.977903",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197610050001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197610050002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.344322",
-    "longitude": "-88.437463"
+    "longitude": "-88.437463",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610050003,
     "iyear": 1976,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610050004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.93215",
-    "longitude": "10.918511"
+    "longitude": "10.918511",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610060001,
     "nkill": 73,
     "iyear": 1976,
     "latitude": "13.077333",
-    "longitude": "-59.493008"
+    "longitude": "-59.493008",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197610060002,
     "iyear": 1976,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610060003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610060004,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197610070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197610070002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197610080001,
     "iyear": 1976,
     "latitude": "46.947922",
-    "longitude": "7.444608"
+    "longitude": "7.444608",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610080002,
     "iyear": 1976,
     "latitude": "46.947922",
-    "longitude": "7.444608"
+    "longitude": "7.444608",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610080003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "10.482834",
-    "longitude": "-66.962128"
+    "longitude": "-66.962128",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610080004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.951082",
-    "longitude": "-6.558998"
+    "longitude": "-6.558998",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610080005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610090001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610090002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.863117",
-    "longitude": "-6.278343"
+    "longitude": "-6.278343",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610090003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.863117",
-    "longitude": "-6.278343"
+    "longitude": "-6.278343",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197610100001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "-31.399301",
-    "longitude": "-64.182129"
+    "longitude": "-64.182129",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197610100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "13.69288",
-    "longitude": "-89.199161"
+    "longitude": "-89.199161",
+    "gname": "Union Guerrera Blanca (UGB)"
   },
   {
     "eventid": 197610110002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "33.671638",
-    "longitude": "73.056068"
+    "longitude": "73.056068",
+    "gname": "Abu Nidal Organization (ANO)"
   },
   {
     "eventid": 197610110003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.362965",
-    "longitude": "-6.476626"
+    "longitude": "-6.476626",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197610120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610130001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.817605",
-    "longitude": "8.826384"
+    "longitude": "8.826384",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610130002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610130003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610130004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610130005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.615844",
-    "longitude": "13.518739"
+    "longitude": "13.518739",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197610130006,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.458619",
-    "longitude": "-6.604468"
+    "longitude": "-6.604468",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610130007,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197610140001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Revolutionary People's Struggle (ELA)"
   },
   {
     "eventid": 197610160001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197610160002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610160003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.395649",
-    "longitude": "27.135641"
+    "longitude": "27.135641",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610160004,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610170001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "25.091075",
-    "longitude": "121.559834"
+    "longitude": "121.559834",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610170002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.741971",
-    "longitude": "27.2231"
+    "longitude": "27.2231",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610170003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197610200001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610200002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610220001,
     "iyear": 1976,
     "latitude": "-22.908278",
-    "longitude": "-43.197026"
+    "longitude": "-43.197026",
+    "gname": "Popular Revolutionary Vanguard (VPR)"
   },
   {
     "eventid": 197610230001,
     "nkill": 3,
     "iyear": 1976,
     "latitude": "20.673343",
-    "longitude": "-103.344177"
+    "longitude": "-103.344177",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197610240002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610240003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Save Our Israel Land"
   },
   {
     "eventid": 197610250001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Youth Action Group"
   },
   {
     "eventid": 197610250002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Youth Action Group"
   },
   {
     "eventid": 197610250003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Youth Action Group"
   },
   {
     "eventid": 197610250004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610250005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197610250006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197610250007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197610250008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610250009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197610250011,
     "iyear": 1976,
     "latitude": "18.386932",
-    "longitude": "-66.061127"
+    "longitude": "-66.061127",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610260001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610260002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.347539",
-    "longitude": "-6.656108"
+    "longitude": "-6.656108",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610270001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610270002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "4.667128",
-    "longitude": "-74.106056"
+    "longitude": "-74.106056",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610270003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.631368",
-    "longitude": "3.065448"
+    "longitude": "3.065448",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610270004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610270005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610270006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610270007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Polisario Front"
   },
   {
     "eventid": 197610280001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197610280002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610280003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197610280004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.567616",
-    "longitude": "-6.955809"
+    "longitude": "-6.955809",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610290001,
     "nkill": 10,
     "iyear": 1976,
     "latitude": "-34.921295",
-    "longitude": "-57.954333"
+    "longitude": "-57.954333",
+    "gname": "Argentine Anticommunist Alliance (AAA)"
   },
   {
     "eventid": 197610290002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197610300001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197610300002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197611000001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.539838",
-    "longitude": "10.222956"
+    "longitude": "10.222956",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611000002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Italian Social Movement (MSI)"
   },
   {
     "eventid": 197611000003,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611000004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "44.079337",
-    "longitude": "10.101236"
+    "longitude": "10.101236",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611000005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "44.079337",
-    "longitude": "10.101236"
+    "longitude": "10.101236",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611000006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611010001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611020001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Rezi Rezai International Brigades"
   },
   {
     "eventid": 197611020002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.768732",
-    "longitude": "11.256901"
+    "longitude": "11.256901",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611020003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611030001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197611030002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "41.400635",
-    "longitude": "2.150913"
+    "longitude": "2.150913",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197611030003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.612605",
-    "longitude": "-6.121082"
+    "longitude": "-6.121082",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197611030004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197611040001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197611050001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197611060001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "14.622869",
-    "longitude": "-90.529068"
+    "longitude": "-90.529068",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197611060002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197611060003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197611060004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197611060005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.106178",
-    "longitude": "28.689863"
+    "longitude": "28.689863",
+    "gname": "Turkish People's Liberation Army"
   },
   {
     "eventid": 197611060006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.670632",
-    "longitude": "-5.905026"
+    "longitude": "-5.905026",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197611070001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.716135",
-    "longitude": "10.396584"
+    "longitude": "10.396584",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611070002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "Coordination of the United Revolutionary Organization (CORU)"
   },
   {
     "eventid": 197611080001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Sandinista National Liberation Front (FSLN)"
   },
   {
     "eventid": 197611080002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "9.933333",
-    "longitude": "-84.083333"
+    "longitude": "-84.083333",
+    "gname": "Sandinista National Liberation Front (FSLN)"
   },
   {
     "eventid": 197611080003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "39.649551",
-    "longitude": "27.884932"
+    "longitude": "27.884932",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611090001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197611090002,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Baader-Meinhof Group"
   },
   {
     "eventid": 197611090003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.770403",
-    "longitude": "-6.673176"
+    "longitude": "-6.673176",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611100001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197611100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611100003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "2nd of June Movement"
   },
   {
     "eventid": 197611110001,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611110002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197611110003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.951082",
-    "longitude": "-6.558998"
+    "longitude": "-6.558998",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.50153",
-    "longitude": "13.401851"
+    "longitude": "13.401851",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197611120002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "39.215409",
-    "longitude": "9.109324"
+    "longitude": "9.109324",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611120003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611130001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "14.7515",
-    "longitude": "-89.474218"
+    "longitude": "-89.474218",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197611130002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "44.844342",
-    "longitude": "-0.656859"
+    "longitude": "-0.656859",
+    "gname": "Commandos Against Self Destruction of the Universe"
   },
   {
     "eventid": 197611130003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611130004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611130005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611130006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611130007,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197611140001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197611140002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.370216",
-    "longitude": "4.895168"
+    "longitude": "4.895168",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611140003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "-34.61768",
-    "longitude": "-58.444435"
+    "longitude": "-58.444435",
+    "gname": "Montoneros (Argentina)"
   },
   {
     "eventid": 197611150001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.545904",
-    "longitude": "11.5403"
+    "longitude": "11.5403",
+    "gname": "Workers Power"
   },
   {
     "eventid": 197611150002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611150004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611150005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.033131",
-    "longitude": "-7.112556"
+    "longitude": "-7.112556",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197611160001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197611160002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197611170001,
     "nkill": 9,
     "iyear": 1976,
     "latitude": "31.950001",
-    "longitude": "35.933331"
+    "longitude": "35.933331",
+    "gname": "Abu Nidal Organization (ANO)"
   },
   {
     "eventid": 197611180001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611200001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611200002,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197611210001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611220001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "15.153002",
-    "longitude": "120.591942"
+    "longitude": "120.591942",
+    "gname": "New People's Army (NPA)"
   },
   {
     "eventid": 197611220002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.026391",
-    "longitude": "-7.180483"
+    "longitude": "-7.180483",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197611230001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197611250001,
     "iyear": 1976,
     "latitude": "49.993038",
-    "longitude": "8.247247"
+    "longitude": "8.247247",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611250002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish National Liberation Army (INLA)"
   },
   {
     "eventid": 197611260001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "41.492901",
-    "longitude": "13.830566"
+    "longitude": "13.830566",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197611260002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611260003,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Guerrilla Army of the Poor (EGP)"
   },
   {
     "eventid": 197611270001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.463367",
-    "longitude": "-6.328597"
+    "longitude": "-6.328597",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611270002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197611290001,
     "iyear": 1976,
     "latitude": "16.887781",
-    "longitude": "96.149559"
+    "longitude": "96.149559",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611290002,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611290003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611290004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611290005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611290006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "Unknown"
   },
   {
     "eventid": 197611290007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Communist Fighting Unit"
   },
   {
     "eventid": 197611290008,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.434336",
-    "longitude": "12.338786"
+    "longitude": "12.338786",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197611290009,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Prima Linea"
   },
   {
     "eventid": 197611300001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Freedom Fighters (UFF)"
   },
   {
     "eventid": 197611300002,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "-25.476646",
-    "longitude": "30.978892"
+    "longitude": "30.978892",
+    "gname": "African National Congress (South Africa)"
   },
   {
     "eventid": 197612010001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "36.201721",
-    "longitude": "37.14352"
+    "longitude": "37.14352",
+    "gname": "Abu Nidal Organization (ANO)"
   },
   {
     "eventid": 197612010002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197612010003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.072731",
-    "longitude": "7.679541"
+    "longitude": "7.679541",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197612010004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Independent Armed Revolutionary Commandos (CRIA)"
   },
   {
     "eventid": 197612010005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Independent Armed Revolutionary Commandos (CRIA)"
   },
   {
     "eventid": 197612010006,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Independent Armed Revolutionary Commandos (CRIA)"
   },
   {
     "eventid": 197612010007,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Independent Armed Revolutionary Commandos (CRIA)"
   },
   {
     "eventid": 197612030001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.50853",
-    "longitude": "-6.763131"
+    "longitude": "-6.763131",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197612050001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612050002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197612050003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197612050004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197612050005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197612050006,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Protestant extremists"
   },
   {
     "eventid": 197612060001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612060002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612060003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612060004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.908642",
-    "longitude": "-77.015381"
+    "longitude": "-77.015381",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612060005,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.438335",
-    "longitude": "-79.997459"
+    "longitude": "-79.997459",
+    "gname": "May 19 Communist Order"
   },
   {
     "eventid": 197612070001,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197612080001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "31.733333",
-    "longitude": "-106.483333"
+    "longitude": "-106.483333",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197612080002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197612080003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Communist Brigade Dante Dimani"
   },
   {
     "eventid": 197612080004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612100001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "52.069858",
-    "longitude": "4.291111"
+    "longitude": "4.291111",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612100002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.697132",
-    "longitude": "-73.931351"
+    "longitude": "-73.931351",
+    "gname": "Palestine Liberation Organization (PLO)"
   },
   {
     "eventid": 197612110001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197612110002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "55.011562",
-    "longitude": "-7.312045"
+    "longitude": "-7.312045",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197612120001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "42.28107",
-    "longitude": "-71.236054"
+    "longitude": "-71.236054",
+    "gname": "United Freedom Front (UFF)"
   },
   {
     "eventid": 197612130001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "19.371887",
-    "longitude": "-99.086624"
+    "longitude": "-99.086624",
+    "gname": "23rd of September Communist League"
   },
   {
     "eventid": 197612130002,
     "nkill": 10,
     "iyear": 1976,
     "latitude": "-32.951052",
-    "longitude": "-60.666365"
+    "longitude": "-60.666365",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612130003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.135398",
-    "longitude": "8.915122"
+    "longitude": "8.915122",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612130004,
     "iyear": 1976,
     "latitude": "48.208174",
-    "longitude": "16.373819"
+    "longitude": "16.373819",
+    "gname": "Waltraud Boock Group"
   },
   {
     "eventid": 197612130005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197612140001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "November 17 Revolutionary Organization (N17RO)"
   },
   {
     "eventid": 197612140002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "41.890961",
-    "longitude": "12.490069"
+    "longitude": "12.490069",
+    "gname": "Armed Proletarian Nuclei (NAP)"
   },
   {
     "eventid": 197612140003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "38.725299",
-    "longitude": "-9.150036"
+    "longitude": "-9.150036",
+    "gname": "Communists"
   },
   {
     "eventid": 197612140004,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.755363",
-    "longitude": "-122.443352"
+    "longitude": "-122.443352",
+    "gname": "New World Liberation Front (NWLF)"
   },
   {
     "eventid": 197612150001,
     "nkill": 10,
     "iyear": 1976,
     "latitude": "33.303566",
-    "longitude": "44.371773"
+    "longitude": "44.371773",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612150002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.370873",
-    "longitude": "-8.395835"
+    "longitude": "-8.395835",
+    "gname": "Organization of Anti-Fascist Students"
   },
   {
     "eventid": 197612150003,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Irish Republican Army (IRA)"
   },
   {
     "eventid": 197612150004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.42071",
-    "longitude": "-6.443767"
+    "longitude": "-6.443767",
+    "gname": "Irish Republican Extremists"
   },
   {
     "eventid": 197612160001,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "45.535858",
-    "longitude": "9.238889"
+    "longitude": "9.238889",
+    "gname": "Red Brigades"
   },
   {
     "eventid": 197612160002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "45.539838",
-    "longitude": "10.222956"
+    "longitude": "10.222956",
+    "gname": "Black Order"
   },
   {
     "eventid": 197612170001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.208174",
-    "longitude": "16.373819"
+    "longitude": "16.373819",
+    "gname": "Waltraud Boock Group"
   },
   {
     "eventid": 197612170002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.840097",
-    "longitude": "14.251636"
+    "longitude": "14.251636",
+    "gname": "Armed Proletarian Nuclei (NAP)"
   },
   {
     "eventid": 197612180001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "",
-    "longitude": ""
+    "longitude": "",
+    "gname": "Kurdish Democratic Party-Iraq (KDP)"
   },
   {
     "eventid": 197612180002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.868941",
-    "longitude": "9.707181"
+    "longitude": "9.707181",
+    "gname": "Revolutionary Cells"
   },
   {
     "eventid": 197612200001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "43.291618",
-    "longitude": "-1.977903"
+    "longitude": "-1.977903",
+    "gname": "Basque Fatherland and Freedom (ETA)"
   },
   {
     "eventid": 197612200002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.11797",
-    "longitude": "8.644191"
+    "longitude": "8.644191",
+    "gname": "Black Cells"
   },
   {
     "eventid": 197612200004,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "First of October Antifascist Resistance Group (GRAPO)"
   },
   {
     "eventid": 197612200005,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.607712",
-    "longitude": "-5.95621"
+    "longitude": "-5.95621",
+    "gname": "Ulster Volunteer Force (UVF)"
   },
   {
     "eventid": 197612220001,
     "iyear": 1976,
     "latitude": "48.113475",
-    "longitude": "-1.675708"
+    "longitude": "-1.675708",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612220002,
     "nkill": 1,
     "iyear": 1976,
     "latitude": "54.842824",
-    "longitude": "-6.667731"
+    "longitude": "-6.667731",
+    "gname": "Irish National Liberation Army (INLA)"
   },
   {
     "eventid": 197612230001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "48.856644",
-    "longitude": "2.34233"
+    "longitude": "2.34233",
+    "gname": "Military Council for the True Liberation of Albania"
   },
   {
     "eventid": 197612240001,
     "nkill": 2,
     "iyear": 1976,
     "latitude": "33.303566",
-    "longitude": "44.371773"
+    "longitude": "44.371773",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612240002,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "37.99749",
-    "longitude": "23.762728"
+    "longitude": "23.762728",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612240003,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "40.465595",
-    "longitude": "-3.696263"
+    "longitude": "-3.696263",
+    "gname": "AGEL"
   },
   {
     "eventid": 197612310001,
     "nkill": 0,
     "iyear": 1976,
     "latitude": "50.084284",
-    "longitude": "8.238717"
+    "longitude": "8.238717",
+    "gname": "Unknown"
   },
   {
     "eventid": 197612310002,
     "iyear": 1976,
     "latitude": "45.469212",
-    "longitude": "9.174508"
+    "longitude": "9.174508",
+    "gname": "Unknown"
   }
 ]

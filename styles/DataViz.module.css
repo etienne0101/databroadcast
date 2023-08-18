@@ -4,7 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 100%;
 }
 
 .viz-title {
@@ -38,7 +38,7 @@
 
 .dataviz-visualization {
     width: 70%;
-    max-height: 600px;
+    max-height: 800px;
     overflow: hidden;
     margin: 0 auto;
     flex-direction: column;
