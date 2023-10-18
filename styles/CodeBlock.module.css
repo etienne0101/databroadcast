@@ -12,11 +12,11 @@
   }
 
   .jsonKey {
-    color: #ff75b3;  /* Tomato for keys */
+    color: #ff75b3;  
   }
   
   .jsonValue {
-    color: #f2f2f2;  /* Gold for values */
+    color: #f2f2f2;  
   }  
   
   .codeblock {
@@ -27,7 +27,7 @@
     margin-top: 1rem;
     margin-bottom: 1rem;
     border-radius: 10px;
-    background-color: #00093b;
+    background-color: #666c87;
     text-align: left; 
     justify-content: flex-start;
     font-family: 'Inconsolata', monospace;

@@ -54,8 +54,9 @@
     background-color: #ffba4c;
     border-radius: 4px;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 800;
     transition: background-color 0.3s;
+    font-family: 'JetBrains Mono';
 }
 
 .data-link:hover {
