@@ -42,3 +42,16 @@
     font-size: 35px;
     text-align: center;
 }
+
+
+@media (max-width: 767px) {
+    .yearText {
+        font-size: 25px; /* reduce font-size for smaller screens */
+    }
+}
+
+@media (max-width: 575px) {
+    .yearText {
+        font-size: 18px; /* further reduce font-size for mobile screens */
+    }
+}

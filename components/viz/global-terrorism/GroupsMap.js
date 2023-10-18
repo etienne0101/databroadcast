@@ -126,7 +126,18 @@ const GroupsMap = () => {
         2020: data2020,
     };
     
-
+    const computeGroupEventCounts = () => {
+        let counts = {};
+        Object.values(yearToDataMap).flat().forEach(event => {
+            if (event.gname) {
+                counts[event.gname] = counts[event.gname] ? counts[event.gname] + 1 : 1;
+            }
+        });
+        return counts;
+    };
+    
+    const groupEventCounts = computeGroupEventCounts();
+    
 
     const handleMapClick = (e) => {
         e.nativeEvent.stopImmediatePropagation();
@@ -155,16 +166,16 @@ const GroupsMap = () => {
 
         useEffect(() => {
             const points = (events || []).filter(event => isValidLatLng(event.latitude, event.longitude))
-            .map(event => [event.latitude, event.longitude, 1]); // 1 can be replaced by event magnitude if available
+            .map(event => [event.latitude, event.longitude, 15]); // 1 can be replaced by event magnitude if available
 
             const gradient = {
-                0.0: '#fa4210', 
-                0.5: '#fa4210', 
-                1.0: '#fa4210'
+                0.2: '#ff4000', 
+                0.5: '#ff4000', 
+                1.0: '#ff4000'
             };
             const radius = 2; 
-            const maxZoom = 7;
-            const blur = 2;
+            const maxZoom = 10;
+            const blur = 1;
 
             if (points.length) {
                 const heatmapLayer = L.heatLayer(points, {
@@ -191,15 +202,16 @@ const GroupsMap = () => {
     
     return (
         <div style={{ position: 'relative', height: '100vh' }}>
-            <DecadesGroups onGroupSelect={handleGroupSelect} />
-            <div style={{ position: 'absolute', top: '25%', left: 0, right: 0, bottom: 0 }}>
-                <MapContainer 
-                    center={[20, 0]} 
-                    zoom={2} 
-                    style={{ width: '100%', height: '80vh' }}
-                    onClick={e => e.originalEvent.stopPropagation()}
-                    keyboard={false}
-                >
+<DecadesGroups onGroupSelect={handleGroupSelect} groupEventCounts={groupEventCounts} />
+            <div style={{ position: 'absolute', top: '22%', left: 0, right: 0, bottom: 0 }}>
+            <MapContainer 
+     center={[20, 0]} 
+     zoom={2} 
+     style={{ width: '100%', height: 'calc(100vh - 22%)' }} // adjusted height
+     onClick={e => e.originalEvent.stopPropagation()}
+     keyboard={false}
+>
+
                     <TileLayer
                         url="https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"
                         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

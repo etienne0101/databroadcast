@@ -3,7 +3,7 @@ import styles from '../../../styles/datastories/DecadesGroups.module.css';
 import gnameData from '../../../data/global-terrorism/context/gname_context.json';
 
 
-const DecadesGroups = ({ onGroupSelect }) => {
+const DecadesGroups = ({ onGroupSelect, groupEventCounts }) => {
     const [data, setData] = useState(gnameData.data);
     const [selectedDecade, setSelectedDecade] = useState(null);
   
@@ -18,6 +18,16 @@ const DecadesGroups = ({ onGroupSelect }) => {
 
     fetchData();
   }, []);
+
+  const getButtonColor = (gname, groupEventCounts) => {
+    const count = groupEventCounts[gname] || 0;
+    if (count < 10) return '#fef4d7';
+    if (count < 50) return '#fae1ca';
+    if (count < 100) return '#f6cdbc';
+    if (count < 200) return '#f2baaf';
+    return 'e99394';
+};
+
 
   return (
     <div className={styles.container}>
@@ -37,13 +47,15 @@ const DecadesGroups = ({ onGroupSelect }) => {
           data
             .find((item) => item.years[0] === selectedDecade)
             .gnames.map((gname, index) => (
-              <button 
+                <button 
                 key={index} 
                 className={styles.groupButton}
-                onClick={() => onGroupSelect(gname)} // Use the provided prop here
-              >
+                style={{ backgroundColor: getButtonColor(gname, groupEventCounts) }}
+                onClick={() => onGroupSelect(gname)}
+            >
                 {gname}
-              </button>
+            </button>
+            
             ))}
         </div>
     </div>

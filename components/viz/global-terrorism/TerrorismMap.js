@@ -149,15 +149,15 @@ const TerrorismMap = () => {
 
         useEffect(() => {
             const points = (events || []).filter(event => isValidLatLng(event.latitude, event.longitude))
-            .map(event => [event.latitude, event.longitude, 1]); // 1 can be replaced by event magnitude if available
+            .map(event => [event.latitude, event.longitude, 5]); // 1 can be replaced by event magnitude if available
 
             const gradient = {
                 0.0: '#fa4210', 
                 0.5: '#fa4210', 
                 1.0: '#fa4210'
             };
-            const radius = 2; 
-            const maxZoom = 7;
+            const radius = 3; 
+            const maxZoom = 10;
             const blur = 2;
 
             if (points.length) {
