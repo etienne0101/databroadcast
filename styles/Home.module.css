@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+
 .homecontainer {
     display: flex;
     flex-direction: column;
@@ -5,6 +8,7 @@
     background: linear-gradient(45deg, #ff71a0, #ffdeaa);
     min-height: 100vh;  
     padding: 0 20px; 
+    justify-content: center;
 }
 
 .logo {
@@ -29,9 +33,12 @@
 }
 
 .gallery {
-    display: flex;
-    flex-direction: column;
     align-items: center;
+    display: grid;
+    padding: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* Adjust minimum column width */
+    grid-auto-rows: 1fr;
+    gap: 20px; 
     width: 100%;
     max-width: 1200px;
     margin: 20px 0;
@@ -48,12 +55,13 @@
     text-decoration: none; 
     color: inherit; 
     display: block;
-    width: 50%;
+    width: 100%;
+    position: relative;
 }
 
 @media (max-width: 600px) {
     .galleryLink {
-        width: 100%;
+        width: 90%;
         padding: 0 0px; 
     }
 }
@@ -61,4 +69,65 @@
 .galleryLink * {
     text-decoration: none;
     color: inherit;
+}
+
+.item {
+    height: 350px;
+    width: 500px;
+    display: flex; 
+    flex-direction: column; 
+    margin: 10px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    cursor: pointer;
+    opacity: 0.9;
+    padding: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transitions for smoothness */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+}
+
+.itemtitle, .itemdescription {
+    flex: none; /* Ensure they don't grow */
+}
+
+.item:hover {
+    transform: scale(1.05); /* Slightly enlarge the item on hover */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.16);
+}
+
+.itemtitle {
+    font-family: 'JetBrains Mono', monospace;
+    font-variation-settings: 'wght' 800;
+    font-size: 1.4rem; 
+    padding: 0px 15px; 
+}
+
+@media (max-width: 600px) {
+    .itemtitle {
+        font-size: 1.2rem;
+    }
+}
+.itemdescription {
+    padding: 0px 15px; 
+    font-size: 1rem; 
+    color: #666;
+    text-align: left; 
+}
+
+.itemImage { 
+    width: 100%; 
+    object-fit: cover;
+    height: 50%;
+}
+
+@media (max-width: 600px) {
+    .item-image {
+        width: 80%;
+        height: 200px;
+    }
+    .item {
+        width: 80%;
+        height: 200px;
+    }
 }

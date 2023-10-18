@@ -78,14 +78,14 @@
   font-family: 'Roboto Slab', serif;
   font-size: 18px;
   max-width: 60%; 
-  color: #ff397b;
+  color: #ffba4c;
   margin-left: 20%; 
   padding: 12px;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  border: 3px solid hsl(339, 100%, 89%);
+  border: 3px solid #ffba4c;
   border-radius: 5px;
-  background-color: #fff8f8;
+  background-color: #fffefe;
   text-align: left; 
   justify-content: flex-start;
   padding-left: 45px; 
@@ -148,19 +148,27 @@
   .contextContainerVisible {
     left: 20px;
   }
-  
-  .learnMoreButton {
-    display: inline-block;
+
+  .docButton {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    margin-bottom: 2rem;
     padding: 8px 16px;
-    background-color: #ffba4c; 
-    color: white;
+    position: relative;
+    justify-items: center;
     text-align: center;
-    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #666c87;
+    border-radius: 4px;
     text-decoration: none;
-    cursor: pointer;
+    font-weight: 600;
     transition: background-color 0.3s;
-  }
-  
-  .learnMoreButton:hover {
-    background-color: #ff397b; 
-  }
+    font-family: 'JetBrains Mono', monospace;
+}
+
+  .docButton:hover {
+    background-color: #1a1a1a;
+}
