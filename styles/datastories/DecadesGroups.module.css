@@ -14,13 +14,13 @@
   
   .decade {
     cursor: pointer;
-    padding: 10px;
-    border: 1px solid #ffffff;
-    margin: 5px 0;
+    padding: 1px;
+    margin: 3px 0;
     text-align: center;
     transition: background 0.2s;
-    border-left: 1px solid #e0e0e0;
-    padding-inline: 50px;
+    border-left: 2px solid #e0e0e0;
+    padding-inline: 30px;
+    max-width: 100%;
   }
   
   .decade:hover {
@@ -34,7 +34,7 @@
   
   .groupButton {
     margin: 5px;
-    padding: 5px 10px;
+    padding: 5px 5px;
     border: none;
     cursor: pointer;
     transition: background 0.2s;
