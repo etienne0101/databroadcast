@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
 *,
 *::before,
@@ -17,7 +18,7 @@ html, body {
 
 
 body {
-  font-family: 'JetBrains Mono', monospace ;
+  font-family: 'JetBrains Mono', monospace;
   -webkit-font-smoothing: subpixel-antialiased;
   font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
     'cv03' 1, 'cv04' 1;

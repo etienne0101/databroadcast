@@ -16,29 +16,28 @@
 
 .title {
     font-size: 4rem; 
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Roboto Slab', serif;
     text-align: center;
     max-width: 60%;
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 80px; 
-    font-variation-settings: 'wght' 800;
+    font-variation-settings: 'wght' 900;
     background: linear-gradient(to right, #ff397b, #ffba4c);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    letter-spacing: -0.03em;
 }
 
 .subtitle {
   font-size: 3rem; 
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'Roboto Slab', serif;
   text-align: left;
   margin: 0 auto;
   max-width: 60%;
   margin-top: 20px;
   margin-bottom: 20px; 
-  font-variation-settings: 'wght' 800;
+  font-variation-settings: 'wght' 900;
   background: linear-gradient(to right, #ff397b, #ffba4c);
   -webkit-background-clip: text;
   background-clip: text;
@@ -51,10 +50,10 @@
   margin: 0 auto; 
   max-width: 60%;
   font-size: 2rem; 
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'Roboto Slab', serif;
   margin-top: 20px;
   margin-bottom: 20px; 
-  font-variation-settings: 'wght' 800;
+  font-variation-settings: 'wght' 900;
   color:#424242;
   letter-spacing: -0.03em;
 }
@@ -112,6 +111,10 @@
     .paragraph {
         max-width: 85%; 
     }
+    .title{
+      max-width: 100%;
+      font-size: 50px;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -164,9 +167,10 @@
     background-color: #666c87;
     border-radius: 4px;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 900;
     transition: background-color 0.3s;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
 }
 
   .docButton:hover {

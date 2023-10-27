@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&display=swap');
 
 .parent-container {
   display: flex;
@@ -11,8 +13,8 @@
   font-variation-settings: 'wght' 850;
   font-size: 40px;
   color: rgb(98, 98, 98);
-  font-family: 'JetBrains Mono';
-  font-weight: 800;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 900;
   text-align: center;
 }
 
@@ -21,7 +23,7 @@
   background-color: #ffffff;
   margin-right: auto;
   margin-left: auto;
-  width: 95%;
+  width: 100%;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -34,10 +36,12 @@
   font-size: 1rem;
   text-align: center;
   margin-bottom: 20px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
 }
 
 .dataviz-visualization {
-    width: 70%;
+    width: 85%;
     max-height: 800px;
     overflow: hidden;
     margin: 0 auto;
@@ -57,6 +61,7 @@
     font-weight: 800;
     transition: background-color 0.3s;
     font-family: 'JetBrains Mono';
+    font-size: 20px;
 }
 
 .data-link:hover {
