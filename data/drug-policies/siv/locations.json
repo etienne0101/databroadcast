@@ -1,0 +1,610 @@
+[
+  {
+    "City": "Brussels",
+    "Country": "Belgium",
+    "lat": 50.84,
+    "lon": 4.35,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Liege",
+    "Country": "Belgium",
+    "lat": 50.6278,
+    "lon": 5.57459,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Aarhus",
+    "Country": "Denmark",
+    "lat": 56.14597,
+    "lon": 10.19845,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "lat": 55.67453,
+    "lon": 12.5677,
+    "Number of facilities": 2,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Odense",
+    "Country": "Denmark",
+    "lat": 55.39509,
+    "lon": 10.38202,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Vejle",
+    "Country": "Denmark",
+    "lat": 55.70232,
+    "lon": 9.522832,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Paris",
+    "Country": "France",
+    "lat": 48.8539,
+    "lon": 2.34879,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Strasbourg",
+    "Country": "France",
+    "lat": 48.579,
+    "lon": 7.73633,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Berlin",
+    "Country": "Germany",
+    "lat": 52.504671,
+    "lon": 13.3945135,
+    "Number of facilities": 3,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Bielefeld",
+    "Country": "Germany",
+    "lat": 52.02656,
+    "lon": 8.540516,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Bochum",
+    "Country": "Germany",
+    "lat": 51.4815,
+    "lon": 7.2244,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Bonn",
+    "Country": "Germany",
+    "lat": 50.78,
+    "lon": 7.1778,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Dortmund",
+    "Country": "Germany",
+    "lat": 51.56247,
+    "lon": 7.45377,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Düsseldorf",
+    "Country": "Germany",
+    "lat": 51.2397,
+    "lon": 6.6778,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Essen",
+    "Country": "Germany",
+    "lat": 51.4798,
+    "lon": 7.0569,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Frankfurt",
+    "Country": "Germany",
+    "lat": 50.20948,
+    "lon": 8.76,
+    "Number of facilities": 4,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Hamburg",
+    "Country": "Germany",
+    "lat": 53.56828,
+    "lon": 9.999227,
+    "Number of facilities": 5,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Hannover",
+    "Country": "Germany",
+    "lat": 52.37608,
+    "lon": 9.73263,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Karlsruhe",
+    "Country": "Germany",
+    "lat": 49.012,
+    "lon": 8.390306,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Köln",
+    "Country": "Germany",
+    "lat": 50.93167,
+    "lon": 6.949464,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Münster",
+    "Country": "Germany",
+    "lat": 51.95222,
+    "lon": 7.623233,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Saarbrücken",
+    "Country": "Germany",
+    "lat": 49.24041,
+    "lon": 6.98665,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Troisdorf",
+    "Country": "Germany",
+    "lat": 50.818,
+    "lon": 7.14125,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Wuppertal",
+    "Country": "Germany",
+    "lat": 51.24225,
+    "lon": 7.158186,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Athens",
+    "Country": "Greece",
+    "lat": 38,
+    "lon": 23.7,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Esch-sur-Alzette",
+    "Country": "Luxembourg",
+    "lat": 49.50245,
+    "lon": 5.97222,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Luxembourg",
+    "Country": "Luxembourg",
+    "lat": 49.6503,
+    "lon": 6.2512,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Almere",
+    "Country": "Netherlands",
+    "lat": 52.3829,
+    "lon": 5.2887,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Amsterdam",
+    "Country": "Netherlands",
+    "lat": 52.414,
+    "lon": 4.90793,
+    "Number of facilities": 3,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Apeldoorn",
+    "Country": "Netherlands",
+    "lat": 52.1813,
+    "lon": 6.00827,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Arnhem",
+    "Country": "Netherlands",
+    "lat": 51.98497,
+    "lon": 5.899034,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Deventer",
+    "Country": "Netherlands",
+    "lat": 52.29638,
+    "lon": 6.178408,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Enschede",
+    "Country": "Netherlands",
+    "lat": 52.1988,
+    "lon": 6.87604,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Haarlem",
+    "Country": "Netherlands",
+    "lat": 52.389,
+    "lon": 4.6896,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Heerlen",
+    "Country": "Netherlands",
+    "lat": 50.8888,
+    "lon": 5.9811,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Leeuwarden",
+    "Country": "Netherlands",
+    "lat": 53.1987,
+    "lon": 5.8322,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Leiden",
+    "Country": "Netherlands",
+    "lat": 52.1597,
+    "lon": 4.4811544,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Maastricht",
+    "Country": "Netherlands",
+    "lat": 50.8541,
+    "lon": 5.69063,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Nijmegen",
+    "Country": "Netherlands",
+    "lat": 51.81272,
+    "lon": 5.842056,
+    "Number of facilities": 2,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Roermond",
+    "Country": "Netherlands",
+    "lat": 51.2248,
+    "lon": 5.9753,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Rotterdam",
+    "Country": "Netherlands",
+    "lat": 51.8882,
+    "lon": 4.6136,
+    "Number of facilities": 4,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "s-Hertogenbosch",
+    "Country": "Netherlands",
+    "lat": 51.69714,
+    "lon": 5.305474,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Tilburg",
+    "Country": "Netherlands",
+    "lat": 51.60593,
+    "lon": 5.14963,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Utrecht",
+    "Country": "Netherlands",
+    "lat": 52.086,
+    "lon": 5.1127,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Vlissingen",
+    "Country": "Netherlands",
+    "lat": 51.42818,
+    "lon": 3.52915,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Zwolle",
+    "Country": "Netherlands",
+    "lat": 52.54429,
+    "lon": 6.09052,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Bergen",
+    "Country": "Norway",
+    "lat": 60.3954,
+    "lon": 5.33062,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Oslo",
+    "Country": "Norway",
+    "lat": 59.920979,
+    "lon": 10.753526,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Porto",
+    "Country": "Portugal",
+    "lat": 41.149,
+    "lon": -8.61,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Lisbon",
+    "Country": "Portugal",
+    "lat": 38.716311,
+    "lon": -9.142432,
+    "Number of facilities": 2,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Badalona",
+    "Country": "Spain",
+    "lat": 41.450142,
+    "lon": 2.24742,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Barcelona",
+    "Country": "Spain",
+    "lat": 41.3825,
+    "lon": 2.1769,
+    "Number of facilities": 9,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Bilbao",
+    "Country": "Spain",
+    "lat": 43.2569,
+    "lon": -2.9236,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Lleida",
+    "Country": "Spain",
+    "lat": 41.61898,
+    "lon": 0.6201,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Reus",
+    "Country": "Spain",
+    "lat": 41.14994,
+    "lon": 1.10571,
+    "Number of facilities": 2,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Sant Adrià de Besòs",
+    "Country": "Spain",
+    "lat": 41.430599,
+    "lon": 2.21824,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Tarragona",
+    "Country": "Spain",
+    "lat": 41.1186,
+    "lon": 1.24047,
+    "Number of facilities": 1,
+    "Source": "https://www.emcdda.europa.eu/media-library/infographic-location-and-number-drug-consumption-room-facilities-throughout-europe_en"
+  },
+  {
+    "City": "Saskatoon",
+    "Country": "Canada",
+    "lat": 52.134614,
+    "lon": -106.661,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-4"
+  },
+  {
+    "City": "Montreal",
+    "Country": "Canada",
+    "lat": 45.51538,
+    "lon": -73.6055,
+    "Number of facilities": 4,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-5"
+  },
+  {
+    "City": "Greater Sudbury",
+    "Country": "Canada",
+    "lat": 46.489,
+    "lon": -80.992,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-6"
+  },
+  {
+    "City": "Guelph",
+    "Country": "Canada",
+    "lat": 43.545,
+    "lon": -80.2501,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-7"
+  },
+  {
+    "City": "Hamilton",
+    "Country": "Canada",
+    "lat": 43.2483,
+    "lon": -79.8568,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-8"
+  },
+  {
+    "City": "Kingston",
+    "Country": "Canada",
+    "lat": 44.2316,
+    "lon": -76.48499,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-9"
+  },
+  {
+    "City": "Kitchener",
+    "Country": "Canada",
+    "lat": 43.4509,
+    "lon": -80.4931,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-10"
+  },
+  {
+    "City": "London",
+    "Country": "Canada",
+    "lat": 42.9836,
+    "lon": -81.246,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-11"
+  },
+  {
+    "City": "Ottawa",
+    "Country": "Canada",
+    "lat": 45.4213,
+    "lon": -75.699,
+    "Number of facilities": 4,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-12"
+  },
+  {
+    "City": "Peterborough",
+    "Country": "Canada",
+    "lat": 44.3043,
+    "lon": -78.32,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-13"
+  },
+  {
+    "City": "St. Catharines",
+    "Country": "Canada",
+    "lat": 43.1573,
+    "lon": -79.2455,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-14"
+  },
+  {
+    "City": "Thunder Bay",
+    "Country": "Canada",
+    "lat": 48.4023,
+    "lon": -89.2436,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-15"
+  },
+  {
+    "City": "Toronto",
+    "Country": "Canada",
+    "lat": 43.6471,
+    "lon": -79.3832,
+    "Number of facilities": 11,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-16"
+  },
+  {
+    "City": "Surrey",
+    "Country": "Canada",
+    "lat": 49.1877,
+    "lon": -122.8469,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-17"
+  },
+  {
+    "City": "Vancouver",
+    "Country": "Canada",
+    "lat": 49.2813,
+    "lon": -123.1195,
+    "Number of facilities": 3,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-18"
+  },
+  {
+    "City": "Victoria",
+    "Country": "Canada",
+    "lat": 48.4263,
+    "lon": -123.3691,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-19"
+  },
+  {
+    "City": "Calgary",
+    "Country": "Canada",
+    "lat": 51.04577,
+    "lon": -114.0681,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-20"
+  },
+  {
+    "City": "Edmonton",
+    "Country": "Canada",
+    "lat": 53.54258,
+    "lon": -113.4963,
+    "Number of facilities": 3,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-21"
+  },
+  {
+    "City": "Grande Prairie",
+    "Country": "Canada",
+    "lat": 55.1706,
+    "lon": -118.7943,
+    "Number of facilities": 1,
+    "Source": "https://www.canada.ca/en/health-canada/services/substance-use/supervised-consumption-sites/status-application.html#wb-auto-22"
+  }
+]
