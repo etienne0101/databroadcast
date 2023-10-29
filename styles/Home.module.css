@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&display=swap');
 
 .homecontainer {
     display: flex;
@@ -72,23 +73,21 @@
 }
 
 .item {
-    height: 350px;
+    height: 400px;
     width: 500px;
     display: flex; 
     flex-direction: column; 
     margin: 10px auto;
     border-radius: 10px;
     overflow: hidden;
-    background-color: white;
+    background-color: #fffcf5;
     cursor: pointer;
-    opacity: 0.9;
-    padding: 10px;
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transitions for smoothness */
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
 }
 
 .itemtitle, .itemdescription {
-    flex: none; /* Ensure they don't grow */
+    flex: none; 
 }
 
 .item:hover {
@@ -97,10 +96,10 @@
 }
 
 .itemtitle {
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Roboto Slab', serif;
     font-variation-settings: 'wght' 800;
     font-size: 1.4rem; 
-    padding: 0px 15px; 
+    padding: 10px 15px; 
 }
 
 @media (max-width: 600px) {
@@ -109,16 +108,18 @@
     }
 }
 .itemdescription {
-    padding: 0px 15px; 
-    font-size: 1rem; 
+    padding: 10px 15px; 
+    font-size: 1.2rem; 
     color: #666;
     text-align: left; 
+    font-family: 'Roboto Slab', serif;
 }
 
 .itemImage { 
     width: 100%; 
     object-fit: cover;
-    height: 50%;
+    height: 60%;
+    border-radius: 5px;
 }
 
 @media (max-width: 600px) {
