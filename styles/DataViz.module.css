@@ -47,6 +47,7 @@
     margin: 0 auto;
     flex-direction: column;
     align-items: center;
+    border-radius: 30px;
   }
 
   .data-link {
