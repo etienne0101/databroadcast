@@ -11,19 +11,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 0;
+    padding: 10px 0;
     background: linear-gradient(45deg, #ff71a0, #ffcd7c);
 }
 
 .logo {
     max-height: 80px;
-    margin-right: 150px; 
 }
 
 .navLink {
     text-decoration: none;
     color: rgb(255, 255, 255);
-    margin-left: 20px;
     font-size: 24px;
 }
 

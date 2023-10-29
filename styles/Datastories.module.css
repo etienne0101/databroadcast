@@ -30,7 +30,7 @@
 }
 
 .subtitle {
-  font-size: 3rem; 
+  font-size: 2.7rem; 
   font-family: 'Roboto Slab', serif;
   text-align: left;
   margin: 0 auto;
@@ -38,10 +38,9 @@
   margin-top: 20px;
   margin-bottom: 20px; 
   font-variation-settings: 'wght' 900;
-  background: linear-gradient(to right, #ff397b, #ffba4c);
   -webkit-background-clip: text;
   background-clip: text;
-  color: transparent;
+  color: #424242;
   letter-spacing: -0.03em;
 }
 
@@ -114,6 +113,11 @@
     .title{
       max-width: 100%;
       font-size: 50px;
+    }  
+    .subtitle{
+      max-width: 100%;
+      font-size: 35px;
+      text-align: left;
     }
 }
 
@@ -175,4 +179,27 @@
 
   .docButton:hover {
     background-color: #1a1a1a;
+}
+
+.data-link {
+  display: block;
+  margin-top: 20px;
+  padding: 8px 16px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFFFFF;
+  border: none;
+  background-color: #ffba4c;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 800;
+  transition: background-color 0.3s;
+  font-family: 'JetBrains Mono';
+  font-size: 20px;
+  width: fit-content;
+}
+
+.data-link:hover {
+  background-color: #ff397b;
 }

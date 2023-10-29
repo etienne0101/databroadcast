@@ -18,9 +18,9 @@ const DrugPolicies = () => {
             Lawmakers and Drug Statistics: The Art of Ignoring the Data
           </h1>
           <DataViz
-            title="Supervised injection sites"
-            description="Number of SIV per city"
-            dataLink="https://www.start.umd.edu/gtd/"
+            title="Supervised injection facilities"
+            description="Number of facilities per city"
+            dataLink="/documentation/drug-policies/siv-data"
           >
             <Locations />
           </DataViz>
