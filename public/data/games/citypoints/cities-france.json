@@ -1,0 +1,8 @@
+[
+    { "name": "Paris", "lat": 48.8566, "lon": 2.3522 },
+    { "name": "Lyon", "lat": 45.7640, "lon": 4.8357 },
+    { "name": "Marseille", "lat": 43.2965, "lon": 5.3698 },
+    { "name": "Toulouse", "lat": 43.6045, "lon": 1.4442 },
+    { "name": "Nice", "lat": 43.7102, "lon": 7.2620 },
+    { "name": "Carpentras", "lat": 44.0521, "lon": 5.0485 }
+]
