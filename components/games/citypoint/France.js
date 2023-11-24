@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, useMapEvents, Marker } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import ScoreTable from './ScoreFrance'
 import CircularProgress from './CircularProgress'
+import DistanceBar from './DistanceBar'
 import styles from '../../../styles/games/Citypoints.module.css'
 
 const locationIcon = new L.Icon({
@@ -21,7 +22,6 @@ const GuessLocationGame = () => {
   const [isGameFinished, setIsGameFinished] = useState(false)
   const [showResults, setShowResults] = useState(false)
   const [markerPosition, setMarkerPosition] = useState(null)
-  const [animationState, setAnimationState] = useState('')
   const progress = cities.length ? selectedCityIndex : 0 // Utilise selectedCityIndex directement
   const totalCities = cities.length
   const [isNextCityButtonActive, setIsNextCityButtonActive] = useState(false)
@@ -47,31 +47,33 @@ const GuessLocationGame = () => {
       })
   }, [])
 
+  useEffect(() => {
+    if (distance !== null) {
+      // Mise à jour de l'affichage de la distance dans le conteneur de progression
+      // Ajoute ici la logique pour mettre à jour l'affichage de la distance
+    }
+  }, [distance])
+
   const goToNextCity = () => {
     if (selectedCityIndex < cities.length - 1) {
       setResults([...results, { city: selectedCity.name, distance }])
       setSelectedCityIndex(selectedCityIndex + 1)
       setSelectedCity(cities[selectedCityIndex + 1])
       setDistance(null)
+      setMarkerPosition(null) // Ajoute cette ligne pour réinitialiser le marqueur
     } else {
       setResults([...results, { city: selectedCity.name, distance }])
       setIsGameFinished(true)
       setIsNextCityButtonActive(selectedCityIndex < cities.length - 1)
-
-      console.log(
-        'Jeu terminé. Cliquez sur "Voir les résultats" pour afficher les résultats.'
-      )
     }
   }
 
   const MapEvents = () => {
     useMapEvents({
       click(e) {
-        if (!selectedCity || isGameFinished) return
-
+        if (!selectedCity || isGameFinished || markerPosition) return
         const { lat, lng } = e.latlng
-        setMarkerPosition([lat, lng]) // Mise à jour de la position du marqueur
-
+        setMarkerPosition([lat, lng])
         const distance = calculateDistance(
           lat,
           lng,
@@ -79,14 +81,10 @@ const GuessLocationGame = () => {
           selectedCity.lon
         )
         setDistance(distance)
-
-        // Afficher le bouton après un délai
-        setTimeout(() => {}, 1000)
-
         setIsNextCityButtonActive(true)
       }
     })
-    return null // Plus besoin de retourner le bouton ici
+    return null
   }
 
   const calculateDistance = (lat1, lon1, lat2, lon2) => {
@@ -114,7 +112,7 @@ const GuessLocationGame = () => {
   if (cities.length === 0 || !selectedCity) {
     return <p>Chargement des données...</p>
   }
-
+  
   return (
     <div className={styles.globalContainer}>
       {!showResults && (
@@ -132,9 +130,9 @@ const GuessLocationGame = () => {
 
           <MapContainer
             center={[46.2276, 2.2137]}
-            zoom={6}
-            minZoom={6}
-            maxZoom={6}
+            zoom={5.8}
+            minZoom={5.8}
+            maxZoom={5.8}
             className={styles.mapContainer}
             scrollWheelZoom={false}
             dragging={false}
@@ -152,31 +150,37 @@ const GuessLocationGame = () => {
             <MapEvents />
           </MapContainer>
           <div className={styles.progressContainer}>
-          <div className={styles.buttonContainer}>
-          <button
-  className={`${styles.nextCityButton} ${isNextCityButtonActive ? styles.nextCityButtonActive : styles.nextCityButtonInactive}`}
-  onClick={() => {
-    if (isNextCityButtonActive) {
-      goToNextCity();
-      setIsNextCityButtonActive(false);
-    }
-  }}
-  disabled={!isNextCityButtonActive}
->
-  🏡 Ville suivante
-</button>
-
-</div>
+            <div className={styles.buttonContainer}>
+              <button
+                className={`${styles.nextCityButton} ${
+                  isNextCityButtonActive
+                    ? styles.nextCityButtonActive
+                    : styles.nextCityButtonInactive
+                }`}
+                onClick={() => {
+                  if (isNextCityButtonActive) {
+                    goToNextCity()
+                    setIsNextCityButtonActive(false)
+                  }
+                }}
+                disabled={!isNextCityButtonActive}
+              >
+                🏡 Ville suivante
+              </button>
+              {distance !== null && <DistanceBar distance={distance} />}
+            </div>
+            <div style={{ marginTop: '100px' }}> 
             <CircularProgress completed={progress} total={totalCities} />
+            </div>
           </div>
         </div>
       )}
       {showResults && (
         <div
           className={styles.resultsContainer}
-          style={{ width: '45%', height: '800px' }}
+          style={{ width: '100%', height: '800px' }}
         >
-          <h2 className={styles.resultsTitle}>Là où vous avez vécu</h2>
+          <h2 className={styles.resultsTitle}>Vous avez probablement vécu ici :</h2>
           <ScoreTable results={results} />
         </div>
       )}
