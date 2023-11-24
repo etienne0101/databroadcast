@@ -3,6 +3,7 @@ import React from 'react'
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import locationsData from '../../../../data/drug-policies/siv/locations.json'
+import styles from '../../../../styles/datastories/DrugPolicies.module.css'
 
 const getRadiusSize = (numberOfFacilities) => {
   if (numberOfFacilities === 1) return 5
@@ -23,7 +24,7 @@ const getFillColor = (numberOfFacilities) => {
 const Locations = () => {
   return (
     <MapContainer
-      center={[50.84, -24.35]}
+      center={[50.84, -44.35]}
       zoom={4}
       style={{ height: '700px', width: '100%' }}
     >
@@ -42,11 +43,11 @@ const Locations = () => {
           fillOpacity={0.6}
         >
           <Popup>
-            <b>{location.City}</b>
-            <br />
-            Country: {location.Country}
-            <br />
-            Number of facilities: {location['Number of facilities']}
+            <p className={styles['number-facilities']}>
+              <b>{location.City}</b>
+              <br></br>
+              {location['Number of facilities']}
+            </p>
           </Popup>
         </CircleMarker>
       ))}
