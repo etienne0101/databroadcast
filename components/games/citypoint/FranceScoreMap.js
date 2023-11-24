@@ -2,6 +2,8 @@ import React from 'react'
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import styles from '../../../styles/games/Citypoints.module.css'
+import ScoreSummary from './ScoreSummary'; // Assure-toi que le chemin d'importation est correct
+
 
 const FranceScoreMap = ({ scores, geojsonData }) => {
   const getColor = (departmentCode) => {
@@ -21,7 +23,7 @@ const FranceScoreMap = ({ scores, geojsonData }) => {
       layer.setStyle({
         fillColor: getColor(feature.properties.code),
         fillOpacity: 0.5,
-        color: '#4a4e69',
+        color: '#bfbdc1',
         weight: 1,
         opacity: 0.5
       })
@@ -29,12 +31,14 @@ const FranceScoreMap = ({ scores, geojsonData }) => {
   }
 
   return (
+    <div className={styles.mapWrapper}> {/* Ajout de cette div pour la structure */}
+
     <MapContainer
       height={800}
       center={[46.2276, 2.2137]}
-      zoom={6}
-      minZoom={6}
-      maxZoom={6}
+      zoom={5.8}
+      minZoom={5.8}
+      maxZoom={5.8}
       className={styles.mapContainer}
       scrollWheelZoom={false}
       dragging={false}
@@ -49,6 +53,11 @@ const FranceScoreMap = ({ scores, geojsonData }) => {
         onEachFeature={onEachFeature}
       />
     </MapContainer>
+    <div className={styles.scoreSummary}>
+        <ScoreSummary scores={scores} />
+      </div>
+    </div>
+
   )
 }
 
