@@ -32,19 +32,21 @@ const HomePage = () => {
       </div>
       <div className={styles.gallery}>
         {galleryData.map((item, index) => (
-          <Link href={item.link} key={index}>
-            <a className={styles.galleryLink}>
-              <GalleryItem
-                title={item.title}
-                description={item.description}
-                imagePath={item.imagePath}
-              />
-            </a>
+          <Link 
+            href={item.link} 
+            key={index}
+            className={styles.galleryLink} // Ajoute tes styles ici
+          >
+            <GalleryItem
+              title={item.title}
+              description={item.description}
+              imagePath={item.imagePath}
+            />
           </Link>
         ))}
       </div>
     </div>
-  )
+  )  
 }
 
 export default HomePage
