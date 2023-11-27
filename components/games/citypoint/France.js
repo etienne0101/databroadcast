@@ -25,6 +25,10 @@ const GuessLocationGame = () => {
   const progress = cities.length ? selectedCityIndex : 0 // Utilise selectedCityIndex directement
   const totalCities = cities.length
   const [isNextCityButtonActive, setIsNextCityButtonActive] = useState(false)
+  const [mainCities, setMainCities] = useState([]);
+  const [confirmationCities, setConfirmationCities] = useState([]);
+  const [totalPlayedCities, setTotalPlayedCities] = useState(14); // État pour le nombre total de villes jouées
+
 
   useEffect(() => {
     if (isGameFinished) {
@@ -39,34 +43,62 @@ const GuessLocationGame = () => {
     fetch('/data/games/citypoints/cities-france.json')
       .then((response) => response.json())
       .then((data) => {
-        setCities(data)
-        setSelectedCity(data[0])
+        const mainCities = data.filter(city => city.type === 'main');
+        const confirmationCities = data.filter(city => city.type === 'confirmation');
+        setMainCities(mainCities);
+        setConfirmationCities(confirmationCities);
+        setCities(mainCities);  // Démarre avec les villes principales
+        setSelectedCity(mainCities[0]);
+        setTotalPlayedCities(mainCities.length + 3);  // Fixe le total à 13 (10 principales + 3 de confirmation)
       })
       .catch((error) => {
-        console.error('Erreur lors du chargement des villes :', error)
-      })
-  }, [])
+        console.error('Erreur lors du chargement des villes :', error);
+      });
+  }, []);
+  
 
   useEffect(() => {
-    if (distance !== null) {
-      // Mise à jour de l'affichage de la distance dans le conteneur de progression
-      // Ajoute ici la logique pour mettre à jour l'affichage de la distance
+    if (selectedCityIndex === 11) {
+      const sortedResults = [...results].sort((a, b) => a.distance - b.distance);
+      const bestCities = sortedResults.slice(0, 3).map(result => result.city);
+      
+      const additionalCities = confirmationCities
+        .filter(city => bestCities.includes(city.mainCity))
+        .map(city => ({ name: city.name, lat: city.lat, lon: city.lon }));
+  
+      const uniqueAdditionalCities = additionalCities.filter((city, index, self) =>
+        index === self.findIndex((t) => (t.name === city.name))
+      );
+  
+      // Mettre à jour les villes et la ville sélectionnée en une seule étape
+      const updatedCities = [...cities, ...uniqueAdditionalCities];
+      setCities(updatedCities);
+      if (uniqueAdditionalCities.length > 0) {
+        setSelectedCity(uniqueAdditionalCities[0]);
+      }
+  
+      // Mise à jour du total des villes jouées
+      setTotalPlayedCities(mainCities.length + uniqueAdditionalCities.length);
     }
-  }, [distance])
+  }, [selectedCityIndex, results, confirmationCities, cities, mainCities]);
+  
 
   const goToNextCity = () => {
-    if (selectedCityIndex < cities.length - 1) {
-      setResults([...results, { city: selectedCity.name, distance }])
-      setSelectedCityIndex(selectedCityIndex + 1)
-      setSelectedCity(cities[selectedCityIndex + 1])
-      setDistance(null)
-      setMarkerPosition(null) // Ajoute cette ligne pour réinitialiser le marqueur
+    if (selectedCityIndex < totalPlayedCities - 1) {
+      setResults([...results, { city: selectedCity.name, distance }]);
+      const nextCity = cities[selectedCityIndex + 1];
+      if (nextCity !== selectedCity) {
+        setSelectedCity(nextCity);
+      }
+      setSelectedCityIndex(selectedCityIndex + 1);
+      setDistance(null);
+      setMarkerPosition(null);
     } else {
-      setResults([...results, { city: selectedCity.name, distance }])
-      setIsGameFinished(true)
-      setIsNextCityButtonActive(selectedCityIndex < cities.length - 1)
+      setIsGameFinished(true);
+      setIsNextCityButtonActive(false);
     }
-  }
+  };
+  
 
   const MapEvents = () => {
     useMapEvents({
@@ -110,8 +142,9 @@ const GuessLocationGame = () => {
   }
 
   if (cities.length === 0 || !selectedCity) {
-    return <p>Chargement des données...</p>
+    return <p>Chargement des données...</p>;
   }
+  
   
   return (
     <div className={styles.globalContainer}>
@@ -170,7 +203,7 @@ const GuessLocationGame = () => {
               {distance !== null && <DistanceBar distance={distance} />}
             </div>
             <div style={{ marginTop: '100px' }}> 
-            <CircularProgress completed={progress} total={totalCities} />
+            <CircularProgress completed={progress} total={totalPlayedCities} />
             </div>
           </div>
         </div>

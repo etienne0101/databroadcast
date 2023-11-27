@@ -1,0 +1,15 @@
+[
+    {
+      "mainCity": "Paris",
+      "confirmationCity": "Fontainebleau"
+    },
+    {
+      "mainCity": "Lyon",
+      "confirmationCity": "Chambéry"
+    },
+    {
+      "mainCity": "Marseille",
+      "confirmationCity": "Carpentras"
+    }
+  ]
+  
