@@ -35,3 +35,5 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ### Plot chart
 
 %%Viz:data=effectif-lycee,viztype=plotchart,x=2ndes_GT_filles,y=2ndes_GT_garçons,plotlabel=Patronyme%%
+
+%%Viz:data=effectif-lycee,viztype=plotchart,x=2ndes_GT_filles,y=2ndes_GT_garçons%%
