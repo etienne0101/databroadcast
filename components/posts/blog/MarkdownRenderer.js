@@ -2,6 +2,7 @@ import { marked } from 'marked';
 
 const MarkdownRenderer = ({ content }) => {
   const createMarkup = () => {
+    
     let html = marked(content);
 
     // Add class to headings
@@ -21,6 +22,9 @@ const MarkdownRenderer = ({ content }) => {
     // Add class to blockquote (quotes)
     html = html.replace(/<blockquote>/g, '<blockquote class="custom-quote">');
 
+    html = html.replace(/<pre>/g, '<pre class="custom-code">');
+
+    html = html.replace(/<code>(.*?)<\/code>/g, '<span class="custom-inline-code">$1</span>');
     
     html = html.replace(
         /%%Viz:data=(.*?),viztype=(.*?),x=(.*?),y=(.*?)(?:,plotlabel=(.*?))?%%/g,
@@ -33,14 +37,14 @@ const MarkdownRenderer = ({ content }) => {
         }
       );
       html = html.replace(
-        /%%Viz:data=(.*?),viztype=(.*?),view=(.*?)(?:,color=(.*?))?%%/g,
-        (match, dataUrl, vizType, view, colorField) => {
-            if (vizType === 'plotmap') {
-                return `<div class="dataviz-container" data-url="${dataUrl}" data-viztype="${vizType}" data-view="${view}"''}"></div>`;
-            }
+        /%%Viz:data=(.*?),viztype=plotmap,plotlabel=(.*?),view=(.*?)%%/g,
+        (match, dataUrl, plotLabel, view) => {
+          return `<div class="dataviz-container" data-url="${dataUrl}" data-viztype="plotmap" data-plotlabel="${plotLabel}" data-view="${view}"></div>`;
         }
-    );
-    console.log('Processed HTML:', html);
+      );
+      
+      
+      console.log('Processed HTML:', html); // Log processed HTML
 
     return { __html: html };
   };

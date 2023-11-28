@@ -91,6 +91,7 @@ img.next-image {
   margin-right: 15%;
   padding: 20px;
   border-radius: 20px; /* arrondir les coins */
+  font-size: 20px;
   font-family: 'PT Sans', sans-serif;
 }
 
@@ -147,7 +148,7 @@ img.next-image {
 .custom-quote {
   /* Style for blockquotes */
   border-left: 2px solid grey;
-  font-size: 18px;
+  font-size: 22px;
   margin: 10px 0;
   padding-left: 15px;
   font-style: italic;
@@ -155,6 +156,28 @@ img.next-image {
   margin-top: 0.8rem;
   margin-bottom: 0.8rem;
 }
+
+.custom-code {
+  background-color: #ededed;
+  color: #6d6d6d;
+  width: fit-content;
+  font-family: 'JetBrains Mono', monospace;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+.custom-inline-code {
+  background-color: #f0f0f0;
+  color: #575757;
+  padding: 2px 6px;
+  font-size: 18px;
+  border-radius: 4px;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
 
 .post-title {
   /* Styles for the post title */
