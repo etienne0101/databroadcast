@@ -38,8 +38,18 @@ export async function getServerSideProps(context) {
         console.log("Found containers:", containers.length); // Debugging line
 
         containers.forEach(container => {
-            const dataUrl = `/api/posts/data/${container.getAttribute('data-url')}`;
+            let dataUrl = `/api/posts/data/${container.getAttribute('data-url')}`;
             const vizType = container.getAttribute('data-viztype');
+            const xKey = container.getAttribute('data-xkey');
+            const yKey = container.getAttribute('data-ykey');
+            const plotLabel = container.getAttribute('data-plotlabel');
+        
+            // Add query parameters if they exist
+            const queryParams = new URLSearchParams();
+            if (xKey) queryParams.append('x', xKey);
+            if (yKey) queryParams.append('y', yKey);
+            if (plotLabel) queryParams.append('plotLabel', plotLabel);
+            if (queryParams.toString()) dataUrl += `?${queryParams.toString()}`;
 
             if (vizType === 'linechart') {
                 const xKey = container.getAttribute('data-xkey');
