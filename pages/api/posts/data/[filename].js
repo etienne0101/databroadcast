@@ -2,28 +2,35 @@
 import fs from 'fs';
 import path from 'path';
 import { parse } from 'csv-parse/sync';
+import jschardet from 'jschardet';
+import iconv from 'iconv-lite';
 
 export default async function handler(req, res) {
     const { filename } = req.query;
     
     try {
-        // Build the file path for the CSV
         const filePath = path.join(process.cwd(), 'posts', 'data', `${filename}.csv`);
+        let csvData = fs.readFileSync(filePath);
 
-        // Read the contents of the CSV file
-        const csvData = fs.readFileSync(filePath, 'utf8');
+        // Detect encoding
+        const { encoding } = jschardet.detect(csvData);
+        if (encoding !== 'utf-8' && encoding !== 'ascii') {
+            // Convert to UTF-8 if not already
+            csvData = iconv.decode(csvData, encoding);
+        }
 
-        // Parse the CSV into JSON
-        const records = parse(csvData, {
+        // Optional: Allow custom parse options via query parameters
+        const parseOptions = {
             columns: true,
             skip_empty_lines: true,
-            relax_quotes: true, // This will relax the handling of quotes in the CSV
-        });
+            relax_quotes: true,
+            ...req.query.parseOptions,
+        };
 
-        // Return the data as JSON
+        const records = parse(csvData, parseOptions);
         res.status(200).json(records);
     } catch (error) {
-        // Handle errors (file not found, reading error, etc.)
-        res.status(500).json({ message: 'Error reading the CSV file', error });
+        console.error('Error processing CSV:', error); // Improved error logging
+        res.status(500).json({ message: 'Error processing the CSV file', error: error.message });
     }
 }

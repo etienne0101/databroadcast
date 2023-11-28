@@ -21,6 +21,8 @@
     "geolib": "^3.3.4",
     "gray-matter": "^4.0.2",
     "highlight.js": "^11.8.0",
+    "iconv-lite": "^0.6.3",
+    "jschardet": "^3.0.0",
     "leaflet": "^1.9.4",
     "leaflet-heatmap": "^1.0.0",
     "leaflet.heat": "^0.2.0",
