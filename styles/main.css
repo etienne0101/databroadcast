@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Roboto&display=swap');
 
 *,
 *::before,
@@ -78,4 +79,95 @@ img.next-image {
   color: #333;
   font-size: 2rem;
   margin-top: 2rem;
+}
+
+/* Markdown CSS */
+
+.blog-post-container {
+  /* Style pour le conteneur du post de blog */
+  background-color: #ffffff;
+  margin-left: 15%;
+  color: #5f5f5f;
+  margin-right: 15%;
+  padding: 20px;
+  border-radius: 20px; /* arrondir les coins */
+  font-family: 'PT Sans', sans-serif;
+}
+
+.custom-h1 {
+  /* Style for h1 tags */
+  font-size: 3rem;
+  color: rgb(57, 57, 57);
+  margin-bottom: 1rem;
+  font-weight: 700;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.custom-h2 {
+  /* Style for h2 tags */
+  font-size: 2.5rem;
+  color: rgb(87, 87, 87);
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  font-weight: 800;
+}
+
+.custom-h3 {
+  /* Style for h3 tags */
+  font-size: 1.5rem;
+  color: rgb(53, 53, 53);
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  font-weight: 800;
+}
+
+.custom-link {
+  /* Style for links */
+  color: rgb(112, 169, 193);
+  text-decoration: none;
+}
+
+.custom-link:hover {
+  text-decoration: underline;
+}
+
+.custom-bold {
+  /* Style for bold text */
+  font-weight: bold;
+  color: black;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.custom-italic {
+  /* Style for italic text */
+  font-style: italic;
+  color: grey;
+}
+
+.custom-quote {
+  /* Style for blockquotes */
+  border-left: 2px solid grey;
+  font-size: 18px;
+  margin: 10px 0;
+  padding-left: 15px;
+  font-style: italic;
+  color: #555;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.post-title {
+  /* Styles for the post title */
+  font-size: 4rem;
+  color: #333;
+  margin-bottom: 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.dataviz-container {
+  display: block;
+  position: relative;
+  margin-top: 1rem;
+  margin: auto;
+  width: 100%; 
 }
