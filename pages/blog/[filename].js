@@ -35,24 +35,39 @@ export async function getServerSideProps(context) {
   const BlogPost = ({ content, metadata }) => {
     useEffect(() => {
         const containers = document.querySelectorAll('.dataviz-container');
-        console.log("Found containers:", containers.length); // Debugging line
-
+        console.log('DataViz Containers:', containers); // Log to see if plotmap container is present
+    
         containers.forEach(container => {
-            const dataUrl = `/api/posts/data/${container.getAttribute('data-url')}`;
+            const dataUrlBase = `/api/posts/data/${container.getAttribute('data-url')}`;
             const vizType = container.getAttribute('data-viztype');
+            const queryParams = new URLSearchParams({ vizType }); // Always include vizType
 
-            if (vizType === 'linechart') {
-                const xKey = container.getAttribute('data-xkey');
-                const yKey = container.getAttribute('data-ykey');
-                ReactDOM.render(<LineChart dataUrl={dataUrl} xKey={xKey} yKey={yKey} />, container);
-            } else if (vizType === 'plotchart') {
+            if (vizType === 'linechart' || vizType === 'plotchart') {
                 const xKey = container.getAttribute('data-xkey');
                 const yKey = container.getAttribute('data-ykey');
                 const plotLabel = container.getAttribute('data-plotlabel');
-                ReactDOM.render(<PlotChart dataUrl={dataUrl} xKey={xKey} yKey={yKey} plotLabel={plotLabel} />, container);
+
+                if (xKey) queryParams.append('x', xKey);
+                if (yKey) queryParams.append('y', yKey);
+                if (plotLabel) queryParams.append('plotLabel', plotLabel);
+
+                const dataUrl = `${dataUrlBase}?${queryParams.toString()}`;
+                console.log(`API URL for ${vizType}:`, dataUrl);
+
+
+                if (vizType === 'linechart') {
+                    ReactDOM.render(<LineChart dataUrl={dataUrl} xKey={xKey} yKey={yKey} />, container);
+                } else if (vizType === 'plotchart') {
+                    ReactDOM.render(<PlotChart dataUrl={dataUrl} xKey={xKey} yKey={yKey} plotLabel={plotLabel} />, container);
+                }
             } else if (vizType === 'plotmap') {
                 const view = container.getAttribute('data-view');
-                const colorField = container.getAttribute('data-color');
+                const plotLabel = container.getAttribute('data-plotlabel');
+                const colorField = container.getAttribute('data-color'); // if you use colorField
+
+                if (plotLabel) queryParams.append('plotLabel', plotLabel);
+                const dataUrl = `${dataUrlBase}?${queryParams.toString()}`;
+
                 ReactDOM.render(<PlotMap dataUrl={dataUrl} view={view} colorField={colorField} />, container);
             }
         });
