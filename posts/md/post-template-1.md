@@ -32,6 +32,16 @@ You can add some more text here, as a paragraph.
 
 ## Insert charts and maps
 
+To generate a visualisation, **you will need to type a single line syntax** between `%%` tags
+
+<br/>
+
+Then you will need to add attributes to the visualisation, such as `data`, `viztype`, `x` and `y` axis...
+
+<br/>
+
+Every attribute must have a value, and this value can either **depend on your data** (like`data`, `x` and `y` axis ), **or be defined by this documentation**, such as `viztype`.
+
 ### Line chart
 
 #### Upload data
@@ -44,10 +54,12 @@ Then, insert the visualisation with the `Viz` syntax.
 
 #### Viz attributes
 
+<br/>
+
 `data` : the file name. Example: *cars*, and not *cars.csv*
 `viztype` : the visualisation type. Example: *linechart*
-`x` : the field want to see as the x axis. Example: *age*
-`y` : the field want to see as the y axis. Example: *count*
+`x` : the field you want to see as the x axis. Example: *age*
+`y` : the field you want to see as the y axis. Example: *count*
 
 <br/>
 
@@ -90,8 +102,8 @@ Then, insert the visualisation with the `Viz` syntax.
 
 `data` : the file name. Example: *cars*, and not *cars.csv*
 `viztype` : the visualisation type. Example: *plotchart*
-`x` : the field want to see as the x axis. Example: *age*
-`y` : the field want to see as the y axis. Example: *count*
+`x` : the field you want to see as the x axis. Example: *age*
+`y` : the field you want to see as the y axis. Example: *count*
 `plotlabel` : the value you want to be shown as info on the map markers. Example: *car_model*
 
 <br/>

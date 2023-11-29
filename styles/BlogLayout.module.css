@@ -22,21 +22,28 @@
   
   .navList li {
     margin: 0 20px;
-  }
-  
-  .navList a {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    font-size: 18px;
-    padding: 2px 20px;
-    background-color: #000000;
-    border-radius: 5px;
+    margin-top: 1rem;
   }
 
-  .navList a:hover {
-    color: rgb(59, 59, 59);
+  .navList a {
+    color: #5d7185;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 2px 20px;
     background-color: #ffffff;
+    border-radius: 5px;
+    transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease; /* Add box-shadow to transition */
+    box-shadow: 0 0 15px 1px rgba(74, 152, 162, 0.3); /* Increased blur on hover */
+    font-family: 'PT Sans', sans-serif;
   }
+  
+  .navList a:hover {
+    color: #ffffff;
+    background-color: #5d7185;
+    transform: scale(1.09); /* Scale up the element slightly */
+    box-shadow: 0 0 8px 1px #5d7185; /* Initial subtle blur */
+  }
+
   
   .mainContent {
     flex: 1;
