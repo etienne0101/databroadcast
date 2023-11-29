@@ -28,7 +28,7 @@ const PlotChart = ({ dataUrl, xKey, yKey, plotLabel, colorKey }) => {
   const assignColor = (value, colorMap) => {
     if (!colorMap[value]) {
       // Use hsla format to include opacity
-      colorMap[value] = `hsla(${Object.keys(colorMap).length * 500.00}, 60%, 60%, 0.5)`;
+      colorMap[value] = `hsla(${Object.keys(colorMap).length * 500.200}, 60%, 60%, 0.5)`;
     }
     return colorMap[value];
   };

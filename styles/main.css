@@ -98,7 +98,7 @@ img.next-image {
 .custom-h1 {
   /* Style for h1 tags */
   font-size: 3rem;
-  color: rgb(57, 57, 57);
+  color: #5d7185;
   margin-bottom: 1rem;
   font-weight: 700;
   font-family: 'PT Sans', sans-serif;
@@ -107,7 +107,7 @@ img.next-image {
 .custom-h2 {
   /* Style for h2 tags */
   font-size: 2.5rem;
-  color: rgb(87, 87, 87);
+  color: #5d7185;
   margin-bottom: 1rem;
   margin-top: 3rem;
   font-weight: 800;
@@ -116,7 +116,7 @@ img.next-image {
 .custom-h3 {
   /* Style for h3 tags */
   font-size: 1.5rem;
-  color: rgb(53, 53, 53);
+  color: #5d7185;
   margin-bottom: 1rem;
   margin-top: 3rem;
   font-weight: 800;
@@ -125,7 +125,7 @@ img.next-image {
 .custom-h4 {
   /* Style for h3 tags */
   font-size: 1.2rem;
-  color: rgb(53, 53, 53);
+  color: #5d7185;
   margin-bottom: 1rem;
   margin-top: 1rem;
   font-weight: 800;
@@ -168,7 +168,7 @@ img.next-image {
 .custom-hint {
   background-color: #d6ebff;
   width: fit-content;
-  color: #024788;
+  color: #5d7185;
   padding: 5px;
   border-radius: 5px;
   margin-left: 0.5rem;
@@ -200,7 +200,7 @@ img.next-image {
 .post-title {
   /* Styles for the post title */
   font-size: 4rem;
-  color: #333;
+  color: #5d7185;
   margin-bottom: 20px;
   font-family: 'PT Sans', sans-serif;
 }

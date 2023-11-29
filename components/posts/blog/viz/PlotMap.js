@@ -43,10 +43,10 @@ const PlotMap = ({ dataUrl, view }) => {
 
             if (!isNaN(latitude) && !isNaN(longitude)) {
                 L.circleMarker([latitude, longitude], {
-                    color: '#024788',
-                    fillColor: '#ededed',
+                    color: 'transparent',
+                    fillColor: '#024788',
                     fillOpacity: 0.7,
-                    radius: 5
+                    radius: 4
                 }).addTo(map)
                   .bindPopup(`${plotLabelKey}: ${item[plotLabelKey] || 'Details not available'}`);
             } else {
