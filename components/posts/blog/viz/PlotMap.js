@@ -43,8 +43,8 @@ const PlotMap = ({ dataUrl, view }) => {
 
             if (!isNaN(latitude) && !isNaN(longitude)) {
                 L.circleMarker([latitude, longitude], {
-                    color: 'black',
-                    fillColor: '#f03',
+                    color: '#024788',
+                    fillColor: '#ededed',
                     fillOpacity: 0.7,
                     radius: 5
                 }).addTo(map)
