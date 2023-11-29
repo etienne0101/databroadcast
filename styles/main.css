@@ -122,9 +122,19 @@ img.next-image {
   font-weight: 800;
 }
 
+.custom-h4 {
+  /* Style for h3 tags */
+  font-size: 1.2rem;
+  color: rgb(53, 53, 53);
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  font-weight: 800;
+}
+
+
 .custom-link {
   /* Style for links */
-  color: rgb(112, 169, 193);
+  color: #3787d2;
   text-decoration: none;
 }
 
@@ -135,47 +145,55 @@ img.next-image {
 .custom-bold {
   /* Style for bold text */
   font-weight: bold;
-  color: black;
   font-family: 'PT Sans', sans-serif;
 }
 
 .custom-italic {
   /* Style for italic text */
   font-style: italic;
-  color: grey;
 }
 
 .custom-quote {
   /* Style for blockquotes */
-  border-left: 2px solid grey;
+  border-left: 6px solid #5d7185;
   font-size: 22px;
-  margin: 10px 0;
+  margin-left: 1rem;
   padding-left: 15px;
   font-style: italic;
-  color: #555;
-  margin-top: 0.8rem;
+  color: #5d7185;
+  margin-top: 1rem;
   margin-bottom: 0.8rem;
+}
+
+.custom-hint {
+  background-color: #d6ebff;
+  width: fit-content;
+  color: #024788;
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .custom-code {
   background-color: #ededed;
-  color: #6d6d6d;
+  color: #5f5f5f;
   width: fit-content;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'Inconsolata', sans-serif;
   margin-top: 5px;
   margin-bottom: 5px;
-  padding: 5px;
   border-radius: 5px;
 }
 
 
 .custom-inline-code {
   background-color: #f0f0f0;
-  color: #575757;
-  padding: 2px 6px;
+  color: #616161;
+  padding: 0px 6px;
   font-size: 18px;
   border-radius: 4px;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Inconsolata', sans-serif;
 }
 
 

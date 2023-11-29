@@ -3,7 +3,7 @@ import path from 'path';
 import { parse } from 'csv-parse/sync';
 
 export default async function handler(req, res) {
-    const { filename, x, y, plotLabel, vizType } = req.query;
+    const { filename, x, y, plotLabel, vizType, color } = req.query; // Include color in the query parameters
     
     try {
         const filePath = path.join(process.cwd(), 'posts', 'data', `${filename}.csv`);
@@ -17,19 +17,34 @@ export default async function handler(req, res) {
         let finalRecords;
 
         if (vizType === 'plotmap') {
-            // For plotmap, always include lat and lon, and plotLabel if it exists
+            // For plotmap, always include lat, lon, plotLabel, and color (if exists)
             finalRecords = records.map(record => ({
                 lat: record.lat || record.latitude,
                 lon: record.lon || record.longitude,
-                ...(plotLabel && { [plotLabel]: record[plotLabel] }) // Include plotLabel if it exists
+                ...(plotLabel && { [plotLabel]: record[plotLabel] }), // Include plotLabel if it exists
+                ...(color && { [color]: record[color] }) // Include color field if it exists
             }));
+            if (vizType === 'plotchart') {
+                const colorKey = container.getAttribute('data-colorkey');
+                ReactDOM.render(
+                  <PlotChart 
+                    dataUrl={dataUrl} 
+                    xKey={xKey} 
+                    yKey={yKey} 
+                    plotLabel={plotLabel} 
+                    colorKey={colorKey} 
+                  />, 
+                  container
+                );
+              }
         } else {
-            // For other types, filter based on x, y, and plotLabel
+            // For other types, filter based on x, y, plotLabel, and color
             finalRecords = records.map(record => {
                 let filteredRecord = {};
                 if (x) filteredRecord[x] = record[x];
                 if (y) filteredRecord[y] = record[y];
                 if (plotLabel) filteredRecord[plotLabel] = record[plotLabel];
+                if (color) filteredRecord[color] = record[color]; // Include color field in the filtering
                 return filteredRecord;
             }).filter(record => Object.keys(record).length > 0); // Filter out empty records
         }

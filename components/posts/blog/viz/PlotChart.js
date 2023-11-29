@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react'
-import { Scatter } from 'react-chartjs-2'
+import React, { useEffect, useState } from 'react';
+import { Scatter } from 'react-chartjs-2';
 import {
   Chart,
   CategoryScale,
@@ -9,9 +9,8 @@ import {
   Title,
   Tooltip,
   Legend
-} from 'chart.js'
+} from 'chart.js';
 
-// Register the components
 Chart.register(
   CategoryScale,
   LinearScale,
@@ -20,74 +19,86 @@ Chart.register(
   Title,
   Tooltip,
   Legend
-)
+);
 
-const PlotChart = ({ dataUrl, xKey, yKey, plotLabel }) => {
-  const [chartData, setChartData] = useState({})
-  const [chartOptions, setChartOptions] = useState({})
+const PlotChart = ({ dataUrl, xKey, yKey, plotLabel, colorKey }) => {
+  const [chartData, setChartData] = useState({});
+  const [chartOptions, setChartOptions] = useState({});
+
+  const assignColor = (value, colorMap) => {
+    if (!colorMap[value]) {
+      // Use hsla format to include opacity
+      colorMap[value] = `hsla(${Object.keys(colorMap).length * 500.00}, 60%, 60%, 0.5)`;
+    }
+    return colorMap[value];
+  };
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch(dataUrl)
-      let data = await response.json()
+      const response = await fetch(dataUrl);
+      let data = await response.json();
 
-      if (!Array.isArray(data)) {
-        console.error('Data is not an array:', data)
-        data = []
-      }
+      let colorMap = {};
+      let datasets = {};
+
+      data.forEach(item => {
+        const colorValue = item[colorKey];
+        const color = assignColor(colorValue, colorMap);
+
+        if (!datasets[colorValue]) {
+          datasets[colorValue] = {
+            label: colorValue,
+            data: [],
+            backgroundColor: color
+          };
+        }
+
+        datasets[colorValue].data.push({
+          x: Number(item[xKey]),
+          y: Number(item[yKey]),
+          additionalLabel: item[plotLabel]
+        });
+      });
 
       setChartData({
-        datasets: [
-          {
-            label: 'Scatter Dataset',
-            data: data.map((item) => ({
-              x: Number(item[xKey]),
-              y: Number(item[yKey]),
-              additionalLabel: item[plotLabel] // Include the additional label in the data point
-            })),
-            backgroundColor: '#c0d6df'
-          }
-        ]
-      })
-      
-      // Update chart options with dynamic axis titles
-      setChartOptions({
-        scales: {
-          x: {
-            title: {
-              display: true,
-              text: xKey.replace(/_/g, ' ') // Replaces underscores with spaces for readability
-            }
-          },
-          y: {
-            title: {
-              display: true,
-              text: yKey.replace(/_/g, ' ') // Replaces underscores with spaces for readability
-            }
+        datasets: Object.values(datasets)
+      });
+    };
+
+    fetchData();
+
+    setChartOptions({
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: xKey.replace(/_/g, ' ')
           }
         },
-        plugins: {
-          legend: {
-            display: false,
-            position: 'top'
-          },
+        y: {
           title: {
-            display: false,
-            text: 'Chart Title' // You can also dynamically set this if needed
-          },
-          tooltip: {
-            callbacks: {
-              label: (context) => {
-                const additionalLabel = context.raw.additionalLabel || ''; // Access the additional label
-                return `${plotLabel}: ${additionalLabel}`;
-              }
+            display: true,
+            text: yKey.replace(/_/g, ' ')
+          }
+        }
+      },
+      plugins: {
+        legend: {
+          display: true,
+          position: 'bottom'
+        },
+        tooltip: {
+          callbacks: {
+            label: (context) => {
+              const label = context.dataset.label;
+              const additionalLabel = context.raw.additionalLabel || '';
+              return `${label} - ${plotLabel}: ${additionalLabel}`;
             }
           }
         }
-      })
-    }
-    fetchData()
-  }, [dataUrl, xKey, yKey, plotLabel])
+      }
+    });
+  }, [dataUrl, xKey, yKey, plotLabel, colorKey]);
 
   return (
     <div>
@@ -97,7 +108,7 @@ const PlotChart = ({ dataUrl, xKey, yKey, plotLabel }) => {
         <p>Loading chart...</p>
       )}
     </div>
-  )
-}
+  );
+};
 
-export default PlotChart
+export default PlotChart;
